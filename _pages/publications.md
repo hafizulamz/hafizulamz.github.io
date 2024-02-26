@@ -7,9 +7,77 @@ nav: true
 nav_order: 2
 ---
 
+<div class="projects">
+  <h2 class="category">metrics</h2>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+		<a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah" style="text-decoration:none">
+		  <div class="card hoverable"><div class="card-body">
+			  <h2 class="card-title text-lowercase">11,400+</h2>
+			  <p class="card-text">reads on RG</p>
+		  </div></div>
+		</a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+		<a href="https://www.scopus.com/authid/detail.uri?authorId=57208809529" style="text-decoration:none">
+		  <div class="card hoverable"><div class="card-body">
+			  <h2 class="card-title text-lowercase">67</h2>
+			  <p class="card-text">citations (Scopus)</p>
+		  </div></div>
+		</a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+		<a href="https://www.scopus.com/authid/detail.uri?authorId=57208809529" style="text-decoration:none">
+		  <div class="card hoverable"><div class="card-body">
+			  <h2 class="card-title text-lowercase">5</h2>
+			  <p class="card-text">h-index (Scopus)</p>
+		  </div></div>
+		</a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+		<a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en" style="text-decoration:none">
+		  <div class="card hoverable"><div class="card-body">
+			  <h2 class="card-title text-lowercase">3</h2>
+			  <p class="card-text">Q1/Q2 publications</p>
+		  </div></div>
+		</a>
+    </div>
+</div>
+
+
 <!-- _pages/publications.md -->
 <div class="publications">
-
 {% bibliography %}
+</div>
 
+
+<hr>
+<h3 class="mt-4">notable co-authors</h3>
+<div class="col">
+    <ul>
+      <li><a href="https://shakirahabaziz.wixsite.com/dr-shakirahaziz/home">Norshakirah Aziz</a></li>
+      <li><a href="https://community.uthm.edu.my/cv/muhaini">Muhaini Othman</a></li>
+	  <li><a href="https://community.uthm.edu.my/cv/shahreen">Shahreen Kasim</a></li>
+	  <li><a href="https://scholar.google.com/citations?hl=en&user=voBMIPEAAAAJ">Noureen Talpur</a></li>
+	  <li><a href="https://community.uthm.edu.my/cv/hairuln">Hairulnizam Mahdin</a></li>
+	  <li><a href="https://community.uthm.edu.my/cv/azizulr">Azizul Azhar Ramli</a></li>
+    </ul>
+</div>
+
+<hr>
+<h3 class="mt-4">let's connect</h3>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        01. <b>ORCID</b><br><a href="https://orcid.org/0000-0002-1427-2571">View my ORCID ></a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        02. <b>ResearchGate</b><br><a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah">Connect on RG ></a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        03. <b>Google Scholar</b><br><a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ">View on Scholar ></a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        04. <b>Scopus</b><br><a href="https://www.scopus.com/authid/detail.uri?authorId=57208809529">Browse Scopus ></a>
+    </div>
 </div>
