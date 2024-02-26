@@ -13,7 +13,7 @@ footer_text: >
     Visit my <a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en" target="_blank">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah" target="_blank">ResearchGate</a>.
 keywords: hafizul, hafizul-abdullah, hafizul-afifi, utp, uthm, researcher, universiti-teknologi-petronas, cerdas   # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://hafizulamz.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
