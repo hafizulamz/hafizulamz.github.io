@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cerdas.utp.edu.my/cerdas/'>Centre for Research in Data Science (CeRDaS), Universiti Teknologi PETRONAS</a>
+subtitle: [Centre for Research in Data Science (CeRDaS), Universiti Teknologi PETRONAS](https://cerdas.utp.edu.my/cerdas/)'>
 
 profile:
   align: right
