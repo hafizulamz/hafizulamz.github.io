@@ -9,7 +9,7 @@ profile:
   image: me.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Centre for Research in Data Science (CeRDaS)</p>
+    <p>Centre for Research in Data Science</p>
     <p>Universiti Teknologi PETRONAS</p>
     <p>32610 Seri Iskandar, Perak, MALAYSIA</p>
 
