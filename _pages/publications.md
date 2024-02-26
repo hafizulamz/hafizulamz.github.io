@@ -20,7 +20,7 @@ nav_order: 2
 		</a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-		<a href="https://www.scopus.com/authid/detail.uri?authorId=57208809529" style="text-decoration:none">
+		<a hrefxx="" style="text-decoration:none">
 		  <div class="card hoverable"><div class="card-body">
 			  <h2 class="card-title text-lowercase">72</h2>
 			  <p class="card-text">citations (Scopus)</p>
@@ -28,7 +28,7 @@ nav_order: 2
 		</a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-		<a href="https://www.scopus.com/authid/detail.uri?authorId=57208809529" style="text-decoration:none">
+		<a hrefxx="" style="text-decoration:none">
 		  <div class="card hoverable"><div class="card-body">
 			  <h2 class="card-title text-lowercase">6</h2>
 			  <p class="card-text">h-index (Scopus)</p>
@@ -76,8 +76,5 @@ nav_order: 2
     </div>
     <div class="col-sm mt-3 mt-md-0">
         03. <b>Google Scholar</b><br>[View on Scholar >](https://scholar.google.com/citations?user=mWsihrgAAAAJ)
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        04. <b>Scopus</b><br>[Browse Scopus >](https://www.scopus.com/authid/detail.uri?authorId=57208809529)
     </div>
 </div>
