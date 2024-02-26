@@ -23,6 +23,4 @@ Mohd Hafizul Afifi bin Abdullah is a Ph.D. candidate in information technology a
 
 He has elaborate teaching experience and serves as a tutor for undergraduate students, trainer at the UTP Centre for Advanced and Professional Education (CAPE), and received the Best Tutor Award in the UTP Postgraduate Appreciation Ceremony 2021. His research is related to Predictive Analytics, Big Data Analytics, Artificial Intelligence, and Machine Learning. He also serves as a reviewer for the Journal of King Saud University - Computer and Information Sciences (JKSU-CIS), Computers, Materials and Continua (CMC), and Computer Systems Science and Engineering (CSSE).
 
-Connect with Hafizul to stay updated on his latest research and insights, and to learn more about how he can help you achieve your goals in this field.
-
-Let's connect on [ResearchGate](https://www.researchgate.net/profile/Mohd_Hafizul_Afifi_Abdullah) | [Google Scholar](https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-1427-2571) | [LinkedIn](https://www.linkedin.com/in/hafizulamz/)
+Get connected with Hafizul to stay updated on his latest research and insights on [ResearchGate](https://www.researchgate.net/profile/Mohd_Hafizul_Afifi_Abdullah), [Google Scholar](https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-1427-2571), or [LinkedIn](https://www.linkedin.com/in/hafizulamz/).
