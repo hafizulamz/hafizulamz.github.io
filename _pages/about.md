@@ -6,7 +6,7 @@ subtitle: <a href='#'>Centre for Research in Data Science (CeRDaS), Universiti T
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Centre for Research in Data Science (CeRDaS)</p>
