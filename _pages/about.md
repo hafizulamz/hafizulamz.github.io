@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Centre for Research in Data Science, Universiti Teknologi PETRONAS](https://cerdas.utp.edu.my/cerdas/)
+subtitle: [Centre for Research in Data Science Universiti Teknologi PETRONAS](https://cerdas.utp.edu.my/cerdas/)
 
 profile:
   align: right
