@@ -168,7 +168,7 @@ I'm a passionate educator dedicated to engaging students in `Active Learning` an
 <h3 class="mt-4">workshops and trainings</h3>
 <div class="col">
     <ul>
-      <li>Assistant trainer for the "Digital Transformation for the Future of Works: Big Data, AI and Machine Learning" course by <a href="https://cerdas.utp.edu.my/cerdas/">CeRDaS-UTP</a>.</li>
+      <li>Assistant trainer for the "Digital Transformation for the Future of Works: Big Data, AI and Machine Learning" course by CeRDaS-UTP.</li>
       <li>Trainer for the 3 days course of "Business Analytics using Power BI for M&amp;H Department", UTP.</li>
 	  <li><a href="https://www.pythoncheatsheet.org/">Some notes</a> on writing Python libraries.</li>
     </ul>
