@@ -14,19 +14,19 @@ profiles:
     content: bio-01.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
+      <!--<p>555 your office number</p>-->
 
   - align: left
     image: shortcourse.jpg
     content: bio-02.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
+      <!--<p>555 your office number</p>-->
 
   - align: right
     image: jomLaunch4.jpg
     content: bio-03.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
+      <!--<p>555 your office number</p>-->
 ---
