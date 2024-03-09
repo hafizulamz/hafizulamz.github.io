@@ -12,7 +12,7 @@ In this study, my co-authors and I reviewed the most recent strategies for extra
 
 Our research analysis, based on 161 selected studies, revealed that state-of-the-art models primarily leverage deep learning to extract information from textual data. By providing a holistic perspective of this domain, our study aims to guide novice and experienced researchers in their future research and serve as a foundational resource for this research area.
 
-I would also like to express my gratitude to Universiti Teknologi PETRONAS for providing research facilities and funding, which made this study possible. I hope this study proves valuable to anyone interested in IE from textual data. We welcome any questions or feedback you may have. Full access to the article is available via <a href='https://doi.org/10.1109/ACCESS.2023.3240898'>https://doi.org/10.1109/ACCESS.2023.3240898</a>
+I would also like to express my gratitude to Universiti Teknologi PETRONAS for providing research facilities and funding, which made this study possible. I hope this study proves valuable to anyone interested in IE from textual data. We welcome any questions or feedback you may have. Full access to the article is available via [IEEE Xplore](https://ieeexplore.ieee.org/document/10032132){:target="_blank"}.
 
 #### Co-authors:
 Norshakirah Aziz, Said Jadid Abdulkadir, Dr. Hitham Alhussian, Noureen Talpur
