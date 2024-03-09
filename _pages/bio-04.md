@@ -19,5 +19,5 @@
     </div>
 </div>
 <div class="caption">
-    Where words fail, music speaks. _-Hans Christian Andersen_
+    "Where words fail, music speaks." _-Hans Christian Andersen_
 </div>
