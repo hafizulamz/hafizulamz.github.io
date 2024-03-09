@@ -8,7 +8,7 @@ profile:
   align: right
   image: me.png
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
     <p>Centre for Research in Data Science</p>
     <p>Universiti Teknologi PETRONAS</p>
     <p>32610 Seri Iskandar, Perak, MALAYSIA</p>
