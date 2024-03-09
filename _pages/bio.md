@@ -18,7 +18,7 @@ profiles:
 
   - align: left
     image: shortcourse.jpg
-    content: about_einstein.md
+    content: bio-02.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
