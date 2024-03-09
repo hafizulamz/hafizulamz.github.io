@@ -29,4 +29,11 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <!--<p>555 your office number</p>-->
+
+  - align: right
+    image: 
+    content: bio-04.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <!--<p>555 your office number</p>-->
 ---
