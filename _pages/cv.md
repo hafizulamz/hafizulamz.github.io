@@ -5,6 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: CV_Hafizul_Abdullah.pdf
-description: Hafizul Abdullah CV
+description: Hafizul Abdullah specializes in Information Extraction, Predictive Analytics, Big Data Analytics, AI/ML
+toc:
   sidebar: left
 ---
