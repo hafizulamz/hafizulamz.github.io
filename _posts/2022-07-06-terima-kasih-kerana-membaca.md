@@ -7,15 +7,9 @@ tags: pesanan
 categories: 
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20220706-kereta.jpg" title="kereta" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20220706-kereta.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
