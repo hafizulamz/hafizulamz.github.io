@@ -13,9 +13,6 @@ nav_order: 6
         {% include figure.liquid loading="eager" path="assets/img/teaching.jpg" title="teaching experiences" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
 I'm a passionate educator dedicated to engaging students in `Active Learning` and `Outcome Based Education`. Experienced in teaching small and large groups while fostering `positive relationships` with students.
 
