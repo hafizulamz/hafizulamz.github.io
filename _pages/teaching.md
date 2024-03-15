@@ -13,7 +13,7 @@ nav_order: 6
     </div>
 </div>
 
-I'm a passionate educator dedicated to engaging students in `Active Learning` and `Outcome Based Education`. Experienced in teaching small and large groups while fostering `positive relationships` with students.
+<b>My teaching philosophy</b>: I'm a passionate educator dedicated to engaging students in `Active Learning` and `Outcome Based Education`. Experienced in teaching small and large groups while fostering `positive relationships` with students.
 
 <h3 class="mt-4">Universiti Teknologi PETRONAS</h3>
 
