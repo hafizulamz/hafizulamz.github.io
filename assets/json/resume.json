@@ -49,23 +49,23 @@
       "institution": "Universiti Tun Hussein Onn Malaysia",
       "location": "Batu Pahat, MY",
       "url": "https://www.uthm.edu.my/en/",
-      "area": "Information Technology",
+      "area": "Information Technology (Research Mode)",
       "studyType": "MSC",
       "startDate": "2020-12-31",
       "endDate": "2017-03-01",
       "score": "Pass",
-      "courses": ["Information Technology (Research Mode)"]
+      "courses": ["Thesis Title: Improved Personalised Data Modelling Using Parameter Independent Fuzzy Weighted k-Nearest Neighbour for Spatio/Spectro-Temporal Data"]
     },
     {
       "institution": "Universiti Tun Hussein Onn Malaysia",
       "location": "Batu Pahat, MY",
       "url": "https://www.uthm.edu.my/en/",
-      "area": "Computer Science",
+      "area": "Computer Science (Web Technology)",
       "studyType": "BCS",
       "startDate": "2016-12-31",
       "endDate": "2013-09-01",
       "score": "3.74",
-      "courses": ["Computer Science (Web Technology)"]
+      "courses": ["Thesis Title: Research on Improving Dominant Yeast Genes for Gene Function Prediction"]
     }
   ],
   "awards": [
