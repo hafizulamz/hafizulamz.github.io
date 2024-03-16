@@ -7,6 +7,32 @@ nav: true
 nav_order: 6
 ---
 
+<div class="projects">
+  <h2 class="category">metrics</h2>
+</div>
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <a hrefxx="" style="text-decoration:none">
+      <div class="card hoverable"><div class="card-body">
+        <p class="card-text">Teaching Performance Rating</p>
+	<h2 class="card-title text-lowercase">4.90 / 5.0</h2>
+        <p class="card-text">based on 59 responses</p>
+      </div></div>
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a hrefxx="" style="text-decoration:none">
+      <div class="card hoverable"><div class="card-body">
+        <p class="card-text">Student Support Rating</p>
+	<h2 class="card-title text-lowercase">4.93 / 5.0</h2>
+        <p class="card-text">based on 59 responses</p>
+      </div></div>
+    </a>
+  </div>
+</div>
+
+
+<!-- _pages/teaching.md -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/teaching.jpg" title="teaching experiences" class="img-fluid rounded z-depth-1" %}
