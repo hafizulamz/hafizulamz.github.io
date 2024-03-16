@@ -5,7 +5,7 @@ title: teaching
 description: classes, workshops, and teaching materials.
 nav: true
 nav_order: 3
-display_categories: [Universiti Teknologi PETRONAS]
+display_categories: [Universiti Teknologi PETRONAS, Universiti Tun Hussein Onn Malaysia]
 horizontal: false
 ---
 
