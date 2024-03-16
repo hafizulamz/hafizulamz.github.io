@@ -46,26 +46,26 @@
   ],
   "education": [
     {
-      "institution": "Universiti Tun Hussein Onn Malaysia, Batu Pahat, Malaysia",
+      "institution": "Universiti Tun Hussein Onn Malaysia",
       "location": "Batu Pahat, Malaysia",
       "url": "https://www.uthm.edu.my/en/",
-      "area": "Computer Science (Web Technology)",
+      "area": "Information Technology",
+      "studyType": "MSC",
+      "startDate": "2020-12-31",
+      "endDate": "2017-03-01",
+      "score": "Pass",
+      "courses": ["Information Technology (Research Mode)"]
+    },
+    {
+      "institution": "Universiti Tun Hussein Onn Malaysia",
+      "location": "Batu Pahat, Malaysia",
+      "url": "https://www.uthm.edu.my/en/",
+      "area": "Computer Science",
       "studyType": "BCS",
       "startDate": "2016-12-31",
       "endDate": "2013-09-01",
       "score": "3.74",
-      "courses": ["Web Technology"]
-    },
-    {
-      "institution": "University of Zurich, Batu Pahat, Malaysia",
-      "location": "Batu Pahat, Malaysia",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Computer Science (Web Technology)"]
     }
   ],
   "awards": [
