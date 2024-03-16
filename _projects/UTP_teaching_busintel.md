@@ -4,7 +4,7 @@ title: Business Intelligence
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: teaching
+category: Universiti Teknologi PETRONAS
 related_publications: true
 ---
 
