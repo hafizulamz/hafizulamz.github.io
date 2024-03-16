@@ -11,38 +11,38 @@ nav_order: 2
   <h2 class="category">metrics</h2>
 </div>
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-		<a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah" style="text-decoration:none">
-		  <div class="card hoverable"><div class="card-body">
-			  <h2 class="card-title text-lowercase">12,100+</h2>
-			  <p class="card-text">reads on RG</p>
-		  </div></div>
-		</a>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-		<a hrefxx="" style="text-decoration:none">
-		  <div class="card hoverable"><div class="card-body">
-			  <h2 class="card-title text-lowercase">76</h2>
-			  <p class="card-text">citations (Scopus)</p>
-		  </div></div>
-		</a>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-		<a hrefxx="" style="text-decoration:none">
-		  <div class="card hoverable"><div class="card-body">
-			  <h2 class="card-title text-lowercase">6</h2>
-			  <p class="card-text">h-index (Scopus)</p>
-		  </div></div>
-		</a>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-		<a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en" style="text-decoration:none">
-		  <div class="card hoverable"><div class="card-body">
-			  <h2 class="card-title text-lowercase">3</h2>
-			  <p class="card-text">Q1/Q2 publications</p>
-		  </div></div>
-		</a>
-    </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah" style="text-decoration:none">
+      <div class="card hoverable"><div class="card-body">
+        <h2 class="card-title text-lowercase">12,100+</h2>
+        <p class="card-text">reads on RG</p>
+      </div></div>
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a hrefxx="" style="text-decoration:none">
+      <div class="card hoverable"><div class="card-body">
+        <h2 class="card-title text-lowercase">76</h2>
+        <p class="card-text">citations (Scopus)</p>
+      </div></div>
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a hrefxx="" style="text-decoration:none">
+      <div class="card hoverable"><div class="card-body">
+        <h2 class="card-title text-lowercase">6</h2>
+        <p class="card-text">h-index (Scopus)</p>
+      </div></div>
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en" style="text-decoration:none">
+      <div class="card hoverable"><div class="card-body">
+        <h2 class="card-title text-lowercase">3</h2>
+        <p class="card-text">Q1/Q2 publications</p>
+      </div></div>
+    </a>
+  </div>
 </div>
 
 
