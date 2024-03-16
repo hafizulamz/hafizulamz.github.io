@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Mohd Hafizul Afifi Abdullah is a PhD candidate and researcher in information technology at the Universiti Teknologi PETRONAS.
 footer_text: >
     Visit my <a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en" target="_blank">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah" target="_blank">ResearchGate</a>.
-keywords: hafizul, hafizul-abdullah, hafizul-afifi, utp, uthm, researcher, universiti-teknologi-petronas, cerdas   # add your own keywords or leave empty
+keywords: hafizul, hafizul-abdullah, hafizul-afifi, utp, uthm, researcher, universiti-teknologi-petronas, cerdas, hpc3   # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -25,12 +25,12 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: catppuccin_latte  # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: react # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
+  theme_dark: onestar # https://github.com/ryo-ma/github-profile-trophy
 
 # -----------------------------------------------------------------------------
 # RSS Feed
