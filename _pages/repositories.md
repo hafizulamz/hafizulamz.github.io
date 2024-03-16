@@ -3,8 +3,8 @@ layout: page
 permalink: /repositories/
 title: repos
 description: my GitHub repositories
-nav: true
-nav_order: 4
+nav: false
+nav_order: 
 ---
 
 ## GitHub users
