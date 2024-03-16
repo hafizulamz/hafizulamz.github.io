@@ -46,8 +46,19 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Universiti Tun Hussein Onn Malaysia, Batu Pahat, Malaysia",
+      "location": "Batu Pahat, Malaysia",
+      "url": "https://www.uthm.edu.my/en/",
+      "area": "Computer Science (Web Technology)",
+      "studyType": "BCS",
+      "startDate": "2016-12-31",
+      "endDate": "2013-09-01",
+      "score": "3.74",
+      "courses": ["Web Technology"]
+    },
+    {
+      "institution": "University of Zurich, Batu Pahat, Malaysia",
+      "location": "Batu Pahat, Malaysia",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
@@ -59,18 +70,18 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "title": "Best Tutor Award for Department of Computer & Information Sciences",
+      "date": "2021-12-07",
+      "awarder": "Centre for Graduate Studies, UTP ",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "This award is presented annually to one Teaching Assistant from each department who has demonstrated exceptional dedication in contributing to the undergraduate education experience."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Outcome Based Education & Teaching Approach",
+      "date": "2022-05-25",
+      "issuer": "Universiti Teknologi PETRONAS",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
