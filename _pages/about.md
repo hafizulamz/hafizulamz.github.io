@@ -7,7 +7,7 @@ subtitle: Researcher at Centre for Research in Data Science, Universiti Teknolog
 profile:
   align: right
   image: me.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: 
     <p>Centre for Research in Data Science</p>
     <p>Universiti Teknologi PETRONAS</p>
