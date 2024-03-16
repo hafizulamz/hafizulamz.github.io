@@ -7,6 +7,14 @@ nav: true
 nav_order: 6
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/teaching.jpg" title="teaching experiences" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<b>My teaching philosophy</b>: I'm a passionate educator dedicated to engaging students in `Active Learning` and `Outcome Based Education`. Experienced in teaching small and large groups while fostering `positive relationships` with students.
+
 <div class="projects">
   <h2 class="category">metrics</h2>
 </div>
@@ -30,16 +38,6 @@ nav_order: 6
     </a>
   </div>
 </div>
-
-
-<!-- _pages/teaching.md -->
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching.jpg" title="teaching experiences" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<b>My teaching philosophy</b>: I'm a passionate educator dedicated to engaging students in `Active Learning` and `Outcome Based Education`. Experienced in teaching small and large groups while fostering `positive relationships` with students.
 
 <h3 class="mt-4">Universiti Teknologi PETRONAS</h3>
 
