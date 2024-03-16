@@ -63,8 +63,45 @@ nav_order: 6
       </div></div>
     </a>
   </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/12-480.webp" title="teaching experiences" class="img-fluid rounded z-depth-1" %}
+    <a hrefxx="" style="text-decoration:none">
+      <div class="card hoverable"><div class="card-body">
+	<h2 class="card-title text-lowercase">Business Intelligence</h2>
+        <p class="card-text">Subtitle description</p>
+      </div></div>
+    </a>
+  </div>
 </div>
-
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/12-480.webp" title="teaching experiences" class="img-fluid rounded z-depth-1" %}
+    <a hrefxx="" style="text-decoration:none">
+      <div class="card hoverable"><div class="card-body">
+	<h2 class="card-title text-lowercase">Business Intelligence</h2>
+        <p class="card-text">Subtitle description</p>
+      </div></div>
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/12-480.webp" title="teaching experiences" class="img-fluid rounded z-depth-1" %}
+    <a hrefxx="" style="text-decoration:none">
+      <div class="card hoverable"><div class="card-body">
+	<h2 class="card-title text-lowercase">Business Intelligence</h2>
+        <p class="card-text">Subtitle description</p>
+      </div></div>
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/12-480.webp" title="teaching experiences" class="img-fluid rounded z-depth-1" %}
+    <a hrefxx="" style="text-decoration:none">
+      <div class="card hoverable"><div class="card-body">
+	<h2 class="card-title text-lowercase">Business Intelligence</h2>
+        <p class="card-text">Subtitle description</p>
+      </div></div>
+    </a>
+  </div>
+</div>
 
 
 
