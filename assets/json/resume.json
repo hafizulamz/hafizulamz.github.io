@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mohd Hafizul Afifi bin Abdullah",
+    "label": "Researcher",
     "image": "",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://hafizulabdullah.com/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Centre for Research in Data Science, Universiti Teknologi PETRONAS",
+      "postalCode": "32610",
+      "city": "Seri Iskandar",
+      "countryCode": "MY",
+      "region": "Perak"
     },
     "profiles": [
       {
@@ -150,7 +150,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Malay",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -162,15 +162,23 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computing",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Information Extraction",
+        "Predictive Analytics",
+        "Big Data Analytics",
+        "Artificial Intelligence",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "Education",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Active Learning",
+        "Outcome Based Education",
+        "Teaching Philosophy"
       ]
     }
   ],
