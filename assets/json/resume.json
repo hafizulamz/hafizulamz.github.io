@@ -50,8 +50,8 @@
       "location": "Batu Pahat, MY",
       "url": "https://www.uthm.edu.my/en/",
       "area": "Information Technology (Research Mode)",
-      "studyType": "MSC",
-      "startDate": "2020-12-31",
+      "studyType": "Master of Information Technology",
+      "startDate": "2021-02-07",
       "endDate": "2017-03-01",
       "score": "Pass",
       "courses": ["Thesis Title: Improved Personalised Data Modelling Using Parameter Independent Fuzzy Weighted k-Nearest Neighbour for Spatio/Spectro-Temporal Data"]
@@ -61,10 +61,10 @@
       "location": "Batu Pahat, MY",
       "url": "https://www.uthm.edu.my/en/",
       "area": "Computer Science (Web Technology)",
-      "studyType": "BCS",
+      "studyType": "Bachelor of Computer Science (Web Technology) with Honours",
       "startDate": "2016-12-31",
       "endDate": "2013-09-01",
-      "score": "3.74",
+      "score": "First Class Honours",
       "courses": ["Thesis Title: Research on Improving Dominant Yeast Genes for Gene Function Prediction"]
     }
   ],
