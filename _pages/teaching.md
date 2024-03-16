@@ -60,6 +60,36 @@ nav_order: 6
       </div>
     </div>
   </a>
+  <a hrefxx="">
+    <div class="card hoverable">
+      <div class="row g-0">
+          <div class="card-img col-md-6">
+            {% include figure.liquid loading="eager" path="assets/img/12-480.webp" sizes="(min-width: 768px) 156px, 50vw" alt="project thumbnail" %}
+          </div>
+        <div class="col-md-6">
+          <div class="card-body">
+            <h3 class="card-title text-lowercase">Business Intelligence</h3>
+            <p class="card-text">Description</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+  <a hrefxx="">
+    <div class="card hoverable">
+      <div class="row g-0">
+          <div class="card-img col-md-6">
+            {% include figure.liquid loading="eager" path="assets/img/12-480.webp" sizes="(min-width: 768px) 156px, 50vw" alt="project thumbnail" %}
+          </div>
+        <div class="col-md-6">
+          <div class="card-body">
+            <h3 class="card-title text-lowercase">Business Intelligence</h3>
+            <p class="card-text">Description</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
 </div>
 
 
