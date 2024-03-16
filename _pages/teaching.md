@@ -5,16 +5,6 @@ title: teaching
 description: classes, workshops, and teaching materials.
 nav: true
 nav_order: 3
-dropdown: true
-children:
-  - title: business intelligence
-    permalink: /projects/UTP_teaching_busintel/
-  - title: divider
-  - title: big data analytics
-    permalink: /projects/UTP_teaching_bda/
-  - title: divider
-  - title: IT/IS project management
-    permalink: /projects/UTP_teaching_ITISPM/
 display_categories: [Universiti Teknologi PETRONAS, Universiti Tun Hussein Onn Malaysia]
 horizontal: false
 ---
