@@ -47,7 +47,7 @@
   "education": [
     {
       "institution": "Universiti Tun Hussein Onn Malaysia",
-      "location": "Batu Pahat, Malaysia",
+      "location": "Batu Pahat, MY",
       "url": "https://www.uthm.edu.my/en/",
       "area": "Information Technology",
       "studyType": "MSC",
@@ -58,7 +58,7 @@
     },
     {
       "institution": "Universiti Tun Hussein Onn Malaysia",
-      "location": "Batu Pahat, Malaysia",
+      "location": "Batu Pahat, MY",
       "url": "https://www.uthm.edu.my/en/",
       "area": "Computer Science",
       "studyType": "BCS",
@@ -72,7 +72,7 @@
     {
       "title": "Best Tutor Award for Department of Computer & Information Sciences",
       "date": "2021-12-07",
-      "awarder": "Centre for Graduate Studies, UTP ",
+      "awarder": "Centre for Graduate Studies, UTP",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "This award is presented annually to one Teaching Assistant from each department who has demonstrated exceptional dedication in contributing to the undergraduate education experience."
     }
