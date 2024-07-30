@@ -3,7 +3,7 @@
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/joe.jpg" title="The President" class="img-fluid rounded z-depth-1" %}
-        <b>Jow Flizzow</b><br>Working playlist.<br><a href="https://youtu.be/yOOVufv09vk?list=PLCtMYx7FhoE3vAZTbyDVtpn5m8nw_CRVY">Open playlist ></a>
+        <b>Joe Flizzow</b><br>Working playlist.<br><a href="https://youtu.be/yOOVufv09vk?list=PLCtMYx7FhoE3vAZTbyDVtpn5m8nw_CRVY">Open playlist ></a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/katyperry.jpg" title="Katy Perry" class="img-fluid rounded z-depth-1" %}
