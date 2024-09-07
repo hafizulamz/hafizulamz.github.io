@@ -1,5 +1,20 @@
 <h3>My Playlist</h3>
 
+<script>
+    const links = [
+        'https://youtu.be/uWeqeQkjLto',
+        'https://youtu.be/gh41Wxez9PE',
+        'https://youtu.be/x1yOGhnmYfI',
+        'https://youtu.be/ffuPKpaLjLg'
+    ];
+    function getRandomLink() {
+        const randomIndex = Math.floor(Math.random() * links.length);
+        return links[randomIndex];
+    }
+    const anchor = document.getElementById('randomLink');
+    anchor.href = getRandomLink();
+</script>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/joe.jpg" title="The President" class="img-fluid rounded z-depth-1" %}
@@ -11,7 +26,7 @@
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/jamesblunt.jpg" title="James Blunt" class="img-fluid rounded z-depth-1" %}
-        <b>James Blunt</b><br>Hauntingly meaningful.<br><a href="https://youtu.be/gh41Wxez9PE">Open playlist ></a>
+        <b>James Blunt</b><br>Hauntingly meaningful.<br><a id="randomLink" href="#">Open playlist ></a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/nickjonas.jpg" title="Nick Jonas" class="img-fluid rounded z-depth-1" %}
