@@ -1,18 +1,20 @@
 <h3>My Playlist</h3>
 
 <script>
-    const links = [
-        'https://youtu.be/uWeqeQkjLto',
-        'https://youtu.be/gh41Wxez9PE',
-        'https://youtu.be/x1yOGhnmYfI',
-        'https://youtu.be/ffuPKpaLjLg'
-    ];
-    function getRandomLink() {
-        const randomIndex = Math.floor(Math.random() * links.length);
-        return links[randomIndex];
-    }
-    const anchor = document.getElementById('randomLink');
-    anchor.href = getRandomLink();
+    document.addEventListener('DOMContentLoaded', function() {
+        const links = [
+            'https://youtu.be/uWeqeQkjLto',
+            'https://youtu.be/gh41Wxez9PE',
+            'https://youtu.be/x1yOGhnmYfI',
+            'https://youtu.be/ffuPKpaLjLg'
+        ];
+        function getRandomLink() {
+            const randomIndex = Math.floor(Math.random() * links.length);
+            return links[randomIndex];
+        }
+        const anchor = document.getElementById('randomLink');
+        anchor.href = getRandomLink();
+    });
 </script>
 
 <div class="row">
