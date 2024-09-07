@@ -14,7 +14,7 @@ nav_order: 4
   <div class="col-sm mt-3 mt-md-0">
     <a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah" style="text-decoration:none">
       <div class="card hoverable"><div class="card-body">
-        <h2 class="card-title text-lowercase">13,000+</h2>
+        <h2 class="card-title text-lowercase">13,150+</h2>
         <p class="card-text">reads on RG</p>
       </div></div>
     </a>
@@ -22,7 +22,7 @@ nav_order: 4
   <div class="col-sm mt-3 mt-md-0">
     <a hrefxx="" style="text-decoration:none">
       <div class="card hoverable"><div class="card-body">
-        <h2 class="card-title text-lowercase">90</h2>
+        <h2 class="card-title text-lowercase">95</h2>
         <p class="card-text">citations (Scopus)</p>
       </div></div>
     </a>
@@ -30,7 +30,7 @@ nav_order: 4
   <div class="col-sm mt-3 mt-md-0">
     <a hrefxx="" style="text-decoration:none">
       <div class="card hoverable"><div class="card-body">
-        <h2 class="card-title text-lowercase">6</h2>
+        <h2 class="card-title text-lowercase">7</h2>
         <p class="card-text">h-index (Scopus)</p>
       </div></div>
     </a>
