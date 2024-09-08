@@ -17,6 +17,12 @@
     });
 </script>
 
+<video width="320" height="240" controls>
+  <source src="~/assets/video/James-Blunt-1973-[Simona].mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</br></br>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/joe.jpg" title="The President" class="img-fluid rounded z-depth-1" %}
