@@ -46,6 +46,7 @@ nav_order: 4
 </div>
 
 <!-- _pages/publications.md -->
+</br></br>
 <!-- Bibsearch Feature -->
 {% include bib_search.liquid %}
 
