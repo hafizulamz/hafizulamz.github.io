@@ -54,14 +54,120 @@ horizontal: false
           <div class="card h-100 hoverable">
             <figure>
               <picture>
-                <source class="responsive-img-srcset" srcset="/assets/img/1.jpg" sizes="250px">
-                </source> <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> 
+                <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
               </picture>
             </figure>
             <div class="card-body">
-              <h2 class="card-title">Enterprise Resource Planning (ERP) Tutorial</h2>
+              <h2 class="card-title">Business Intelligence (BI)</h2>
               <p class="card-text">
-                <h6 class="font-italic mt-2 mt-sm-0">Tutor: May 23</h6>
+                <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22</h6>
+                <ul>
+                  <li>Data analysis, cleansing, and preparation</li>
+                  <li>Data visualization, Pivot tables and charts</li>
+                  <li>Preparation of an Excel dashboard</li>
+                  <li>Install, design, and deploy Power BI dashboard: <a href="https://youtu.be/3BOummMBNJU">video</a></li>
+                  <li>DAX query, forecasting, and Python on Power BI: <a href="https://youtu.be/KeLI6O5ATaE">video</a></li>
+                  <li>Datasets: <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_8bf7af4f1f784dc586b7fbeebfd30012.xlsx?dn=2015%20Sales.xlsx">Sales</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_287d6522d075446e8f75b9513da30440.xlsx?dn=HR%20Data-26112019-Cleansed.xlsx">HR Data</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_399460a4bb4d4faa840ab8ae7ab1e175.xlsx?dn=Superstore%20(Raw%20data).xlsx">Superstore</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_3d66dba3f35f445887873d3e4ac9c169.xlsx?dn=Voting%20figures.xlsx">Votes</a></li>
+                </ul>
+              </p>
+              <div class="row ml-1 mr-1 p-0"> </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a hrefxx="#">
+          <div class="card h-100 hoverable">
+            <figure>
+              <picture>
+                <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
+              </picture>
+            </figure>
+            <div class="card-body">
+              <h2 class="card-title">Big Data Analytics (BDA)</h2>
+              <p class="card-text">
+                <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Sep 22, Jan 23</h6>
+                <ul>
+                  <li>Software and environment setup</li>
+                  <li>Big data systems: HDFS, Mapreduce, Hive, Spark</li>
+                  <li>Unstructured database: Hbase and NoSql</li>
+                  <li>Setting up Python environment and IDE</li>
+                  <li>Data cleansing and preparation</li>
+                  <li>Data visualization</li>
+                  <li>Fundamental of machine learning using Python</li>
+                  <li>Run machine learning models</li>
+                  <li>Generate reports</li>
+                </ul>
+              </p>
+              <div class="row ml-1 mr-1 p-0"> </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a hrefxx="#">
+          <div class="card h-100 hoverable">
+            <figure>
+              <picture>
+                <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
+              </picture>
+            </figure>
+            <div class="card-body">
+              <h2 class="card-title">IT/IS Project Management</h2>
+              <p class="card-text">
+                <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22, Jan 23, May 23</h6>
+                <ul>
+                  <li>Create Work Breakdown Structure (WBS) and Gantt chart using ProjectLibre: <a href="https://youtu.be/9xwR4JCBaIU">video</a></li>
+                  <li>Managing resources: Setup and assign resources to tasks using ProjectLibre</li>
+                  <li>Create a project network diagram using ADM and Critical Path Analysis (CPA/CPM)</li>
+                  <li>CPA using Precedence Diagramming Method (PDM)</li>
+                  <li>Project management tool: SWOT analysis</li>
+                </ul>
+              </p>
+              <div class="row ml-1 mr-1 p-0"> </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a hrefxx="#">
+          <div class="card h-100 hoverable">
+            <figure>
+              <picture>
+                <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
+              </picture>
+            </figure>
+            <div class="card-body">
+              <h2 class="card-title">IT Infrastructure</h2>
+              <p class="card-text">
+                <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22</h6>
+                <ul>
+                  <li>Fundamental: Datacenter trends, components, and security</li>
+                  <li>IT infrastructure for an enterprise: Platform as a Service (PaaS)</li>
+                  <li>Microsoft Azure and microservices</li>
+                  <li>Database: Relational database, NoSQL database, and current trends</li>
+                  <li>Data and computer networks</li>
+                  <li>IP classes, network address, and host address</li>
+                  <li>Security aspect of IT infrastructure</li>
+                </ul>
+              </p>
+              <div class="row ml-1 mr-1 p-0"> </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a hrefxx="#">
+          <div class="card h-100 hoverable">
+            <figure>
+              <picture>
+                <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
+              </picture>
+            </figure>
+            <div class="card-body">
+              <h2 class="card-title">Enterprise Resource Planning (ERP)</h2>
+              <p class="card-text">
+                <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 23</h6>
                 <ul>
                   <li>Business process and business functions</li>
                   <li>ERP system development</li>
@@ -83,125 +189,13 @@ horizontal: false
           <div class="card h-100 hoverable">
             <figure>
               <picture>
-                <source class="responsive-img-srcset" srcset="/al-folio/assets/img/4.jpg" sizes="250px">
-                </source> <img src="/al-folio/assets/img/4.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> 
+                <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
               </picture>
             </figure>
             <div class="card-body">
-              <h2 class="card-title">Business Intelligence (BI) Lab</h2>
+              <h2 class="card-title">Information Security Management</h2>
               <p class="card-text">
-                <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor: Jan 21, Sep 21, Jan 22, Sep 22</h6>
-                <ul>
-                  <li>Data analysis, cleansing, and preparation</li>
-                  <li>Data visualization, Pivot tables and charts</li>
-                  <li>Preparation of an Excel dashboard</li>
-                  <li>Install, design, and deploy Power BI dashboard: <a href="https://youtu.be/3BOummMBNJU">video</a></li>
-                  <li>DAX query, forecasting, and Python on Power BI: <a href="https://youtu.be/KeLI6O5ATaE">video</a></li>
-                  <li>Datasets: <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_8bf7af4f1f784dc586b7fbeebfd30012.xlsx?dn=2015%20Sales.xlsx">Sales</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_287d6522d075446e8f75b9513da30440.xlsx?dn=HR%20Data-26112019-Cleansed.xlsx">HR Data</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_399460a4bb4d4faa840ab8ae7ab1e175.xlsx?dn=Superstore%20(Raw%20data).xlsx">Superstore</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_3d66dba3f35f445887873d3e4ac9c169.xlsx?dn=Voting%20figures.xlsx">Votes</a></li>
-                </ul>
-              </p>
-              <div class="row ml-1 mr-1 p-0"> </div>
-            </div>
-          </div>
-        </a>
-      </div>
-      <div class="col">
-        <a hrefxx="#">
-          <div class="card h-100 hoverable">
-            <figure>
-              <picture>
-                <source class="responsive-img-srcset" srcset="/al-folio/assets/img/3.jpg" sizes="250px">
-                </source> <img src="/al-folio/assets/img/3.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> 
-              </picture>
-            </figure>
-            <div class="card-body">
-              <h2 class="card-title">Big Data Analytics (BDA) Lab</h2>
-              <p class="card-text">
-                <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor: Jan 21, Sep 21, Sep 22, Jan 23</h6>
-                <ul>
-                  <li>Software and environment setup</li>
-                  <li>Big data systems: HDFS, Mapreduce, Hive, Spark</li>
-                  <li>Unstructured database: Hbase and NoSql</li>
-                  <li>Setting up Python environment and IDE</li>
-                  <li>Data cleansing and preparation</li>
-                  <li>Data visualization</li>
-                  <li>Fundamental of machine learning using Python</li>
-                  <li>Run machine learning models</li>
-                  <li>Generate reports</li>
-                </ul>
-              </p>
-              <div class="row ml-1 mr-1 p-0"> </div>
-            </div>
-          </div>
-        </a>
-      </div>
-<div class="col">
-        <a hrefxx="#">
-          <div class="card h-100 hoverable">
-            <figure>
-              <picture>
-                <source class="responsive-img-srcset" srcset="/assets/img/1.jpg" sizes="250px">
-                </source> <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> 
-              </picture>
-            </figure>
-            <div class="card-body">
-              <h2 class="card-title">IT/IS Project Management Tutorial</h2>
-              <p class="card-text">
-                <h6 class="font-italic mt-2 mt-sm-0">Tutor: May 22, Jan 23, May 23</h6>
-                <ul>
-                  <li>Create Work Breakdown Structure (WBS) and Gantt chart using ProjectLibre: <a href="https://youtu.be/9xwR4JCBaIU">video</a></li>
-                  <li>Managing resources: Setup and assign resources to tasks using ProjectLibre</li>
-                  <li>Create a project network diagram using ADM and Critical Path Analysis (CPA/CPM)</li>
-                  <li>CPA using Precedence Diagramming Method (PDM)</li>
-                  <li>Project management tool: SWOT analysis</li>
-                </ul>
-              </p>
-              <div class="row ml-1 mr-1 p-0"> </div>
-            </div>
-          </div>
-        </a>
-      </div>
-      <div class="col">
-        <a hrefxx="#">
-          <div class="card h-100 hoverable">
-            <figure>
-              <picture>
-                <source class="responsive-img-srcset" srcset="/al-folio/assets/img/4.jpg" sizes="250px">
-                </source> <img src="/al-folio/assets/img/4.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> 
-              </picture>
-            </figure>
-            <div class="card-body">
-              <h2 class="card-title">IT Infrastructure Tutorial</h2>
-              <p class="card-text">
-                <h6 class="font-italic mt-2 mt-sm-0">Tutor: May 22</h6>
-                <ul>
-                  <li>Fundamental: Datacenter trends, components, and security</li>
-                  <li>IT infrastructure for an enterprise: Platform as a Service (PaaS)</li>
-                  <li>Microsoft Azure and microservices</li>
-                  <li>Database: Relational database, NoSQL database, and current trends</li>
-                  <li>Data and computer networks</li>
-                  <li>IP classes, network address, and host address</li>
-                  <li>Security aspect of IT infrastructure</li>
-                </ul>
-              </p>
-              <div class="row ml-1 mr-1 p-0"> </div>
-            </div>
-          </div>
-        </a>
-      </div>
-      <div class="col">
-        <a hrefxx="#">
-          <div class="card h-100 hoverable">
-            <figure>
-              <picture>
-                <source class="responsive-img-srcset" srcset="/al-folio/assets/img/3.jpg" sizes="250px">
-                </source> <img src="/al-folio/assets/img/3.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> 
-              </picture>
-            </figure>
-            <div class="card-body">
-              <h2 class="card-title">Information Security Management Tutorial</h2>
-              <p class="card-text">
-                <h6 class="font-italic mt-2 mt-sm-0">Tutor: May 21</h6>
+                <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 21</h6>
               </p>
               <div class="row ml-1 mr-1 p-0"> </div>
             </div>
@@ -218,16 +212,15 @@ horizontal: false
           <div class="card h-100 hoverable">
             <figure>
               <picture>
-                <source class="responsive-img-srcset" srcset="/assets/img/1.jpg" sizes="250px">
-                </source> <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> 
+                <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
               </picture>
             </figure>
             <div class="card-body">
-              <h2 class="card-title">Supervision: UG Final Year Project I & II</h2>
+              <h2 class="card-title">UG Final Year Project I & II</h2>
               <p class="card-text">
-                <h6 class="font-italic mt-2 mt-sm-0">2017, 2018, 2019</h6>
+                <h6 class="font-italic mt-2 mt-sm-0">Supervise UG on 2017, 2018, 2019</h6>
                 <ul>
-                  <li>Supervise undergraduate students for FYP I and FYP II courses</li>
+                  <li>Supervise UG students for FYP I and FYP II courses</li>
                 </ul>
               </p>
               <div class="row ml-1 mr-1 p-0"> </div>
