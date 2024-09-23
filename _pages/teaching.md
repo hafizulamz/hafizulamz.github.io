@@ -59,6 +59,9 @@ horizontal: false
             </figure>
             <div class="card-body">
               <h2 class="card-title">Business Intelligence (BI)</h2>
+              <div class="col-sm-2 text-left text-sm-right">
+                <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Hands-on Lab</span>
+              </div>
               <p class="card-text">
                 <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22</h6>
                 <ul>
@@ -85,6 +88,9 @@ horizontal: false
             </figure>
             <div class="card-body">
               <h2 class="card-title">Big Data Analytics (BDA)</h2>
+              <div class="col-sm-2 text-left text-sm-right">
+                <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Hands-on Lab</span>
+              </div>
               <p class="card-text">
                 <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Sep 22, Jan 23</h6>
                 <ul>
@@ -114,6 +120,9 @@ horizontal: false
             </figure>
             <div class="card-body">
               <h2 class="card-title">IT/IS Project Management</h2>
+              <div class="col-sm-2 text-left text-sm-right">
+                <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
+              </div>
               <p class="card-text">
                 <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22, Jan 23, May 23</h6>
                 <ul>
@@ -139,6 +148,9 @@ horizontal: false
             </figure>
             <div class="card-body">
               <h2 class="card-title">IT Infrastructure</h2>
+              <div class="col-sm-2 text-left text-sm-right">
+                <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
+              </div>
               <p class="card-text">
                 <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22</h6>
                 <ul>
@@ -166,6 +178,9 @@ horizontal: false
             </figure>
             <div class="card-body">
               <h2 class="card-title">Enterprise Resource Planning (ERP)</h2>
+              <div class="col-sm-2 text-left text-sm-right">
+                <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
+              </div>
               <p class="card-text">
                 <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 23</h6>
                 <ul>
@@ -194,6 +209,9 @@ horizontal: false
             </figure>
             <div class="card-body">
               <h2 class="card-title">Information Security Management</h2>
+              <div class="col-sm-2 text-left text-sm-right">
+                <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
+              </div>
               <p class="card-text">
                 <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 21</h6>
               </p>
@@ -217,6 +235,9 @@ horizontal: false
             </figure>
             <div class="card-body">
               <h2 class="card-title">UG Final Year Project I & II</h2>
+              <div class="col-sm-2 text-left text-sm-right">
+                <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Supervision</span>
+              </div>
               <p class="card-text">
                 <h6 class="font-italic mt-2 mt-sm-0">Supervise UG on 2017, 2018, 2019</h6>
                 <ul>
