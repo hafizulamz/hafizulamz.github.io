@@ -1,8 +1,14 @@
 github_users:
-  - hafizulamz
+  - torvalds
+  - alshedivat
+
+repo_description_lines_max: 2
 
 github_repos:
-  - hafizulamz/ML-Datasets
-  - hafizulamz/Elapsed-Time-Counter
-  - hafizulamz/employee-payment-calculator
-  - hafizulamz/CLI-MP3-Player
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons
