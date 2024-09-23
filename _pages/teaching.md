@@ -25,8 +25,8 @@ horizontal: false
     <a hrefxx="" style="text-decoration:none">
       <div class="card hoverable"><div class="card-body">
         <p class="card-text">Teaching Performance Rating</p>
-	<h2 class="card-title text-lowercase">4.91 / 5.0</h2>
-        <p class="card-text">based on 66 responses</p>
+	<h2 class="card-title text-lowercase">4.94 / 5.0</h2>
+        <p class="card-text">based on 97 responses</p>
       </div></div>
     </a>
   </div>
@@ -34,8 +34,8 @@ horizontal: false
     <a hrefxx="" style="text-decoration:none">
       <div class="card hoverable"><div class="card-body">
         <p class="card-text">Student Support Rating</p>
-	<h2 class="card-title text-lowercase">4.94 / 5.0</h2>
-        <p class="card-text">based on 66 responses</p>
+	<h2 class="card-title text-lowercase">4.95 / 5.0</h2>
+        <p class="card-text">based on 97 responses</p>
       </div></div>
     </a>
   </div>
