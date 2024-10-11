@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Mohd Hafizul Afifi bin Abdullah",
     "label": "Scientist",
     "image": "",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://hafizulabdullah.com/",
+    "summary": "Specializes in Information Extraction, Predictive Analytics, Big Data Analytics, AI/ML",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -151,7 +151,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Malay",
       "fluency": "Native speaker",
       "icon": ""
     },
