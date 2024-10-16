@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Mohd Hafizul Afifi bin Abdullah",
-    "label": "Scientist",
+    "label": "Tutor / Teaching Assistant",
     "image": "",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
@@ -50,12 +50,12 @@
       "institution": "Universiti Tun Hussein Onn Malaysia, Johor, Malaysia",
       "location": "Johor, Malaysia",
       "url": "https://www.uthm.edu.my/en/",
-      "area": "Information TEchnology",
+      "area": "Information Technology",
       "studyType": "Master's Degree",
       "startDate": "2016-03-01",
       "endDate": "2020-03-31",
       "score": "Pass",
-      "courses": ["Specialization: Web Technology"]
+      "courses": ["Research Mode"]
     },
     {
       "institution": "Universiti Tun Hussein Onn Malaysia, Johor, Malaysia",
@@ -147,16 +147,16 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "IT",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Information Extraction",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Big Data Analytics",
+        "Business Intelligence",
+        "Deep Learning"
       ]
     }
   ],
@@ -174,15 +174,15 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "IT",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Information Extraction",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Big Data Analytics",
+        "Business Intelligence",
+        "Deep Learning"
       ]
     }
   ],
