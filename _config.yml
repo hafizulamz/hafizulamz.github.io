@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Hafizul Abdullah | Official Site # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Mohd Hafizul Afifi
 middle_name: 
 last_name: Abdullah
@@ -125,7 +125,7 @@ pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: lsawNkBedyhwvjHGuXg8l2-8x4LLHdGE-o6O_Vc8zUc # your google-site-verification ID (Google Search Console)
-bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
+bing_site_verification: 71D2342C4B8C3FA624C7D5B06277C3CD # your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
