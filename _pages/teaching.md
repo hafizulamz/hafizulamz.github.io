@@ -59,9 +59,7 @@ _**Teaching philosophy**_: I am a passionate educator who fosters active student
             </figure>
             <div class="card-body">
               <h2 class="card-title">Business Intelligence (BI)</h2>
-              <div class="col-sm-2 text-left text-sm-right">
-                <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Hands-on Lab</span>
-              </div>
+              <div class="col col-sm-2 abbr"> <abbr class="badge rounded w-100">Hands-on Lab</abbr></div>
               <p class="card-text">
                 <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22</h6>
                 <ul>
@@ -88,9 +86,7 @@ _**Teaching philosophy**_: I am a passionate educator who fosters active student
             </figure>
             <div class="card-body">
               <h2 class="card-title">Big Data Analytics (BDA)</h2>
-              <div class="col-sm-2 text-left text-sm-right">
-                <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Hands-on Lab</span>
-              </div>
+              <div class="col col-sm-2 abbr"> <abbr class="badge rounded w-100">Hands-on Lab</abbr></div>
               <p class="card-text">
                 <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Sep 22, Jan 23</h6>
                 <ul>
