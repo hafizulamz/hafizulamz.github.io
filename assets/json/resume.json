@@ -8,17 +8,17 @@
     "url": "https://hafizulabdullah.com/",
     "summary": "Specializes in Information Extraction, Predictive Analytics, Big Data Analytics, AI/ML",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "32610",
+      "city": "Seri Iskandar",
+      "countryCode": "MY",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Facebook",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -67,7 +67,7 @@
       "position": "Active Member",
       "url": "",
       "startDate": "2016-01-01",
-      "endDate": "",
+      "endDate": ""
     },
     {
       "organization": "Pertubuhan Kebajikan Johor i Care Negeri Johor (Cancer Support Group)",
@@ -75,7 +75,7 @@
       "position": "Volunteer",
       "url": "",
       "startDate": "2018-01-01",
-      "endDate": "",
+      "endDate": ""
     },
     {
       "organization": "One Heart Team (a local charity organization in Parit Raja).",
@@ -83,7 +83,7 @@
       "position": "Volunteer",
       "url": "",
       "startDate": "2016-01-01",
-      "endDate": "",
+      "endDate": ""
     }
   ],
   "education": [
