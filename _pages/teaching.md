@@ -59,7 +59,9 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
             </figure>
             <div class="card-body">
               <h2 class="card-title">Business Intelligence (BI)</h2>
-              <div class="col col-sm-2 abbr"> <abbr class="badge rounded w-100">Hands-on Lab</abbr></div>
+              <div class="col-sm-2 text-left text-sm-right">
+                <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Hands-on Lab</span>
+              </div>
               <p class="card-text">
                 <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22</h6>
                 <ul>
@@ -86,7 +88,9 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
             </figure>
             <div class="card-body">
               <h2 class="card-title">Big Data Analytics (BDA)</h2>
-              <div class="col col-sm-2 abbr"> <abbr class="badge rounded w-100">Hands-on Lab</abbr></div>
+              <div class="col-sm-2 text-left text-sm-right">
+                <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Hands-on Lab</span>
+              </div>
               <p class="card-text">
                 <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Sep 22, Jan 23</h6>
                 <ul>
@@ -230,9 +234,9 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               </picture>
             </figure>
             <div class="card-body">
-              <h2 class="card-title">UG Final Year Project I & II</h2>
+              <h2 class="card-title">Final Year Project I & II</h2>
               <div class="col-sm-2 text-left text-sm-right">
-                <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Supervision</span>
+                <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">UG Supervision</span>
               </div>
               <p class="card-text">
                 <h6 class="font-italic mt-2 mt-sm-0">Supervise UG on 2017, 2018, 2019</h6>
