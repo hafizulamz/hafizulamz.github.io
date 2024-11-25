@@ -54,7 +54,7 @@ horizontal: false
           <div class="card h-100 hoverable">
             <figure>
               <picture>
-                <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
+                <img src="/assets/img/businessintelligence.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
               </picture>
             </figure>
             <div class="card-body">
@@ -83,7 +83,7 @@ horizontal: false
           <div class="card h-100 hoverable">
             <figure>
               <picture>
-                <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
+                <img src="/assets/img/bigdataanalytics.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
               </picture>
             </figure>
             <div class="card-body">
@@ -115,7 +115,7 @@ horizontal: false
           <div class="card h-100 hoverable">
             <figure>
               <picture>
-                <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
+                <img src="/assets/img/itpmispm.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
               </picture>
             </figure>
             <div class="card-body">
@@ -143,7 +143,7 @@ horizontal: false
           <div class="card h-100 hoverable">
             <figure>
               <picture>
-                <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
+                <img src="/assets/img/itinfra.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
               </picture>
             </figure>
             <div class="card-body">
@@ -173,7 +173,7 @@ horizontal: false
           <div class="card h-100 hoverable">
             <figure>
               <picture>
-                <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
+                <img src="/assets/img/erp.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
               </picture>
             </figure>
             <div class="card-body">
@@ -204,7 +204,7 @@ horizontal: false
           <div class="card h-100 hoverable">
             <figure>
               <picture>
-                <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
+                <img src="/assets/img/informationsecurity.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
               </picture>
             </figure>
             <div class="card-body">
@@ -230,7 +230,7 @@ horizontal: false
           <div class="card h-100 hoverable">
             <figure>
               <picture>
-                <img src="/assets/img/1.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
+                <img src="/assets/img/supervision.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> 
               </picture>
             </figure>
             <div class="card-body">
