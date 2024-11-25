@@ -15,7 +15,7 @@ horizontal: false
     </div>
 </div>
 
-<b>My teaching philosophy</b>: I'm a passionate educator dedicated to engaging students in `Active Learning` and `Outcome Based Education`. Experienced in teaching small and large groups while fostering `positive relationships` with students.
+_**Teaching philosophy**_: I am a passionate educator who fosters active student participation throughout the teaching and learning process by applying `Active Learning` and `Outcome Based Education` approaches. I am experienced in teaching small and large groups while cultivating `positive relationships` with students to create an engaging and supportive learning environment.
 
 <div class="projects">
   <h2 class="category">metrics</h2>
