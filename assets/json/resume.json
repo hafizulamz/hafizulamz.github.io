@@ -24,28 +24,80 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Universiti Teknologi PETRONAS, Perak, Malaysia",
+      "position": "Special Services",
+      "url": "https://www.utp.edu.my/",
+      "startDate": "2020-12-16",
+      "endDate": "2021-01-15",
+      "summary": "Assisted PI in conducting workshop sessions. Prepare research papers and reports.",
+      "highlights": ["Research and T&L"]
+    },
+    {
+      "name": "Centre for Research in Data Science (CeRDaS), Universiti Teknologi PETRONAS, Perak, Malaysia",
+      "position": "Research Officer",
+      "url": "https://cerdas.utp.edu.my",
+      "startDate": "2020-05-16",
+      "endDate": "2020-12-15",
+      "summary": "Conducted data data analysis using ML and DL. Assisted PI in conducting workshop sessions. Contributed to writing book chapters. Prepare research papers and reports.",
+      "highlights": ["Simulation, Research, and T&L"]
+    },
+    {
+      "name": "Universiti Teknologi PETRONAS, Perak, Malaysia",
+      "position": "Special Services",
+      "url": "https://www.utp.edu.my/",
+      "startDate": "2020-03-01",
+      "endDate": "2020-05-15",
+      "summary": "Assisted PI in conducting workshop sessions. Prepare research papers and reports.",
+      "highlights": ["Research and T&L"]
+    },
+    {
+      "name": "Gates IT Solution Sdn Bhd, Selangor, Malaysia",
+      "position": "System Analyst Programmer",
+      "url": "https://www.gates.my/",
+      "startDate": "2020-03-01",
+      "endDate": "2020-05-15",
+      "summary": "Collaborated with different teams to complete four IT projects. Successfully integrated new features and revamped UI/UX following the client requirements.",
+      "highlights": ["Research and T&L"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Ubuntu Malaysia Local Community (LoCo) Team",
+      "location": "Malaysia",
+      "position": "Active Member",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "",
+    },
+    {
+      "organization": "Pertubuhan Kebajikan Johor i Care Negeri Johor (Cancer Support Group)",
+      "location": "Parit Raja, Malaysia",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "",
+    },
+    {
+      "organization": "One Heart Team (a local charity organization in Parit Raja).",
+      "location": "Parit Raja, Malaysia",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "",
     }
   ],
   "education": [
+    {
+      "institution": "Universiti Teknologi PETRONAS, Perak, Malaysia",
+      "location": "Perak, Malaysia",
+      "url": "https://www.utp.edu.my/",
+      "area": "Information Technology",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2021-01-16",
+      "endDate": "",
+      "score": "Currently Enrolled",
+      "courses": ["Research Mode"]
+    },
     {
       "institution": "Universiti Tun Hussein Onn Malaysia, Johor, Malaysia",
       "location": "Johor, Malaysia",
@@ -71,54 +123,19 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "King’s Scout Award",
+      "date": "2011",
+      "awarder": "The Scouts Association of Malaysia",
+      "url": "https://ms.wikipedia.org/wiki/Pengakap_Raja_(Persekutuan_Pengakap_Malaysia)",
+      "summary": "The King's Scout Award is the highest award of The Scouts Association of Malaysia. The King's Scout Certificate was signed by His Majesty the Yang di-Pertuan Agong and all Sultans in Malaysia."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
+      "name": "EC-Council Network Security Administrator (ENSA)",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "issuer": "EC-Council",
+      "url": "https://www.eccouncil.org/",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
@@ -176,26 +193,34 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "name": "UI/UX Upgrade",
+      "summary": "Upgrade UI/UX for the MBA Universiti Tun Hussein Onn Malaysia official website.",
+      "startDate": "2019-08-01",
+      "endDate": "2019-10-31",
+      "url": "https://mba.uthm.edu.my/"
+    },
+    {
+      "name": "Performa.my",
+      "summary": "Developed a web application for performance satisfaction analysis.",
       "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "endDate": "2018-06-30",
+      "url": ""
+    },
+    {
+      "name": "SSM EzBiz Upgrade",
+      "summary": "Upgraded the system for the Companies Commission of Malaysia (SSM).",
+      "startDate": "2016-02-28",
+      "endDate": "2016-12-01",
+      "url": ""
+    },
+    {
+      "name": "KUIPSAS e-Campus UI/UX Revamp",
+      "summary": "Upgrade the e-Campus system for KUIPSAS (currently UnIPSAS).",
+      "startDate": "2016-02-28",
+      "endDate": "2016-12-01",
+      "url": "https://portal.unipsas.edu.my/"
     }
   ]
 }
