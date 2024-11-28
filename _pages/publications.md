@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: my current focus areas includes Information Extraction, Predictive Analytics, Big Data Analytics, Artificial Intelligence, and Machine Learning. publications are by categories in reversed chronological order.
+description: my current focus areas are Information Extraction, Big Data Analytics, Artificial Intelligence, Machine Learning, and Deep Learning. publications are by categories in reversed chronological order.
 nav: true
 nav_order: 4
 ---
