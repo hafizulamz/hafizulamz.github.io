@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: classes, workshops, and teaching materials.
+description: my classes, workshops, and teaching materials.
 nav: true
 nav_order: 3
 display_categories: [Universiti Teknologi PETRONAS, Universiti Tun Hussein Onn Malaysia]
@@ -58,7 +58,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               </picture>
             </figure>
             <div class="card-body">
-              <h2 class="card-title">Business Intelligence (BI)</h2>
+              <h2 class="card-title">Business Intelligence</h2>
               <div class="col-sm-2 text-left text-sm-right">
                 <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Hands-on Lab</span>
               </div>
@@ -87,14 +87,14 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               </picture>
             </figure>
             <div class="card-body">
-              <h2 class="card-title">Big Data Analytics (BDA)</h2>
+              <h2 class="card-title">Big Data Analytics</h2>
               <div class="col-sm-2 text-left text-sm-right">
                 <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Hands-on Lab</span>
               </div>
               <p class="card-text">
                 <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Sep 22, Jan 23</h6>
                 <ul>
-                  <li>Software and environment setup</li>
+                  <li>Environment setup</li>
                   <li>Big data systems: HDFS, Mapreduce, Hive, Spark</li>
                   <li>Unstructured database: Hbase and NoSql</li>
                   <li>Setting up Python environment and IDE</li>
@@ -103,6 +103,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <li>Fundamental of machine learning using Python</li>
                   <li>Run machine learning models</li>
                   <li>Generate reports</li>
+                  <li><a href="https://www.pythoncheatsheet.org/">Python cheat sheet</a></li>
                 </ul>
               </p>
               <div class="row ml-1 mr-1 p-0"> </div>
@@ -177,7 +178,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               </picture>
             </figure>
             <div class="card-body">
-              <h2 class="card-title">Enterprise Resource Planning (ERP)</h2>
+              <h2 class="card-title">Enterprise Resource Planning</h2>
               <div class="col-sm-2 text-left text-sm-right">
                 <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
               </div>
@@ -255,11 +256,17 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
 
 
 
-<h3 class="mt-4">workshops and trainings</h3>
+<h3 class="mt-4">courses and workshops conducted</h3>
 <div class="col">
     <ul>
-      <li>Assistant trainer for the "Digital Transformation for the Future of Works: Big Data, AI and Machine Learning" course by CeRDaS-UTP.</li>
-      <li>Trainer for the 3 days course of "Business Analytics using Power BI for M&amp;H Department", UTP.</li>
-      <li><a href="https://www.pythoncheatsheet.org/">Some notes</a> on writing Python libraries.</li>
+      <li>Business Analytics using Power BI for Management and Humanities Department, UTP (July 2022).</li>
+      <li>KPT-PENJANA 3.0: Master the Basics of Big Data, AI, and ML for Tomorrow's Workforce (May 2022).</li>
+      <li>KPT-PENJANA 1.0: Digital Transformation for the Future of Works: Big Data, AI and ML (Jan-Feb 2022).</li>
+      <li>BDA Using Power BI for Lembaga TH (Mar 2021).</li>
+      <li>SKO: Power BI for Finance (Mar 2021).</li>
+      <li>BDA for Oil & Gas Using Power BI (Feb 2021).</li>
+      <li>Big Data Analytics for Business and Beyond (Oct 2020).</li>
+      <li>BDA for PMA Beginner Level (Oct 2020).</li>
+      <li>BDA Course with PETRONAS Staff (Mar 2020).</li>
     </ul>
 </div>
