@@ -22,7 +22,7 @@ nav_order: 4
   <div class="col-sm mt-3 mt-md-0">
     <a hrefxx="" style="text-decoration:none">
       <div class="card hoverable"><div class="card-body">
-        <h2 class="card-title text-lowercase">110</h2>
+        <h2 class="card-title text-lowercase">111</h2>
         <p class="card-text">citations (Scopus)</p>
       </div></div>
     </a>
