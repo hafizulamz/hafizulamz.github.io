@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<b>Mohd Hafizul Afifi bin Abdullah</b> is a Ph.D. candidate in Information Technology at Universiti Teknologi PETRONAS. Hafizul specializes in the area of Information Extraction, Big Data Analytics, Artificial Intelligence, Machine Learning, and Deep Learning. He holds a B.Sc. in Computer Science and an M.Sc. in Information Technology from Universiti Tun Hussein Onn Malaysia.
+<b>Mohd Hafizul Afifi bin Abdullah</b> is a Ph.D. candidate in Information Technology at Universiti Teknologi PETRONAS. Hafizul specializes in the area of Information Extraction, Big Data Analytics, AI, Machine Learning, and Deep Learning. He holds a B.Sc. in Computer Science and an M.Sc. in Information Technology from Universiti Tun Hussein Onn Malaysia.
 
 Hafizul has 8 years of research experience and 5 years of teaching experience. He is a certified Graduate Technologist by MBOT and an IEEE Graduate Student Member. His recent development includes continuous improvement in teaching methods. Additionally, Hafizul serves as a reviewer for leading academic journals in the field of computer science and information technology.
 
