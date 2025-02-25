@@ -1,11 +1,11 @@
 ---
 layout: about
-title: 
+title: ""
 permalink: /businesscard
 subtitle: false
 
-profile: false
-  align:false
+profile: 
+  align: false
   image: false
   image_circular: false
   more_info: false
