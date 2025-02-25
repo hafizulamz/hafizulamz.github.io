@@ -1,7 +1,7 @@
 ---
-layout: about
-title: ""
-permalink: /businesscard
+layout: 
+title: "Contact"
+permalink: /contact
 subtitle: false
 
 profile: 
