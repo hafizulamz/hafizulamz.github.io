@@ -15,12 +15,11 @@ selected_papers: false
 social: false
 ---
 
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="/assets/img/favicon.ico"/>
     <title>Digital Business Card</title>
     <style>
         body {
@@ -63,17 +62,19 @@ social: false
             text-decoration: underline;
         }
         .email-popup {
-            display: none;
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background: #1e1e1e;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
-            text-align: center;
-        }
+			display: none;
+			position: fixed;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			background: #1e1e1e;
+			padding: 20px;
+			border-radius: 10px;
+			box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+			text-align: center;
+			width: 90%;
+			max-width: 600px; /* Optional: Prevents it from being too wide on larger screens */
+		}
         .email-popup img {
             max-width: 100%;
             height: auto;
