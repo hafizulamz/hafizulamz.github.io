@@ -101,8 +101,8 @@ social: false
         <p>
             <a href="#" onclick="showEmailPopup()">Email/MS Teams</a> | 
             <a href="http://hafizulabdullah.com/" target="_blank">Website</a> | 
+			<a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah" target="_blank">ResearchGate</a> | 
             <a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en" target="_blank">Google Scholar</a>
-			<a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah" target="_blank">ResearchGate</a>
         </p>
     </div>
     
