@@ -97,12 +97,14 @@ social: false
     <div class="card">
         <img src="/assets/img/hafizul.jpg" alt="Profile Picture">
         <h2>Mohd Hafizul Afifi bin Abdullah</h2>
-        <p>Lecturer, Universiti Tunku Abdul Rahman (UTAR), Malaysia</p>
+		<p>Lecturer, Universiti Tunku Abdul Rahman (UTAR), Malaysia</p>
+		<p>Office: NG-002, FICT (Block N)</p>
         <p>
             <a href="#" onclick="showEmailPopup()">Email/MS Teams</a> | 
             <a href="http://hafizulabdullah.com/" target="_blank">Website</a> | 
 			<a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah" target="_blank">ResearchGate</a> | 
-            <a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en" target="_blank">Google Scholar</a>
+            <a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en" target="_blank">Google Scholar</a> |
+			<a href="https://calendar.google.com/calendar/embed?src=hafizulafifi%40utar.edu.my&ctz=Asia%2FSingapore" target="_blank">Calendar</a>
         </p>
     </div>
     
