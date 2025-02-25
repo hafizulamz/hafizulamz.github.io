@@ -100,7 +100,7 @@ social: false
         <p>
             <a href="#" onclick="showEmailPopup()">Email</a> | 
             <a href="http://hafizulabdullah.com/" target="_blank">Website</a> | 
-            <a href="https://www.linkedin.com/in/hafizulamz/" target="_blank">LinkedIn</a>
+            <a href="" target="_blank">LinkedIn</a>
         </p>
     </div>
     
