@@ -1,13 +1,15 @@
 ---
 layout: page
-title: submenus
+title: more
 nav: true
 nav_order: 8
 dropdown: true
 children:
+  - title: contact
+    permalink: /contact/
+  - title: divider
   - title: projects
     permalink: /projects/
-  - title: divider
   - title: repositories
     permalink: /repositories/
 ---
