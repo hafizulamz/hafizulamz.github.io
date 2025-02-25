@@ -1,7 +1,7 @@
 ---
 layout: 
 title: "Contact"
-permalink: /contact
+permalink: /contact/
 subtitle: false
 
 profile: 
