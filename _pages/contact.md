@@ -20,7 +20,7 @@ social: false
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="shortcut icon" href="/assets/img/favicon.ico"/>
-    <title>Digital Business Card | Mohd Hafizul Afifi Abdullah</title>
+    <title>Virtual Business Card | Mohd Hafizul Afifi Abdullah</title>
     <style>
         body {
             font-family: Arial, sans-serif;
