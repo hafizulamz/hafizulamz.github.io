@@ -61,6 +61,23 @@ social: false
         .card a:hover {
             text-decoration: underline;
         }
+        .button {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 15px;
+            background: #2698ba;
+            color: white !important;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none !important;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        .button:hover {
+            background: #1b7087;
+            text-decoration: none !important;
+        }
         .email-popup {
 			display: none;
 			position: fixed;
@@ -73,7 +90,7 @@ social: false
 			box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
 			text-align: center;
 			width: 90%;
-			max-width: 600px; /* Optional: Prevents it from being too wide on larger screens */
+			max-width: 600px;
 		}
         .email-popup img {
             max-width: 100%;
@@ -106,6 +123,7 @@ social: false
             <a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en" target="_blank">Google Scholar</a> |
 			<a href="https://calendar.google.com/calendar/embed?src=hafizulafifi%40utar.edu.my&ctz=Asia%2FSingapore" target="_blank">Calendar</a>
         </p>
+        <a href="/assets/contact/vcard.vcf" class="button">Add to Contact</a>
     </div>
     
     <div id="email-popup" class="email-popup">
