@@ -63,7 +63,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                 <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Hands-on Lab</span>
               </div>
               <p class="card-text">
-                <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22</h6>
+                <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22, Sep 23, May 24</h6>
                 <ul>
                   <li>Data analysis, cleansing, and preparation</li>
                   <li>Data visualization, Pivot tables and charts</li>
@@ -92,7 +92,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                 <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Hands-on Lab</span>
               </div>
               <p class="card-text">
-                <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Sep 22, Jan 23</h6>
+                <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22, Jan 23, Jan 24, May 24</h6>
                 <ul>
                   <li>Environment setup</li>
                   <li>Big data systems: HDFS, Mapreduce, Hive, Spark</li>
