@@ -8,8 +8,10 @@ children:
   - title: contact
     permalink: /contact/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: cv
+    permalink: /cv/
+#  - title: projects
+#    permalink: /projects/
   - title: repositories
     permalink: /repositories/
 ---
