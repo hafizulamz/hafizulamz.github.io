@@ -1,18 +1,8 @@
 ---
-layout: page
+layout: 
 title: "Contact"
 permalink: /contact/
 subtitle: false
-
-profile: 
-  align: false
-  image: false
-  image_circular: false
-  more_info: false
-
-news: false
-selected_papers: false
-social: false
 ---
 
 <html lang="en">
