@@ -89,7 +89,7 @@ social: false
             box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
             text-align: center;
             width: 90%;
-            max-width: 600px;
+            max-width: 400px;
         }
         .email-popup img {
             max-width: 100%;
@@ -130,7 +130,7 @@ social: false
         <img src="/assets/img/hafizul.jpg" alt="Profile Picture">
         <h2>Mohd Hafizul Afifi bin Abdullah</h2>
         <p>Lecturer, Universiti Tunku Abdul Rahman (UTAR), Malaysia</p>
-        <p>Office: NG-002, FICT (Block N), UTAR</p>
+        <p><b>Office: NG-002, FICT (Block N), UTAR</b></p>
 
         <div class="meeting-buttons">
             <a href="https://calendar.app.google/akiTetLdJ64gZ2p9A" class="button">Online Meeting</a>
