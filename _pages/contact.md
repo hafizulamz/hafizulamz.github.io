@@ -94,15 +94,20 @@ social: false
         .email-popup img {
             max-width: 100%;
             height: auto;
+            margin-bottom: 15px;
         }
         .close-btn {
-            margin-top: 10px;
-            padding: 5px 10px;
+            display: block;
+            margin-top: 15px;
+            padding: 8px 15px;
             background: #2698ba;
             color: white;
             border: none;
             border-radius: 5px;
             cursor: pointer;
+            font-size: 14px;
+            font-weight: bold;
+            width: 100%;
         }
         .close-btn:hover {
             background: #1b7087;
