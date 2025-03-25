@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mohd Hafizul Afifi bin Abdullah",
-    "role": "Tutor / Teaching Assistant",
+    "role": "Lecturer",
     "image": "me.png",
-    "email": "mohd_20002084@utp.edu.my",
+    "email": "hafizulafifi@utar.edu.my",
     "phone": "",
     "url": "https://hafizulabdullah.com/",
-    "summary": "Specializes in Information Extraction, Predictive Analytics, Big Data Analytics, AI/ML",
+    "summary": "Specializes in Information Extraction, Big Data Analytics, AI/ML",
     "location": {
       "address": "",
       "postalCode": "32610",
@@ -24,13 +24,22 @@
   },
   "work": [
     {
+      "name": "Universiti Tunku Abdul Rahman, Perak, Malaysia",
+      "position": "Lecturer",
+      "url": "https://www2.utar.edu.my/staffListDetailV2.jsp?searchId=25008",
+      "startDate": "2025-02-03",
+      "endDate": "",
+      "summary": "Assisted PI in conducting workshop sessions. Prepare research papers and reports.",
+      "highlights": ["Teaching & learning, Research"]
+    },
+    {
       "name": "Universiti Teknologi PETRONAS, Perak, Malaysia",
       "position": "Special Services",
       "url": "https://www.utp.edu.my/",
       "startDate": "2020-12-16",
       "endDate": "2021-01-15",
       "summary": "Assisted PI in conducting workshop sessions. Prepare research papers and reports.",
-      "highlights": ["Research and T&L"]
+      "highlights": ["Research, teaching & learning"]
     },
     {
       "name": "Centre for Research in Data Science (CeRDaS), Universiti Teknologi PETRONAS, Perak, Malaysia",
@@ -48,7 +57,7 @@
       "startDate": "2020-03-01",
       "endDate": "2020-05-15",
       "summary": "Assisted PI in conducting workshop sessions. Prepare research papers and reports.",
-      "highlights": ["Research and T&L"]
+      "highlights": ["Research, teaching & learning"]
     },
     {
       "name": "Gates IT Solution Sdn Bhd, Selangor, Malaysia",
@@ -96,7 +105,7 @@
       "startDate": "2021-01-16",
       "endDate": "",
       "score": "Currently Enrolled",
-      "courses": ["Research Mode"]
+      "courses": ["Research: Information extraction, Natural language processing, Deep learning"]
     },
     {
       "institution": "Universiti Tun Hussein Onn Malaysia, Johor, Malaysia",
@@ -107,7 +116,7 @@
       "startDate": "2016-03-01",
       "endDate": "2020-03-31",
       "score": "Pass",
-      "courses": ["Research Mode"]
+      "courses": ["Research: Neural networks, Machine learning"]
     },
     {
       "institution": "Universiti Tun Hussein Onn Malaysia, Johor, Malaysia",
