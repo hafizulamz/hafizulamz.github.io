@@ -1,5 +1,5 @@
 ---
-layout: 
+layout:
 title: "Contact"
 permalink: /contact/
 subtitle: false
@@ -132,12 +132,12 @@ subtitle: false
 
         <a href="http://hafizulabdullah.com/" class="back-home">&larr; Back to Homepage</a>
     </div>
-    
+
     <div id="email-popup" class="email-popup">
         <img src="/assets/img/email.png" alt="Email Address">
         <button class="close-btn" onclick="closeEmailPopup()">Close</button>
     </div>
-    
+
     <script>
         function showEmailPopup() {
             document.getElementById('email-popup').style.display = 'block';
@@ -146,5 +146,6 @@ subtitle: false
             document.getElementById('email-popup').style.display = 'none';
         }
     </script>
+
 </body>
 </html>

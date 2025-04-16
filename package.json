@@ -1,6 +1,24 @@
 {
   "devDependencies": {
     "@shopify/prettier-plugin-liquid": "1.4.0",
-    "prettier": "3.1.1"
-  }
+    "prettier": "^3.1.1"
+  },
+  "name": "hafizulamz.github.io.git",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "purgecss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hafizulamz/hafizulamz.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hafizulamz/hafizulamz.github.io/issues"
+  },
+  "homepage": "https://github.com/hafizulamz/hafizulamz.github.io#readme"
 }

@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  bebai sungguh hang ni!
-date:   2022-06-01 06:19:16
+title: bebai sungguh hang ni!
+date: 2022-06-01 06:19:16
 description: menerangkan siapa itu 'researcher' dalam Bahasa Melayu yang mudah
 tags: researcher, definition
-categories: 
+categories:
 ---
+
 Bebai sungguh! Researcher ini memang orang yang bebai.. Bebai bukan bermaksud payah paham..
 
 Tapi bermaksud degil.. Tak nak dengar kata.
@@ -14,8 +15,8 @@ Kenapa `researcher` tu seorang yang bebai? Apa masalahnya?
 
 Researcher ni 'bebai' sebab dia tak dengar kata.
 
-
 #### Hipster list
+
 <ul>
     <li>Orang kata tak payahla sambung belaja.. tapi dia tak nak dengar, dia buat jugak.. BEBAI..</li>
     <li>Orang kata, buat cara ni tak jadi.. guna cara lain.. dia buat jugak.</li>

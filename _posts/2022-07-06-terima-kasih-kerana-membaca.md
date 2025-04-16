@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  terima kasih kerana membaca
-date:   2022-07-06 21:16:16
-description: Terima kasih tekun membaca, siapa kata rakyat Malaysia malas membaca.  
+title: terima kasih kerana membaca
+date: 2022-07-06 21:16:16
+description: Terima kasih tekun membaca, siapa kata rakyat Malaysia malas membaca.
 tags: pesanan
-categories: 
+categories:
 ---
 
 <div class="row mt-3">
@@ -21,25 +21,25 @@ Aku pun bertanya,
 "Kereta bos ke tu?"
 Smart giler! Dia hanya menganguk sambil tersenyum...
 
-"Dari mana bos?" 
+"Dari mana bos?"
 Dari Tun Hussien Onn katanya. Bisnes ke?
-Consultant jawabnya. 
+Consultant jawabnya.
 
 Oooh...
 "Consultant untuk pinjaman perniagaan dan penasihat kepada bank-bank di Malaysia".
-"Waww"!!! 
+"Waww"!!!
 Mesti best jawab hati aku.
 "Saya dah 30 tahun dalam bidang ini," katanya.
 
 Aku tanya dia, "Macam mana ye jika saya mahu mengembangkan perniagaan yang ada kepada lebih besar dengan modal yang tak seberapa ada?"
 Dia tersenyum dan katanya,
-"Saya nasihatkan guna apa yang kita ada tanpa membuat sebarang pinjaman bank. Apa yang ada, besarkan modal. Saya bermula dari kecil. Mula ada RM10k, kemudian RM20k, RM60k, RM80k, 
+"Saya nasihatkan guna apa yang kita ada tanpa membuat sebarang pinjaman bank. Apa yang ada, besarkan modal. Saya bermula dari kecil. Mula ada RM10k, kemudian RM20k, RM60k, RM80k,
 kemudian kepada RM100k, RM200k, RM400k dan RM800k. Cuba guna sumber yang ada untuk kegunaan perniagaan. Paling seronok jika dapat RM1 juta yang pertama. Selepas itu untuk mendapat RM1 juta yang ke-2 terlalu mudah dan pantas," katanya.
 Aku terdiam..
 
 "Ramai orang susah datang berjumpa saya, mereka bertanya apa rahsia saya? Saya akan berkata,
 "Allah jadikan dunia ini untuk kita, kita dikurniakan akal, gunakan sebaik mungkin. Jujur dan jangan menipu. Ramai yang tak yakin janji Allah sedangkan dia suruh berdoa, mintalah apa sahaja dan "pasti" akan ditunaikan.
-"Yang paling utama, kita kena bersihkan seluruhnya. Solat 5 waktu, duha jangan tinggal, bangun tahajud malam. Minta sungguh-sungguh. Pekerja saya, bila azan bergema, saya arahkan tinggalkan kerja 'sekarang'. Tiada nilai 1 sen pun jika buat kerja waktu tu! Allah panggil kita menghadap dia. Tapi kadang kala kita cakap, 
+"Yang paling utama, kita kena bersihkan seluruhnya. Solat 5 waktu, duha jangan tinggal, bangun tahajud malam. Minta sungguh-sungguh. Pekerja saya, bila azan bergema, saya arahkan tinggalkan kerja 'sekarang'. Tiada nilai 1 sen pun jika buat kerja waktu tu! Allah panggil kita menghadap dia. Tapi kadang kala kita cakap,
 "Tunggu jap aku nak siapkan lagi 1 lagi!"
 Allah itu pencipta alam semesta. Kita boleh cakap pula pada dia macam tu?,"
 
@@ -53,7 +53,7 @@ Jika ada master, degree , diploma atau bapak gajah sijil pun, jika tak solat say
 
 Ada yang berkata, "Abang tu bawa 'Transformers' pergi masjid". Jika saya, bawa Kancil je. Katanya, "Kereta itu milik Allah. Dia bagi pinjam je tu. Apa salahya saya bawak dia pergi menghadap Allah? Hati niat kena betul, jangan niat nak menunjuk-nunjuk. Niatkan nak cepat menghadap Allah, nak memotivasikan orang lain supaya lebih rajin berusaha. Kereta itu saya beli hampir RM700k import. Di atas jalan raya Malaysia cuma ada 2 biji je orang pakai. Saya bukan tak mahu Ferrari atau Lamborgini. Sebab ekzos dia bising. Kereta Chevrolet Mustang ini lagi laju dari Ferrari atau Lamborgini. Kereta ini 6.2CC. Ferrari dan Lamborgini baru 4.8CC. 10% dari pendapatan saya tetap untuk anak yatim, fakir miskin. Niat apa yang kita ada untuk manfaat pada orang lain. Kereta itu cuma besi yang diisi enjin, dituang minyak. Start dan berjalanlah dia. Jika kita ukur panjangnya pun dah tak muat masuk kubur".
 
-Satu lagi pesan saya. "Berkawan", kita yang perlu pilih. Pilih orang yang boleh membawa kita kepada kebaikan di dunia dan yang paling utama, Akhirat. 
+Satu lagi pesan saya. "Berkawan", kita yang perlu pilih. Pilih orang yang boleh membawa kita kepada kebaikan di dunia dan yang paling utama, Akhirat.
 Dunia ini pinjaman. Carilah pinjaman yang terbaik disini. Untuk kekayaan sebenar di sana.
 
 Waah !!! hebat giler bila berjumpa somebody.
@@ -67,7 +67,7 @@ Saya mohon kepada gadis-gadis dan juga para abang-abang, adik-adik, baca post ni
 
 "Aamiin. KITA BERSAHABAT KERANA ALLAH S.W.T.
 
-Terima kasih tekun membaca, siapa kata rakyat Malaysia malas membaca.  
+Terima kasih tekun membaca, siapa kata rakyat Malaysia malas membaca.
 
 (Perkongsian Manfaat.)
 

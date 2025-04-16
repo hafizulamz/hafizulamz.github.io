@@ -41,8 +41,6 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
   </div>
 </div>
 
-
-
 <article>
   <div class="projects">
     <a id="utp" hrefxx="">
@@ -253,8 +251,6 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
     </div>
   </div>
 </article>
-
-
 
 <h3 class="mt-4">courses and workshops conducted</h3>
 <div class="col">

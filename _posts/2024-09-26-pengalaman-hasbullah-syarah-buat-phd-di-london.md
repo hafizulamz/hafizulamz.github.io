@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Pengalaman Hasbullah Syarah buat PhD di London
-date:   2024-09-26 11:29:35
+title: Pengalaman Hasbullah Syarah buat PhD di London
+date: 2024-09-26 11:29:35
 description: pengalaman phd hasbullah syarah
 tags: motivation
-categories: 
+categories:
 ---
 
 Bagi sesiapa yang berminat nak sambung PhD di luar negara (atau dalam negara), atau yang nak timba pengalaman di luar negara. Boleh tonton video perkongsian Dr. Hasbullah Syarah di bawah. Semoga bermanafaat...

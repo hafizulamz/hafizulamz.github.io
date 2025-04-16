@@ -195,11 +195,7 @@
     {
       "name": "Personal Interest",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Teaching",
-        "Exploring techs",
-        "Coding"
-      ]
+      "keywords": ["Teaching", "Exploring techs", "Coding"]
     }
   ],
   "projects": [
