@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exploring Study and Research Opportunities in Germany with DAAD scholarships
+title: Exploring Study and Research Opportunities in Germany
 date: 2025-04-16 13:25:35
 description: study and research opportunities in Germany
 tags: scholarships, research opportunity
