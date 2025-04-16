@@ -131,8 +131,8 @@ bing_site_verification: 71D2342C4B8C3FA624C7D5B06277C3CD # your bing-site-verifi
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: santai pelita bahasaku # blog_name will be displayed in your blog page
-blog_description: tempat menulis dan berkongsi coretan saya
+blog_name: Opportunity # This will be displayed on your blog page
+blog_description: Discover scholarship opportunities, openings, and chances to grow.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
