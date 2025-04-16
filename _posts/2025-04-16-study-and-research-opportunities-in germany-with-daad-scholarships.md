@@ -16,3 +16,4 @@ If you're interested in learning more about how you can benefit from DAAD schola
 Don't miss this opportunity to take the next step toward your bright academic future!
 
 📌 DAAD Website: https://www.daad.de/en/
+📌 DAAD Scholarships & Fundings: https://www.daad.de/en/studying-in-germany/scholarships/
