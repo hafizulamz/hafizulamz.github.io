@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Exploring Study and Research Opportunities in Germany with DAAD scholarships
-date:   2025-04-16 13:25:35
+title: Exploring Study and Research Opportunities in Germany with DAAD scholarships
+date: 2025-04-16 13:25:35
 description: study and research opportunities in Germany
 tags: scholarships, research opportunity
-categories: 
+categories:
 ---
 
 Are you looking to pursue your studies or research in Germany? The German Academic Exchange Service (DAAD) offers a wide range of scholarships and funding programs designed to support international academic cooperation and research. Whether you're an undergraduate, postgraduate, or a young researcher, DAAD can help pave the way for your academic journey in one of the world's leading educational systems.

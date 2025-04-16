@@ -1,22 +1,23 @@
 ---
 layout: post
-title:  Invitation to the 22nd International STEM & Innovation Virtual Colloquium Series (ISICS)
-date:   2025-04-16 20:46:35
+title: Invitation to the 22nd International STEM & Innovation Virtual Colloquium Series (ISICS)
+date: 2025-04-16 20:46:35
 description: STEM Virtual Colloquium
 tags: stem, knowledge sharing, colloquium
-categories: 
+categories:
 ---
 
 **Hosted by:** Universiti Malaysia Perlis (UniMAP)
 
-We are honored to feature **Dr. Vinton G. Cerf**, widely recognized as the *"Father of the Internet"*, in our upcoming session.
+We are honored to feature **Dr. Vinton G. Cerf**, widely recognized as the _"Father of the Internet"_, in our upcoming session.
 
 ### Speaker Highlights:
-- 2023 IEEE Medal of Honor  
-- 2004 ACM Turing Award  
+
+- 2023 IEEE Medal of Honor
+- 2004 ACM Turing Award
 - Vice President & Chief Internet Evangelist, Google
 
-**Talk Title:** *On the Development of the Internet and Artificial Intelligence*  
+**Talk Title:** _On the Development of the Internet and Artificial Intelligence_  
 **Date:** April 18, 2025 (Friday)  
 **Time:** 9:00 AM – 11:00 AM (Malaysia Time)  
 **Platform:** Zoom & YouTube Live

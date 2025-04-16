@@ -28,7 +28,7 @@ profiles:
     more_info: <!--<p>caption if necessary</p>-->
 
   - align: right
-    image: 
+    image:
     content: bio/bio-04.md
     image_circular: false # crops the image to make it circular
     more_info: <!--<p>caption if necessary</p>-->

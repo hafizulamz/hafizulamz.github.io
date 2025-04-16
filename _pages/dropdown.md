@@ -10,8 +10,8 @@ children:
   - title: divider
   - title: cv
     permalink: /cv/
-#  - title: projects
-#    permalink: /projects/
+  #  - title: projects
+  #    permalink: /projects/
   - title: repositories
     permalink: /repositories/
 ---
