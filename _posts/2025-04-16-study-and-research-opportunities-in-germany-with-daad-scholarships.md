@@ -18,4 +18,3 @@ Don't miss this opportunity to take the next step toward your bright academic fu
 📌 DAAD Website: [https://www.daad.de/en/](https://www.daad.de/en/)
 
 📌 DAAD Scholarships & Fundings: [https://www.daad.de/en/studying-in-germany/scholarships/](https://www.daad.de/en/studying-in-germany/scholarships/)
-
