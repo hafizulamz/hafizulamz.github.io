@@ -6,7 +6,7 @@ subtitle: Specializes in Information Extraction, Predictive Analytics, Big Data 
 
 profile:
   align: right
-  image: me.png
+  image: hafizul-bnw.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Universiti Teknologi PETRONAS</p>
