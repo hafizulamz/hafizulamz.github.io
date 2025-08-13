@@ -338,9 +338,9 @@ subtitle: false
           </div>
         </div>
       </div>
-      <p class="instruction">Enter your current semester grades and credit hours below:</p>
       <div id="course-container">
-        <div class="course-row">
+        <p class="instruction">Enter your target grade for current semester below:</p>
+		<div class="course-row">
           <div class="subject-label">Course 1</div>
           <div class="course-inputs">
             <div>
