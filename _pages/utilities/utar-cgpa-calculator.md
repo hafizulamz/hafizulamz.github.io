@@ -1,7 +1,7 @@
 ---
 layout:
 title: "UTAR CGPA Calculator | Mohd Hafizul Afifi Abdullah"
-permalink: /acad/utar-cgpa-calculator/
+permalink: /utilities/utar-cgpa-calculator/
 subtitle: false
 ---
 

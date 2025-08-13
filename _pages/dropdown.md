@@ -8,7 +8,7 @@ children:
   - title: contact
     permalink: /contact/
   - title: UTAR CGPA calculator
-    permalink: /acad/utar-cgpa-calculator/
+    permalink: /utilities/utar-cgpa-calculator/
   - title: divider
   - title: cv
     permalink: /cv/
