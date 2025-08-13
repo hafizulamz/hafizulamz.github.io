@@ -22,6 +22,9 @@ subtitle: false
         background-color: #121212;
         color: #fff;
         margin: 0;
+		height: 100vh;
+		box-sizing: border-box;
+		padding: 40px 0;
       }
 
       .card {
