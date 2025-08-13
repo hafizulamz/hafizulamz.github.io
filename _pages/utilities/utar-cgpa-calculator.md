@@ -436,6 +436,8 @@ subtitle: false
             </tr>
           </tbody>
         </table>
+        <p>This CGPA calculator is for guidance only. To get assistance, click the button below:</p>
+        <button class="add-course-button" onclick="window.open('https://hafizulabdullah.com/contact/', '_blank', 'noopener,noreferrer')"> Schedule Appointment </button>
       </div>
     </div>
     <script>
@@ -504,6 +506,7 @@ subtitle: false
         div.className = 'course-row';
         div.innerHTML = `
       
+				
 				<div class="subject-label">Course ${count}</div>
 				<div class="course-inputs">
 					<div>
@@ -621,15 +624,18 @@ subtitle: false
         let warningMessage = '';
         if (currentSemesterGPA < 2 || cumulativeCgpa < 2) {
           warningMessage = `
+				
 				<div class="warning-message">⚠️ Reminder: Your GPA/CGPA is below 2. Please strive to maintain a GPA above 2 for good academic standing.</div>`;
         }
         resultDiv.classList.remove('error');
         resultDiv.classList.add('success');
         resultDiv.innerHTML = `
       Your Current Semester GPA is: 
+				
 				<strong>${currentSemesterGPA.toFixed(2)}</strong>
 				<br>
       Your Cumulative CGPA is: 
+					
 					<strong>${cumulativeCgpa.toFixed(2)}</strong>
       ${warningMessage}
     `;
