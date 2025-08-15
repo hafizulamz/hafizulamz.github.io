@@ -382,7 +382,7 @@ subtitle: false
       <div id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
         <button class="close-btn" aria-label="Close">&times;</button>
         <h3 id="modal-title">UTAR Grade Conversion Table</h3>
-        <p>This grade conversion table is used at Universiti Tunku Abdul Rahman (UTAR)</p>
+        <p>This grade conversion table is used at Universiti Tunku Abdul Rahman (UTAR).</p>
         <table>
           <thead>
             <tr>
@@ -628,16 +628,16 @@ subtitle: false
         if (currentSemesterGPA < 2 || cumulativeCgpa < 2) {
           warningMessage = `
 				
-				<div class="warning-message">⚠️ Reminder: Your GPA/CGPA is below 2. Please strive to maintain a GPA above 2 for good academic standing.</div>`;
+				<div class="warning-message">⚠️ Reminder: Targeted GPA/CGPA is below 2. Please strive to maintain a CGPA above 2 for good academic standing.</div>`;
         }
         resultDiv.classList.remove('error');
         resultDiv.classList.add('success');
         resultDiv.innerHTML = `
-      Your Current Semester GPA is: 
+      Targeted Trimester GPA is: 
 				
 				<strong>${currentSemesterGPA.toFixed(2)}</strong>
 				<br>
-      Your Cumulative CGPA is: 
+      Targeted Cumulative CGPA is: 
 					
 					<strong>${cumulativeCgpa.toFixed(2)}</strong>
       ${warningMessage}
