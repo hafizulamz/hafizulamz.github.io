@@ -6,7 +6,7 @@ subtitle: Specializes in Information Extraction, Predictive Analytics, Big Data 
 
 profile:
   align: right
-  image: hafizul-bnw.jpg
+  image: hafizul-bg.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Universiti Tunku Abdul Rahman</p>
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 <b>Dr. Mohd Hafizul Afifi bin Abdullah</b> is a lecturer at Universiti Tunku Abdul Rahman (UTAR). He holds a Ph.D in Information technology from Universiti Teknologi PETRONAS, a B.Sc. in Computer Science and an M.Sc. in Information Technology from Universiti Tun Hussein Onn Malaysia.
 
-He is an expert in the area of Information Extraction, Big Data Analytics, AI, Machine Learning, and Deep Learning. 
+He specializes in the area of Information Extraction, Big Data Analytics, AI, Machine Learning, and Deep Learning. 
 
 Dr. Hafizul has 8 years of research experience and 5 years of teaching experience. He is a certified Graduate Technologist by MBOT, IEEE Member, and serves as reviewer for computer science and information technology academic journals.
 
