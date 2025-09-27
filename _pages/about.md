@@ -6,7 +6,7 @@ subtitle: Specializes in Information Extraction, Predictive Analytics, Big Data 
 
 profile:
   align: right
-  image: hafizul-bg.png
+  image: me.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Universiti Tunku Abdul Rahman</p>
