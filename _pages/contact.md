@@ -10,7 +10,7 @@ subtitle: false
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/assets/img/favicon.ico"/>
-    <title>Virtual Business Card | Mohd Hafizul Afifi Abdullah</title>
+    <title>Virtual Business Card | Dr. Mohd Hafizul Afifi Abdullah</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -118,7 +118,7 @@ subtitle: false
 <body>
     <div class="card">
         <img src="/assets/img/hafizul.jpg" alt="Profile Picture">
-        <h2>Mohd Hafizul Afifi bin Abdullah</h2>
+        <h2>Dr. Mohd Hafizul Afifi bin Abdullah</h2>
         <p>Lecturer, Universiti Tunku Abdul Rahman (UTAR), Malaysia</p>
         <p><b>Office: NG-002, FICT (Block N), UTAR</b></p>
 

@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Mohd Hafizul Afifi
+first_name: Dr. Mohd Hafizul Afifi
 middle_name:
 last_name: Abdullah
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Mohd Hafizul Afifi Abdullah is a PhD candidate and researcher in information technology at the Universiti Teknologi PETRONAS.
+  Dr. Mohd Hafizul Afifi Abdullah is a researcher and lecturer at Universiti Tunku Abdul Rahman (UTAR) specializing in artificial intelligence and deep learning.
 footer_text: >
   Visit my <a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en" target="_blank">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah" target="_blank">ResearchGate</a>.
 keywords: hafizul, hafizul-abdullah, hafizul-afifi, utp, uthm, researcher, universiti-teknologi-petronas, cerdas, hpc3 # add your own keywords or leave empty
