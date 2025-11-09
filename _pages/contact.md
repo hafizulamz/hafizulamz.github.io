@@ -11,141 +11,326 @@ subtitle: false
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/assets/img/favicon.ico"/>
     <title>Virtual Business Card | Dr. Mohd Hafizul Afifi Abdullah</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #121212;
-            color: #ffffff;
-            margin: 0;
-        }
-        .card {
-            background: #1e1e1e;
-            padding: 25px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
-            text-align: center;
-            max-width: 350px;
-        }
-        .card img {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            margin-bottom: 15px;
-            border: 2px solid #ffffff;
-        }
-        .card h2 {
-            margin: 10px 0;
-            color: #ffffff;
-        }
-        .card p {
-            color: #aaaaaa;
-            margin-bottom: 8px;
-        }
-        .button {
-            display: inline-block;
-            margin: 8px 5px;
-            padding: 10px 15px;
-            background: #2698ba;
-            color: white !important;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            text-decoration: none !important;
-            font-size: 14px;
-            font-weight: bold;
-        }
-        .button:hover {
-            background: #1b7087;
-        }
-        .meeting-buttons {
-            margin-top: 10px;
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-        }
-        .email-popup {
-            display: none;
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background: #1e1e1e;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
-            text-align: center;
-            width: 90%;
-            max-width: 400px;
-        }
-        .email-popup img {
-            max-width: 100%;
-            height: auto;
-            margin-bottom: 15px;
-        }
-        .close-btn {
-            display: block;
-            margin-top: 15px;
-            padding: 8px 15px;
-            background: #2698ba;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 14px;
-            font-weight: bold;
-            width: 100%;
-        }
-        .close-btn:hover {
-            background: #1b7087;
-        }
-        .back-home {
-            display: block;
-            margin-top: 20px;
-            color: #2698ba;
-            text-decoration: none;
-            font-size: 14px;
-            font-weight: bold;
-        }
-        .back-home:hover {
-            text-decoration: underline;
-        }
-    </style>
+<style>
+  :root{
+    --bg:#121212;
+    --card:#1e1e1e;
+    --accent:#2698ba;
+    --muted:#aaa;
+    font-family:Arial,sans-serif;
+  }
+  body{
+    margin:0;
+    background:var(--bg);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+    padding:20px;
+    color:#fff;
+  }
+  .card{
+    width:90%;
+    max-width:550px;
+    min-width:320px;
+    background:var(--card);
+    border-radius:12px;
+    box-shadow:0 8px 30px rgba(0,0,0,0.6);
+    padding:18px;
+    overflow:hidden;
+  }
+  .top{
+    display:flex;
+    gap:12px;
+    align-items:center;
+  }
+  .avatar{
+    width:72px;
+    height:72px;
+    border-radius:50%;
+    background:linear-gradient(135deg,var(--accent),#6fb3ff);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:#fff;
+    font-weight:700;
+    font-size:28px;
+  }
+  h1{
+    font-size:18px;
+    margin:0;
+  }
+  p.title{
+    margin:4px 0 0;
+    color:var(--muted);
+    font-size:13px;
+  }
+  .bio{
+    color:var(--muted);
+    font-size:13px;
+    margin-top:12px;
+  }
+  .actions{
+    display:flex;
+    gap:8px;
+    margin-top:14px;
+    flex-wrap:wrap;
+  }
+  .btn{
+    flex:1;
+    padding:8px 10px;
+    border-radius:8px;
+    text-align:center;
+    font-weight:600;
+    cursor:pointer;
+    background:#2a2a2a;
+    color:#fff;
+    border:1px solid #444;
+    text-decoration:none;
+  }
+  .btn.primary{
+    background:var(--accent);
+    color:#fff;
+    border:none;
+  }
+  .qr-area{
+    display:flex;
+    gap:12px;
+    margin-top:14px;
+    align-items:center;
+    flex-wrap:wrap;
+  }
+  .qr{
+    width:120px;
+    height:120px;
+    border-radius:8px;
+    background:#fff;
+    padding:6px;
+    box-shadow:inset 0 1px 0 rgba(255,255,255,0.1);
+  }
+  .qr img{
+    width:100%;
+    height:100%;
+    display:block;
+  }
+  .qr-instructions{
+    font-size:13px;
+    color:var(--muted);
+  }
+  .fields{
+    margin-top:14px;
+    display:none;
+  }
+  .small{
+    font-size:12px;
+    color:var(--muted);
+  }
+  .linklike{
+    color:var(--accent);
+    text-decoration:underline;
+    cursor:pointer;
+  }
+  .controls{
+    display:flex;
+    gap:8px;
+    margin-top:10px;
+    flex-wrap:wrap;
+  }
+  footer{
+    margin-top:12px;
+    font-size:12px;
+    color:var(--muted);
+    text-align:center;
+  }
+
+  /* Mobile optimization */
+  @media(max-width:420px){
+    .card {
+      width:95%;
+      padding:15px;
+    }
+    .actions {
+      flex-direction: column;  /* stack buttons vertically */
+      gap:10px;
+    }
+    .qr-area {
+      flex-direction: column;  /* QR and instructions stack vertically */
+      align-items: center;
+      gap:12px;
+    }
+    .qr img {
+      width:140px;
+      height:140px;
+    }
+    .controls {
+      flex-direction: column; /* stack download & edit buttons */
+    }
+  }
+</style>
 </head>
 <body>
-    <div class="card">
-        <img src="/assets/img/hafizul.jpg" alt="Profile Picture">
-        <h2>Dr. Mohd Hafizul Afifi bin Abdullah</h2>
-        <p>Lecturer, Universiti Tunku Abdul Rahman (UTAR), Malaysia</p>
-        <p><b>Office: NG-002, FICT (Block N), UTAR</b></p>
 
-        <div class="meeting-buttons">
-            <a href="https://calendar.app.google/akiTetLdJ64gZ2p9A" class="button">Online Meeting</a>
-            <a href="https://calendar.app.google/ZVAdQqetn9LHdkuU6" class="button">Physical Meeting</a>
-        </div>
-
-        <a href="#" onclick="showEmailPopup()" class="button">Email</a>
-        <a href="/assets/contact/vcard.vcf" class="button">Add to Contact</a>
-
-        <a href="http://hafizulabdullah.com/" class="back-home">&larr; Back to Homepage</a>
+<div class="card" id="card">
+  <div class="top">
+    <div class="avatar" id="avatar">HA</div>
+    <div style="flex:1">
+      <h1 id="displayName">Dr Hafizul Abdullah</h1>
+      <p class="title" id="displayTitle">Lecturer — Universiti Tunku Abdul Rahman</p>
+      <div class="small" id="displayCompany">Universiti Tunku Abdul Rahman (UTAR)</div>
     </div>
+  </div>
 
-    <div id="email-popup" class="email-popup">
-        <img src="/assets/img/email.png" alt="Email Address">
-        <button class="close-btn" onclick="closeEmailPopup()">Close</button>
+  <div class="bio" id="displayBio">Specialising in Information Technology, Artificial Intelligence, and Machine Learning.</div>
+
+  <div class="actions">
+    <a id="callBtn" class="btn" href="tel:+60123456789">Call</a>
+    <a id="mailBtn" class="btn" href="mailto:hafizul@example.com">Email</a>
+    <a id="webBtn" class="btn" target="_blank" href="https://example.com">Website</a>
+    <button id="copyBtn" class="btn">Copy Phone</button>
+  </div>
+
+  <div class="qr-area">
+    <div class="qr">
+      <img id="qrImg" alt="QR code to save contact" src="" />
     </div>
+    <div>
+      <div class="qr-instructions"><strong>Scan to save contact</strong></div>
+      <div class="small" style="margin-top:6px">
+        If scanning doesn't prompt save, tap <span id="downloadLinkText" class="linklike">Download contact</span> below.
+      </div>
+      <div class="controls">
+        <a id="downloadVcf" class="btn primary" href="#" download="dr-hafizul-abdullah.vcf">Download contact</a>
+        <button id="editBtn" class="btn">Edit fields</button>
+      </div>
+    </div>
+  </div>
 
-    <script>
-        function showEmailPopup() {
-            document.getElementById('email-popup').style.display = 'block';
-        }
-        function closeEmailPopup() {
-            document.getElementById('email-popup').style.display = 'none';
-        }
-    </script>
+  <div class="fields" id="fields">
+    <hr style="border:none;border-top:1px solid #444;margin:12px 0" />
+    <label class="small">Full name</label><br/>
+    <input id="inputName" style="width:100%;padding:8px;border-radius:8px;border:1px solid #444" value="Dr Hafizul Abdullah" />
+    <br/><br/>
+    <label class="small">Title</label><br/>
+    <input id="inputTitle" style="width:100%;padding:8px;border-radius:8px;border:1px solid #444" value="Lecturer — Universiti Tunku Abdul Rahman" />
+    <br/><br/>
+    <label class="small">Company</label><br/>
+    <input id="inputCompany" style="width:100%;padding:8px;border-radius:8px;border:1px solid #444" value="Universiti Tunku Abdul Rahman (UTAR)" />
+    <br/><br/>
+    <label class="small">Phone (include +country)</label><br/>
+    <input id="inputPhone" style="width:100%;padding:8px;border-radius:8px;border:1px solid #444" value="+60123456789" />
+    <br/><br/>
+    <label class="small">Email</label><br/>
+    <input id="inputEmail" style="width:100%;padding:8px;border-radius:8px;border:1px solid #444" value="hafizul@example.com" />
+    <br/><br/>
+    <label class="small">Website (full URL)</label><br/>
+    <input id="inputWebsite" style="width:100%;padding:8px;border-radius:8px;border:1px solid #444" value="https://example.com" />
+    <br/><br/>
+    <label class="small">Address (one line)</label><br/>
+    <input id="inputAddress" style="width:100%;padding:8px;border-radius:8px;border:1px solid #444" value="Kampar, Perak, Malaysia" />
+    <br/><br/>
+    <div style="display:flex;gap:8px;flex-wrap:wrap">
+      <button id="saveBtn" class="btn primary">Save changes</button>
+      <button id="cancelBtn" class="btn">Close</button>
+    </div>
+  </div>
 
+  <footer>
+    vCard + QR sample — works on most iOS & Android cameras.
+  </footer>
+</div>
+
+<script>
+(function(){
+  const displayName = document.getElementById('displayName');
+  const displayTitle = document.getElementById('displayTitle');
+  const displayCompany = document.getElementById('displayCompany');
+  const avatar = document.getElementById('avatar');
+  const qrImg = document.getElementById('qrImg');
+  const downloadVcf = document.getElementById('downloadVcf');
+  const downloadLinkText = document.getElementById('downloadLinkText');
+
+  const editBtn = document.getElementById('editBtn');
+  const fields = document.getElementById('fields');
+  const saveBtn = document.getElementById('saveBtn');
+  const cancelBtn = document.getElementById('cancelBtn');
+
+  const inputName = document.getElementById('inputName');
+  const inputTitle = document.getElementById('inputTitle');
+  const inputCompany = document.getElementById('inputCompany');
+  const inputPhone = document.getElementById('inputPhone');
+  const inputEmail = document.getElementById('inputEmail');
+  const inputWebsite = document.getElementById('inputWebsite');
+  const inputAddress = document.getElementById('inputAddress');
+
+  const callBtn = document.getElementById('callBtn');
+  const mailBtn = document.getElementById('mailBtn');
+  const webBtn = document.getElementById('webBtn');
+  const copyBtn = document.getElementById('copyBtn');
+
+  function buildVCard(){
+    const name = inputName.value.trim();
+    const title = inputTitle.value.trim();
+    const company = inputCompany.value.trim();
+    const phone = inputPhone.value.trim();
+    const email = inputEmail.value.trim();
+    const website = inputWebsite.value.trim();
+    const address = inputAddress.value.trim();
+    return [
+      'BEGIN:VCARD',
+      'VERSION:3.0',
+      `FN:${name}`,
+      `N:${name};;;`,
+      company ? `ORG:${company}` : '',
+      title ? `TITLE:${title}` : '',
+      phone ? `TEL;TYPE=CELL:${phone}` : '',
+      email ? `EMAIL;TYPE=INTERNET:${email}` : '',
+      website ? `URL:${website}` : '',
+      address ? `ADR;TYPE=WORK:;;${address};;;;` : '',
+      'END:VCARD'
+    ].filter(Boolean).join('\r\n');
+  }
+
+  function updateCard(){
+    const name = inputName.value.trim();
+    const title = inputTitle.value.trim();
+    const company = inputCompany.value.trim();
+    const phone = inputPhone.value.trim();
+    const email = inputEmail.value.trim();
+    const website = inputWebsite.value.trim();
+
+    displayName.textContent = name;
+    displayTitle.textContent = title;
+    displayCompany.textContent = company;
+    avatar.textContent = initials(name);
+    callBtn.href = `tel:${phone}`;
+    mailBtn.href = `mailto:${email}`;
+    webBtn.href = website;
+
+    const vcard = buildVCard();
+    const qrData = encodeURIComponent(vcard);
+    qrImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=${qrData}`;
+    const vcfDataUri = 'data:text/vcard;charset=utf-8,' + encodeURIComponent(vcard);
+    downloadVcf.href = vcfDataUri;
+    downloadVcf.download = name.toLowerCase().replace(/\s+/g,'-') + '.vcf';
+    downloadLinkText.onclick = ()=>downloadVcf.click();
+  }
+
+  function initials(n){
+    const parts = n.split(/\s+/);
+    return (parts[0][0] + (parts[parts.length-1][0]||'')).toUpperCase();
+  }
+
+  editBtn.onclick = ()=>fields.style.display='block';
+  cancelBtn.onclick = ()=>fields.style.display='none';
+  saveBtn.onclick = ()=>{fields.style.display='none';updateCard();};
+  copyBtn.onclick = async ()=>{
+    try{await navigator.clipboard.writeText(inputPhone.value.trim());
+      copyBtn.textContent='Copied ✓';setTimeout(()=>copyBtn.textContent='Copy Phone',1500);
+    }catch(e){alert('Copy failed');}
+  };
+
+  updateCard();
+})();
+</script>
 </body>
 </html>
