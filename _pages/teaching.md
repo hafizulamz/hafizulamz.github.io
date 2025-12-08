@@ -129,13 +129,13 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22</h6>
                   <ul>
-                    <li>Fundamental: Datacenter trends, components, and security</li>
-                    <li>IT infrastructure for an enterprise: Platform as a Service (PaaS)</li>
-                    <li>Microsoft Azure and microservices</li>
-                    <li>Relational and NoSQL databases</li>
-                    <li>Data and computer networks</li>
-                    <li>IP classes, network address, and host address</li>
-                    <li>Security aspect of IT infrastructure</li>
+                    <li>Introduction to Android Studio</li>
+                    <li>Handling Input Events</li>
+                    <li>High Level UI</li>
+                    <li>Pictures, Drawables, and App Header</li>
+                    <li>Data Persistance and Other Storages</li>
+                    <li>Networking and Web Services</li>
+                    <li>Publishing Android Application</li>
                   </ul>
                 </p>
                 <div class="row ml-1 mr-1 p-0"> </div>
