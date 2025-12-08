@@ -14,6 +14,6 @@ children:
     permalink: /cv/
   #  - title: projects
   #    permalink: /projects/
-  - title: repositories
-    permalink: /repositories/
+  #- title: repositories
+  #  permalink: /repositories/
 ---
