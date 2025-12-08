@@ -44,12 +44,12 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
 <article>
   <div class="projects">
     <!-- Collapsible Header for UTAR -->
-    <a id="utar" class="d-block mt-4" data-toggle="collapse" href="#collapseUTAR" role="button" aria-expanded="false" aria-controls="collapseUTAR" style="text-decoration:none; color: inherit;">
+    <a id="utar" class="d-block mt-4" data-toggle="collapse" href="#collapseUTAR" role="button" aria-expanded="true" aria-controls="collapseUTAR" style="text-decoration:none; color: inherit;">
       <h2 class="category">Universiti Tunku Abdul Rahman (2025-Current) <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
     </a>
     
     <!-- Collapsible Content for UTAR -->
-    <div class="collapse" id="collapseUTAR">
+    <div class="collapse show" id="collapseUTAR">
       <!-- Metrics for UTAR -->
       <div class="row mt-3">
           <div class="col-sm mt-3 mt-md-0">
@@ -323,7 +323,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
 
 <!-- Collapsible Header for Courses/Workshops -->
 <a class="d-block mt-4" data-toggle="collapse" href="#collapseCourses" role="button" aria-expanded="false" aria-controls="collapseCourses" style="text-decoration:none; color: inherit;">
-  <h3 class="mt-4">courses and workshops conducted <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h3>
+  <h2 class="category">courses and workshops conducted <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
 </a>
 
 <!-- Collapsible Content for Courses/Workshops -->
