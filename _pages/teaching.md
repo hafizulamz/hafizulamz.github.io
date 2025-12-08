@@ -34,8 +34,8 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
     <a href="#" style="text-decoration:none">
       <div class="card hoverable"><div class="card-body">
         <p class="card-text">Student Support Rating</p>
-    <h2 class="card-title text-lowercase">4.95 / 5.0</h2>
-        <p class="card-text">based on 97 responses</p>
+    <h2 class="card-title text-lowercase">NA / 5.0</h2>
+        <p class="card-text">based on 0 responses</p>
       </div></div>
     </a>
   </div>
@@ -56,8 +56,8 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
             <a href="#" style="text-decoration:none">
               <div class="card hoverable"><div class="card-body">
                 <p class="card-text">Teaching Performance Rating</p>
-            <h2 class="card-title text-lowercase">0.00 / 5.0</h2>
-                <p class="card-text">based on 0 responses</p>
+            <h2 class="card-title text-lowercase">4.79 / 5.0</h2>
+                <p class="card-text">based on 178 total responses</p>
               </div></div>
             </a>
           </div>
@@ -65,7 +65,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
             <a href="#" style="text-decoration:none">
               <div class="card hoverable"><div class="card-body">
                 <p class="card-text">Student Support Rating</p>
-            <h2 class="card-title text-lowercase">0.00 / 5.0</h2>
+            <h2 class="card-title text-lowercase">NA / 5.0</h2>
                 <p class="card-text">based on 0 responses</p>
               </div></div>
             </a>
