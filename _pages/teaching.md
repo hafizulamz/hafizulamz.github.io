@@ -50,13 +50,14 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
     
     <!-- Collapsible Content for UTAR -->
     <div class="collapse" id="collapseUTAR">
+      <!-- Metrics for UTAR -->
       <div class="row mt-3">
           <div class="col-sm mt-3 mt-md-0">
             <a href="#" style="text-decoration:none">
               <div class="card hoverable"><div class="card-body">
                 <p class="card-text">Teaching Performance Rating</p>
-            <h2 class="card-title text-lowercase">4.94 / 5.0</h2>
-                <p class="card-text">based on 97 responses</p>
+            <h2 class="card-title text-lowercase">0.00 / 5.0</h2>
+                <p class="card-text">based on 0 responses</p>
               </div></div>
             </a>
           </div>
@@ -64,99 +65,18 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
             <a href="#" style="text-decoration:none">
               <div class="card hoverable"><div class="card-body">
                 <p class="card-text">Student Support Rating</p>
-            <h2 class="card-title text-lowercase">4.95 / 5.0</h2>
-                <p class="card-text">based on 97 responses</p>
+            <h2 class="card-title text-lowercase">0.00 / 5.0</h2>
+                <p class="card-text">based on 0 responses</p>
               </div></div>
             </a>
           </div>
+      </div>
+      
+      <div class="row mt-3">
+        <div class="col-sm mt-3 mt-md-0">
+             <p class="font-italic text-muted">Content for UTAR courses to be added here.</p>
         </div>
-        <div class="row row-cols-1 row-cols-md-3">
-        <div class="col">
-            <a href="#">
-            <div class="card h-100 hoverable">
-                <figure>
-                <picture>
-                    <img src="/assets/img/businessintelligence.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/> 
-                </picture>
-                </figure>
-                <div class="card-body">
-                <h2 class="card-title">Business Intelligence</h2>
-                <div class="col-sm-2 text-left text-sm-right">
-                    <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Hands-on Lab</span>
-                </div>
-                <p class="card-text">
-                    <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22, Sep 23, May 24</h6>
-                    <ul>
-                    <li>Data analysis, cleansing, and preparation</li>
-                    </ul>
-                </p>
-                <div class="row ml-1 mr-1 p-0"> </div>
-                </div>
-            </div>
-            </a>
-        </div>
-        <div class="col">
-            <a href="#">
-            <div class="card h-100 hoverable">
-                <figure>
-                <picture>
-                    <img src="/assets/img/bigdataanalytics.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/> 
-                </picture>
-                </figure>
-                <div class="card-body">
-                <h2 class="card-title">Big Data Analytics</h2>
-                <div class="col-sm-2 text-left text-sm-right">
-                    <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Hands-on Lab</span>
-                </div>
-                <p class="card-text">
-                    <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22, Jan 23, Jan 24, May 24</h6>
-                    <ul>
-                    <li>Environment setup</li>
-                    <li>Big data systems: HDFS, Mapreduce, Hive, Spark</li>
-                    <li>Unstructured database: Hbase and NoSql</li>
-                    <li>Setting up Python environment and IDE</li>
-                    <li>Data cleansing and preparation</li>
-                    <li>Data visualization</li>
-                    <li>Fundamental of machine learning using Python</li>
-                    <li>Run machine learning models</li>
-                    <li>Generate reports</li>
-                    <li><a href="https://www.pythoncheatsheet.org/">Python cheat sheet</a></li>
-                    </ul>
-                </p>
-                <div class="row ml-1 mr-1 p-0"> </div>
-                </div>
-            </div>
-            </a>
-        </div>
-        <div class="col">
-            <a href="#">
-            <div class="card h-100 hoverable">
-                <figure>
-                <picture>
-                    <img src="/assets/img/itpmispm.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/> 
-                </picture>
-                </figure>
-                <div class="card-body">
-                <h2 class="card-title">IT/IS Project Management</h2>
-                <div class="col-sm-2 text-left text-sm-right">
-                    <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
-                </div>
-                <p class="card-text">
-                    <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22, Jan 23, May 23</h6>
-                    <ul>
-                    <li>Create Work Breakdown Structure (WBS) and Gantt chart using ProjectLibre: <a href="https://youtu.be/9xwR4JCBaIU">video</a></li>
-                    <li>Managing resources: Setup and assign resources to tasks using ProjectLibre</li>
-                    <li>Create a project network diagram using ADM and Critical Path Analysis (CPA/CPM)</li>
-                    <li>CPA using Precedence Diagramming Method (PDM)</li>
-                    <li>Project management tool: SWOT analysis</li>
-                    </ul>
-                </p>
-                <div class="row ml-1 mr-1 p-0"> </div>
-                </div>
-            </div>
-            </a>
-        </div>
-        </div>
+      </div>
     </div>
 
     <!-- Collapsible Header for UTP -->
@@ -166,7 +86,8 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
     
     <!-- Collapsible Content for UTP -->
     <div class="collapse" id="collapseUTP">
-      <div class="row mt-3">
+        <!-- Metrics for UTP -->
+        <div class="row mt-3 mb-3">
           <div class="col-sm mt-3 mt-md-0">
             <a href="#" style="text-decoration:none">
               <div class="card hoverable"><div class="card-body">
@@ -186,6 +107,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
             </a>
           </div>
         </div>
+
         <div class="row row-cols-1 row-cols-md-3">
         <div class="col">
             <a href="#">
