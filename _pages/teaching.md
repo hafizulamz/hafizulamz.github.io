@@ -11,7 +11,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching.jpg" title="teaching experiences" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/teaching.jpg" title="supervising UTHM undergrads in circa 2017" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -43,13 +43,149 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
 
 <article>
   <div class="projects">
+    <!-- Collapsible Header for UTAR -->
+    <a id="utar" class="d-block mt-4" data-toggle="collapse" href="#collapseUTAR" role="button" aria-expanded="false" aria-controls="collapseUTAR" style="text-decoration:none; color: inherit;">
+      <h2 class="category">Universiti Tunku Abdul Rahman (2025-Current) <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
+    </a>
+    
+    <!-- Collapsible Content for UTAR -->
+    <div class="collapse" id="collapseUTAR">
+      <div class="row mt-3">
+          <div class="col-sm mt-3 mt-md-0">
+            <a href="#" style="text-decoration:none">
+              <div class="card hoverable"><div class="card-body">
+                <p class="card-text">Teaching Performance Rating</p>
+            <h2 class="card-title text-lowercase">4.94 / 5.0</h2>
+                <p class="card-text">based on 97 responses</p>
+              </div></div>
+            </a>
+          </div>
+          <div class="col-sm mt-3 mt-md-0">
+            <a href="#" style="text-decoration:none">
+              <div class="card hoverable"><div class="card-body">
+                <p class="card-text">Student Support Rating</p>
+            <h2 class="card-title text-lowercase">4.95 / 5.0</h2>
+                <p class="card-text">based on 97 responses</p>
+              </div></div>
+            </a>
+          </div>
+        </div>
+        <div class="row row-cols-1 row-cols-md-3">
+        <div class="col">
+            <a href="#">
+            <div class="card h-100 hoverable">
+                <figure>
+                <picture>
+                    <img src="/assets/img/businessintelligence.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/> 
+                </picture>
+                </figure>
+                <div class="card-body">
+                <h2 class="card-title">Business Intelligence</h2>
+                <div class="col-sm-2 text-left text-sm-right">
+                    <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Hands-on Lab</span>
+                </div>
+                <p class="card-text">
+                    <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22, Sep 23, May 24</h6>
+                    <ul>
+                    <li>Data analysis, cleansing, and preparation</li>
+                    </ul>
+                </p>
+                <div class="row ml-1 mr-1 p-0"> </div>
+                </div>
+            </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="#">
+            <div class="card h-100 hoverable">
+                <figure>
+                <picture>
+                    <img src="/assets/img/bigdataanalytics.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/> 
+                </picture>
+                </figure>
+                <div class="card-body">
+                <h2 class="card-title">Big Data Analytics</h2>
+                <div class="col-sm-2 text-left text-sm-right">
+                    <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Hands-on Lab</span>
+                </div>
+                <p class="card-text">
+                    <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22, Jan 23, Jan 24, May 24</h6>
+                    <ul>
+                    <li>Environment setup</li>
+                    <li>Big data systems: HDFS, Mapreduce, Hive, Spark</li>
+                    <li>Unstructured database: Hbase and NoSql</li>
+                    <li>Setting up Python environment and IDE</li>
+                    <li>Data cleansing and preparation</li>
+                    <li>Data visualization</li>
+                    <li>Fundamental of machine learning using Python</li>
+                    <li>Run machine learning models</li>
+                    <li>Generate reports</li>
+                    <li><a href="https://www.pythoncheatsheet.org/">Python cheat sheet</a></li>
+                    </ul>
+                </p>
+                <div class="row ml-1 mr-1 p-0"> </div>
+                </div>
+            </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="#">
+            <div class="card h-100 hoverable">
+                <figure>
+                <picture>
+                    <img src="/assets/img/itpmispm.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/> 
+                </picture>
+                </figure>
+                <div class="card-body">
+                <h2 class="card-title">IT/IS Project Management</h2>
+                <div class="col-sm-2 text-left text-sm-right">
+                    <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
+                </div>
+                <p class="card-text">
+                    <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22, Jan 23, May 23</h6>
+                    <ul>
+                    <li>Create Work Breakdown Structure (WBS) and Gantt chart using ProjectLibre: <a href="https://youtu.be/9xwR4JCBaIU">video</a></li>
+                    <li>Managing resources: Setup and assign resources to tasks using ProjectLibre</li>
+                    <li>Create a project network diagram using ADM and Critical Path Analysis (CPA/CPM)</li>
+                    <li>CPA using Precedence Diagramming Method (PDM)</li>
+                    <li>Project management tool: SWOT analysis</li>
+                    </ul>
+                </p>
+                <div class="row ml-1 mr-1 p-0"> </div>
+                </div>
+            </div>
+            </a>
+        </div>
+        </div>
+    </div>
+
     <!-- Collapsible Header for UTP -->
     <a id="utp" class="d-block mt-4" data-toggle="collapse" href="#collapseUTP" role="button" aria-expanded="false" aria-controls="collapseUTP" style="text-decoration:none; color: inherit;">
-      <h2 class="category">Universiti Teknologi PETRONAS (2021-2024) <span style="font-size: 0.6em; vertical-align: middle;">&#9660;</span></h2>
+      <h2 class="category">Universiti Teknologi PETRONAS (2021-2024) <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
     </a>
     
     <!-- Collapsible Content for UTP -->
     <div class="collapse" id="collapseUTP">
+      <div class="row mt-3">
+          <div class="col-sm mt-3 mt-md-0">
+            <a href="#" style="text-decoration:none">
+              <div class="card hoverable"><div class="card-body">
+                <p class="card-text">Teaching Performance Rating</p>
+            <h2 class="card-title text-lowercase">4.94 / 5.0</h2>
+                <p class="card-text">based on 97 responses</p>
+              </div></div>
+            </a>
+          </div>
+          <div class="col-sm mt-3 mt-md-0">
+            <a href="#" style="text-decoration:none">
+              <div class="card hoverable"><div class="card-body">
+                <p class="card-text">Student Support Rating</p>
+            <h2 class="card-title text-lowercase">4.95 / 5.0</h2>
+                <p class="card-text">based on 97 responses</p>
+              </div></div>
+            </a>
+          </div>
+        </div>
         <div class="row row-cols-1 row-cols-md-3">
         <div class="col">
             <a href="#">
@@ -228,7 +364,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
 
     <!-- Collapsible Header for UTHM -->
     <a id="uthm" class="d-block mt-4" data-toggle="collapse" href="#collapseUTHM" role="button" aria-expanded="false" aria-controls="collapseUTHM" style="text-decoration:none; color: inherit;">
-      <h2 class="category">Universiti Tun Hussein Onn Malaysia (2016-2020) <span style="font-size: 0.6em; vertical-align: middle;">&#9660;</span></h2>
+      <h2 class="category">Universiti Tun Hussein Onn Malaysia (2016-2020) <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
     </a>
 
     <!-- Collapsible Content for UTHM -->
@@ -265,7 +401,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
 
 <!-- Collapsible Header for Courses/Workshops -->
 <a class="d-block mt-4" data-toggle="collapse" href="#collapseCourses" role="button" aria-expanded="false" aria-controls="collapseCourses" style="text-decoration:none; color: inherit;">
-  <h3 class="mt-4">courses and workshops conducted <span style="font-size: 0.6em; vertical-align: middle;">&#9660;</span></h3>
+  <h3 class="mt-4">courses and workshops conducted <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h3>
 </a>
 
 <!-- Collapsible Content for Courses/Workshops -->
