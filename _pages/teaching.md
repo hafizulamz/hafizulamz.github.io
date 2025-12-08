@@ -228,8 +228,8 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <ul>
                     <li>Data analysis, cleansing, and preparation</li>
                     <li>Data visualization, Pivot tables and charts</li>
-                    <li>Preparation of an Excel dashboard</li>
-                    <li><a href="https://youtu.be/3BOummMBNJU">Install, design, and deploy Power BI dashboard</a></li>
+                    <li>Excel dashboard preparation</li>
+                    <li><a href="https://youtu.be/3BOummMBNJU">Design and deploy Power BI dashboard</a></li>
                     <li><a href="https://youtu.be/KeLI6O5ATaE">DAX query, forecasting, and Python on Power BI</a></li>
                     <li>Datasets: <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_8bf7af4f1f784dc586b7fbeebfd30012.xlsx?dn=2015%20Sales.xlsx">Sales</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_287d6522d075446e8f75b9513da30440.xlsx?dn=HR%20Data-26112019-Cleansed.xlsx">HR Data</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_399460a4bb4d4faa840ab8ae7ab1e175.xlsx?dn=Superstore%20(Raw%20data).xlsx">Superstore</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_3d66dba3f35f445887873d3e4ac9c169.xlsx?dn=Voting%20figures.xlsx">Votes</a></li>
                   </ul>
@@ -261,7 +261,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                     <li>Python and IDE Setup</li>
                     <li>Data cleansing and preparation</li>
                     <li>Data visualization</li>
-                    <li>Fundamental of ML using Python</li>
+                    <li>ML fundamental using Python</li>
                     <li>Run ML models</li>
                     <li>Reports generation</li>
                     <li><a href="https://www.pythoncheatsheet.org/">Python cheat sheet</a></li>
@@ -317,12 +317,12 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22</h6>
                   <ul>
                     <li>Fundamental: Datacenter trends, components, and security</li>
-                    <li>IT infrastructure for enterprise: Platform as a Service (PaaS)</li>
+                    <li>IT infra for enterprise: Platform as a Service (PaaS)</li>
                     <li>Microsoft Azure and microservices</li>
                     <li>Relational and NoSQL databases</li>
                     <li>Data and computer networks</li>
                     <li>IP classes, network address, and host address</li>
-                    <li>Security aspect of IT infrastructure</li>
+                    <li>IT infra security</li>
                   </ul>
                 </p>
                 <div class="row ml-1 mr-1 p-0"> </div>
