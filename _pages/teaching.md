@@ -81,7 +81,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         </div>
       </div>
 
-      <div class="row row-cols-1 row-cols-md-3">
+      <div class="row mt-3 row-cols-1 row-cols-md-3">
         <div class="col">
           <a href="#">
             <div class="card h-100 hoverable">
