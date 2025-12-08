@@ -317,6 +317,7 @@ subtitle: false
         color: #1b7087;
       }
     </style>
+
   </head>
   <body>
     <div class="card">

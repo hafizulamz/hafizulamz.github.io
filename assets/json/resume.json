@@ -105,7 +105,9 @@
       "startDate": "2021-01-16",
       "endDate": "2025-09-04",
       "score": "Graduated",
-      "courses": ["Thesis title: An Enhanced Embedding Strategy for Biomedical Text Event Extraction Using Deep Learning and Pretrained Language Model"]
+      "courses": [
+        "Thesis title: An Enhanced Embedding Strategy for Biomedical Text Event Extraction Using Deep Learning and Pretrained Language Model"
+      ]
     },
     {
       "institution": "Universiti Tun Hussein Onn Malaysia, Johor, Malaysia",
@@ -116,7 +118,9 @@
       "startDate": "2016-03-01",
       "endDate": "2020-03-31",
       "score": "Graduated",
-      "courses": ["Thesis title: Improved Personalised Data Modelling Using Parameter Independent Fuzzy Weighted k-Nearest Neighbour for Spatio/Spectro-Temporal Data"]
+      "courses": [
+        "Thesis title: Improved Personalised Data Modelling Using Parameter Independent Fuzzy Weighted k-Nearest Neighbour for Spatio/Spectro-Temporal Data"
+      ]
     },
     {
       "institution": "Universiti Tun Hussein Onn Malaysia, Johor, Malaysia",
