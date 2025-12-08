@@ -15,10 +15,10 @@ horizontal: false
     </div>
 </div>
 
-_**My Teaching philosophy:**_ I am a passionate educator who fosters active student participation throughout the teaching and learning process by applying `Active Learning` and `Outcome Based Education` approaches. I am experienced in teaching small and large groups while cultivating `positive relationships` with students to create an engaging and supportive learning environment.
+_**My Teaching philosophy:**_ I am a passionate educator who fosters active student participation throughout the teaching and learning process by applying `Outcome Based Education`. Experienced in teaching small and large groups while cultivating `Active Learning` to create an engaging and supportive learning environment.
 
 <div class="projects">
-  <h2 class="category">metrics</h2>
+  <h2 class="category">overall teaching metrics</h2>
 </div>
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
@@ -321,7 +321,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
     
     <!-- Collapsible Header for UTAR -->
     <a id="utar" class="d-block mt-4" data-toggle="collapse" href="#collapseCourses" role="button" aria-expanded="true" aria-controls="collapseCourses" style="text-decoration:none; color: inherit;">
-      <h2 class="category">short courses and workshops conducted<span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
+      <h2 class="category">short courses and workshops conducted <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
     </a>
     
     <!-- Collapsible Header for Courses/Workshops -->
