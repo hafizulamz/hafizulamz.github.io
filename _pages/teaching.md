@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: teaching philosophy
 description: my classes, workshops, and teaching materials.
 nav: true
 nav_order: 3
-display_categories: [Universiti Teknologi PETRONAS, Universiti Tun Hussein Onn Malaysia]
+display_categories: [Universiti Teknologi PETRONAS, Universiti Tun Hussein Onn Malaysia, Universiti Tunku Abdul Rahman]
 horizontal: false
 ---
 
@@ -44,7 +44,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
 <article>
   <div class="projects">
     <a id="utp" hrefxx="">
-      <h2 class="category">Universiti Teknologi PETRONAS</h2>
+      <h2 class="category">Universiti Teknologi PETRONAS (2021-2024)</h2>
     </a>
     <div class="row row-cols-1 row-cols-md-3">
       <div class="col">
@@ -221,7 +221,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
       </div>
     </div>
     <a id="uthm" hrefxx="">
-      <h2 class="category">Universiti Tun Hussein Onn Malaysia</h2>
+      <h2 class="category">Universiti Tun Hussein Onn Malaysia (2016-2020)</h2>
     </a>
     <div class="row row-cols-1 row-cols-md-3">
       <div class="col">
