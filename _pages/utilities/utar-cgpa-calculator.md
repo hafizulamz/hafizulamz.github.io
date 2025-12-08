@@ -1,6 +1,6 @@
 ---
 layout:
-title: "UTAR CGPA Calculator | Mohd Hafizul Afifi Abdullah"
+title: "UTAR CGPA Calculator | Dr. Mohd Hafizul Afifi Abdullah"
 permalink: /utilities/utar-cgpa-calculator/
 subtitle: false
 ---
