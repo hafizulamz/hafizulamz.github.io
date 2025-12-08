@@ -318,29 +318,30 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         </div>
         </div>
     </div>
-  </div>
-</article>
-
-<!-- Collapsible Header for Courses/Workshops -->
-<a class="d-block mt-4" data-toggle="collapse" href="#collapseCourses" role="button" aria-expanded="false" aria-controls="collapseCourses" style="text-decoration:none; color: inherit;">
-  <h2 class="category">courses and workshops conducted <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
-</a>
-
-<!-- Collapsible Content for Courses/Workshops -->
-<div class="collapse" id="collapseCourses">
-    <div class="row">
-        <div class="col">
+    
+    <!-- Collapsible Header for UTAR -->
+    <a id="utar" class="d-block mt-4" data-toggle="collapse" href="#collapseUTAR" role="button" aria-expanded="true" aria-controls="collapseUTAR" style="text-decoration:none; color: inherit;">
+      <h2 class="category">Universiti Tunku Abdul Rahman (2025-Current) <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
+    </a>
+    
+    <!-- Collapsible Header for Courses/Workshops -->
+    <div class="collapse" id="collapseCourses">
+      <!-- Content for UTAR Courses/Workshops to be added here. -->
+      <div class="row mt-3">
+        <div class="col-sm mt-3 mt-md-0">
             <ul>
-            <li>Business Analytics using Power BI for Management and Humanities Department, UTP (July 2022).</li>
-            <li>KPT-PENJANA 3.0: Master the Basics of Big Data, AI, and ML for Tomorrow's Workforce (May 2022).</li>
-            <li>KPT-PENJANA 1.0: Digital Transformation for the Future of Works: Big Data, AI and ML (Jan-Feb 2022).</li>
-            <li>BDA Using Power BI for Lembaga TH (Mar 2021).</li>
-            <li>SKO: Power BI for Finance (Mar 2021).</li>
-            <li>BDA for Oil & Gas Using Power BI (Feb 2021).</li>
-            <li>Big Data Analytics for Business and Beyond (Oct 2020).</li>
-            <li>BDA for PMA Beginner Level (Oct 2020).</li>
-            <li>BDA Course with PETRONAS Staff (Mar 2020).</li>
+              <li>Business Analytics using Power BI for Management and Humanities Department, UTP (July 2022).</li>
+              <li>KPT-PENJANA 3.0: Master the Basics of Big Data, AI, and ML for Tomorrow's Workforce (May 2022).</li>
+              <li>KPT-PENJANA 1.0: Digital Transformation for the Future of Works: Big Data, AI and ML (Jan-Feb 2022).</li>
+              <li>BDA Using Power BI for Lembaga TH (Mar 2021).</li>
+              <li>SKO: Power BI for Finance (Mar 2021).</li>
+              <li>BDA for Oil & Gas Using Power BI (Feb 2021).</li>
+              <li>Big Data Analytics for Business and Beyond (Oct 2020).</li>
+              <li>BDA for PMA Beginner Level (Oct 2020).</li>
+              <li>BDA Course with PETRONAS Staff (Mar 2020).</li>
             </ul>
         </div>
+      </div>
     </div>
-</div>
+  </div>
+</article>
