@@ -159,13 +159,13 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22</h6>
                   <ul>
-                    <li>Fundamental: Datacenter trends, components, and security</li>
-                    <li>IT infrastructure for an enterprise: Platform as a Service (PaaS)</li>
-                    <li>Microsoft Azure and microservices</li>
-                    <li>Relational and NoSQL databases</li>
-                    <li>Data and computer networks</li>
-                    <li>IP classes, network address, and host address</li>
-                    <li>Security aspect of IT infrastructure</li>
+                    <li>Pointers Use with Arrays and Structure</li>
+                    <li>Struct and Pointer</li>
+                    <li>Linked Lists</li>
+                    <li>Stacks and Queues</li>
+                    <li>Recursion</li>
+                    <li>Trees and Graphs</li>
+                    <li>Sorting and Searching</li>
                   </ul>
                 </p>
                 <div class="row ml-1 mr-1 p-0"> </div>
@@ -257,13 +257,13 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <ul>
                     <li>Environment setup</li>
                     <li>Big data systems: HDFS, Mapreduce, Hive, Spark</li>
-                    <li>Unstructured database: Hbase and NoSql</li>
-                    <li>Setup Python environment and IDE</li>
+                    <li>UHbase and NoSql unstructured databases</li>
+                    <li>Python and IDE Setup</li>
                     <li>Data cleansing and preparation</li>
                     <li>Data visualization</li>
                     <li>Fundamental of ML using Python</li>
                     <li>Run ML models</li>
-                    <li>Generate reports</li>
+                    <li>Reports generation</li>
                     <li><a href="https://www.pythoncheatsheet.org/">Python cheat sheet</a></li>
                   </ul>
                 </p>
@@ -289,8 +289,8 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22, Jan 23, May 23</h6>
                   <ul>
                     <li><a href="https://youtu.be/9xwR4JCBaIU">Create Work Breakdown Structure (WBS) and Gantt chart using ProjectLibre</a></li>
-                    <li>Managing resources: Setup and assign resources to tasks using ProjectLibre</li>
-                    <li>Create a project network diagram using ADM and Critical Path Analysis (CPA/CPM)</li>
+                    <li>Managing resources using ProjectLibre</li>
+                    <li>Create network diagram using ADM and Critical Path Analysis (CPA/CPM)</li>
                     <li>CPA using Precedence Diagramming Method (PDM)</li>
                     <li>Project management tool: SWOT analysis</li>
                   </ul>
@@ -317,7 +317,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22</h6>
                   <ul>
                     <li>Fundamental: Datacenter trends, components, and security</li>
-                    <li>IT infrastructure for an enterprise: Platform as a Service (PaaS)</li>
+                    <li>IT infrastructure for enterprise: Platform as a Service (PaaS)</li>
                     <li>Microsoft Azure and microservices</li>
                     <li>Relational and NoSQL databases</li>
                     <li>Data and computer networks</li>
