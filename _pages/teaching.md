@@ -91,7 +91,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                 </picture>
               </figure>
               <div class="card-body">
-                <h2 class="card-title">IT Infrastructure</h2>
+                <h2 class="card-title">Cloud Computing and Services</h2>
                 <div class="col-sm-2 text-left text-sm-right">
                   <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
                 </div>
@@ -121,7 +121,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                 </picture>
               </figure>
               <div class="card-body">
-                <h2 class="card-title">IT Infrastructure</h2>
+                <h2 class="card-title">Mobile Applications Development</h2>
                 <div class="col-sm-2 text-left text-sm-right">
                   <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
                 </div>
@@ -151,7 +151,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                 </picture>
               </figure>
               <div class="card-body">
-                <h2 class="card-title">IT Infrastructure</h2>
+                <h2 class="card-title">Data Structure and Algorithmic Problem Solving</h2>
                 <div class="col-sm-2 text-left text-sm-right">
                   <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
                 </div>
