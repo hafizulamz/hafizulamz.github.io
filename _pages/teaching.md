@@ -101,7 +101,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                     <li>Fundamental: Datacenter trends, components, and security</li>
                     <li>IT infrastructure for an enterprise: Platform as a Service (PaaS)</li>
                     <li>Microsoft Azure and microservices</li>
-                    <li>Database: Relational database, NoSQL database, and current trends</li>
+                    <li>Relational and NoSQL databases</li>
                     <li>Data and computer networks</li>
                     <li>IP classes, network address, and host address</li>
                     <li>Security aspect of IT infrastructure</li>
@@ -131,7 +131,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                     <li>Fundamental: Datacenter trends, components, and security</li>
                     <li>IT infrastructure for an enterprise: Platform as a Service (PaaS)</li>
                     <li>Microsoft Azure and microservices</li>
-                    <li>Database: Relational database, NoSQL database, and current trends</li>
+                    <li>Relational and NoSQL databases</li>
                     <li>Data and computer networks</li>
                     <li>IP classes, network address, and host address</li>
                     <li>Security aspect of IT infrastructure</li>
@@ -161,7 +161,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                     <li>Fundamental: Datacenter trends, components, and security</li>
                     <li>IT infrastructure for an enterprise: Platform as a Service (PaaS)</li>
                     <li>Microsoft Azure and microservices</li>
-                    <li>Database: Relational database, NoSQL database, and current trends</li>
+                    <li>Relational and NoSQL databases</li>
                     <li>Data and computer networks</li>
                     <li>IP classes, network address, and host address</li>
                     <li>Security aspect of IT infrastructure</li>
@@ -228,8 +228,8 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                     <li>Data analysis, cleansing, and preparation</li>
                     <li>Data visualization, Pivot tables and charts</li>
                     <li>Preparation of an Excel dashboard</li>
-                    <li>Install, design, and deploy Power BI dashboard: <a href="https://youtu.be/3BOummMBNJU">video</a></li>
-                    <li>DAX query, forecasting, and Python on Power BI: <a href="https://youtu.be/KeLI6O5ATaE">video</a></li>
+                    <li><a href="https://youtu.be/3BOummMBNJU">Install, design, and deploy Power BI dashboard</a></li>
+                    <li>a href="https://youtu.be/KeLI6O5ATaE">DAX query, forecasting, and Python on Power BI</a></li>
                     <li>Datasets: <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_8bf7af4f1f784dc586b7fbeebfd30012.xlsx?dn=2015%20Sales.xlsx">Sales</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_287d6522d075446e8f75b9513da30440.xlsx?dn=HR%20Data-26112019-Cleansed.xlsx">HR Data</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_399460a4bb4d4faa840ab8ae7ab1e175.xlsx?dn=Superstore%20(Raw%20data).xlsx">Superstore</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_3d66dba3f35f445887873d3e4ac9c169.xlsx?dn=Voting%20figures.xlsx">Votes</a></li>
                   </ul>
                 </p>
@@ -257,11 +257,11 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                     <li>Environment setup</li>
                     <li>Big data systems: HDFS, Mapreduce, Hive, Spark</li>
                     <li>Unstructured database: Hbase and NoSql</li>
-                    <li>Setting up Python environment and IDE</li>
+                    <li>Setup Python environment and IDE</li>
                     <li>Data cleansing and preparation</li>
                     <li>Data visualization</li>
-                    <li>Fundamental of machine learning using Python</li>
-                    <li>Run machine learning models</li>
+                    <li>Fundamental of ML using Python</li>
+                    <li>Run ML models</li>
                     <li>Generate reports</li>
                     <li><a href="https://www.pythoncheatsheet.org/">Python cheat sheet</a></li>
                   </ul>
@@ -287,7 +287,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22, Jan 23, May 23</h6>
                   <ul>
-                    <li>Create Work Breakdown Structure (WBS) and Gantt chart using ProjectLibre: <a href="https://youtu.be/9xwR4JCBaIU">video</a></li>
+                    <li><a href="https://youtu.be/9xwR4JCBaIU">Create Work Breakdown Structure (WBS) and Gantt chart using ProjectLibre</a></li>
                     <li>Managing resources: Setup and assign resources to tasks using ProjectLibre</li>
                     <li>Create a project network diagram using ADM and Critical Path Analysis (CPA/CPM)</li>
                     <li>CPA using Precedence Diagramming Method (PDM)</li>
@@ -318,7 +318,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                     <li>Fundamental: Datacenter trends, components, and security</li>
                     <li>IT infrastructure for an enterprise: Platform as a Service (PaaS)</li>
                     <li>Microsoft Azure and microservices</li>
-                    <li>Database: Relational database, NoSQL database, and current trends</li>
+                    <li>Relational and NoSQL databases</li>
                     <li>Data and computer networks</li>
                     <li>IP classes, network address, and host address</li>
                     <li>Security aspect of IT infrastructure</li>
