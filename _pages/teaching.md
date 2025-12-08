@@ -83,7 +83,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
     <a id="utp" class="d-block mt-4" data-toggle="collapse" href="#collapseUTP" role="button" aria-expanded="false" aria-controls="collapseUTP" style="text-decoration:none; color: inherit;">
       <h2 class="category">Universiti Teknologi PETRONAS (2021-2024) <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
     </a>
-    
+
     <!-- Collapsible Content for UTP -->
     <div class="collapse" id="collapseUTP">
         <!-- Metrics for UTP -->
@@ -114,7 +114,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
             <div class="card h-100 hoverable">
                 <figure>
                 <picture>
-                    <img src="/assets/img/businessintelligence.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/> 
+                    <img src="/assets/img/businessintelligence.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/>
                 </picture>
                 </figure>
                 <div class="card-body">
@@ -143,7 +143,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
             <div class="card h-100 hoverable">
                 <figure>
                 <picture>
-                    <img src="/assets/img/bigdataanalytics.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/> 
+                    <img src="/assets/img/bigdataanalytics.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/>
                 </picture>
                 </figure>
                 <div class="card-body">
@@ -176,7 +176,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
             <div class="card h-100 hoverable">
                 <figure>
                 <picture>
-                    <img src="/assets/img/itpmispm.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/> 
+                    <img src="/assets/img/itpmispm.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/>
                 </picture>
                 </figure>
                 <div class="card-body">
@@ -204,7 +204,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
             <div class="card h-100 hoverable">
                 <figure>
                 <picture>
-                    <img src="/assets/img/itinfra.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/> 
+                    <img src="/assets/img/itinfra.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/>
                 </picture>
                 </figure>
                 <div class="card-body">
@@ -234,7 +234,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
             <div class="card h-100 hoverable">
                 <figure>
                 <picture>
-                    <img src="/assets/img/erp.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/> 
+                    <img src="/assets/img/erp.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/>
                 </picture>
                 </figure>
                 <div class="card-body">
@@ -265,7 +265,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
             <div class="card h-100 hoverable">
                 <figure>
                 <picture>
-                    <img src="/assets/img/informationsecurity.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/> 
+                    <img src="/assets/img/informationsecurity.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/>
                 </picture>
                 </figure>
                 <div class="card-body">
@@ -297,7 +297,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
             <div class="card h-100 hoverable">
                 <figure>
                 <picture>
-                    <img src="/assets/img/supervision.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/> 
+                    <img src="/assets/img/supervision.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());"/>
                 </picture>
                 </figure>
                 <div class="card-body">
@@ -318,12 +318,12 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         </div>
         </div>
     </div>
-    
+
     <!-- Collapsible Header for UTAR -->
     <a id="utar" class="d-block mt-4" data-toggle="collapse" href="#collapseCourses" role="button" aria-expanded="true" aria-controls="collapseCourses" style="text-decoration:none; color: inherit;">
       <h2 class="category">short courses and workshops conducted <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
     </a>
-    
+
     <!-- Collapsible Header for Courses/Workshops -->
     <div class="collapse" id="collapseCourses">
       <!-- Content for UTAR Courses/Workshops to be added here. -->
@@ -343,5 +343,6 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         </div>
       </div>
     </div>
+
   </div>
 </article>
