@@ -93,8 +93,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               <div class="card-body">
                 <h2 class="card-title">Cloud Computing and Services</h2>
                 <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Lecture</span>
-                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
+                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Lecture & Tutorial</span>
                 </div>
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Feb 25, Feb 26</h6>
