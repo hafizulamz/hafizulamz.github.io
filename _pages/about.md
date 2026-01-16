@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<b>Dr. Mohd Hafizul Afifi bin Abdullah</b> is a lecturer at Universiti Tunku Abdul Rahman (UTAR). He holds a Ph.D in Information technology from Universiti Teknologi PETRONAS, a B.Sc. in Computer Science and an M.Sc. in Information Technology from Universiti Tun Hussein Onn Malaysia. He specializes in the area of Information Extraction, Big Data Analytics, AI, Machine Learning, and Deep Learning.
+<b>Dr. Mohd Hafizul Afifi bin Abdullah</b> is an Assistant Professor in computer science at Universiti Tunku Abdul Rahman (UTAR). He holds a Ph.D in Information technology from Universiti Teknologi PETRONAS, a B.Sc. in Computer Science and an M.Sc. in Information Technology from Universiti Tun Hussein Onn Malaysia. He specializes in the area of Information Extraction, Big Data Analytics, AI, Machine Learning, and Deep Learning.
 
 Dr. Hafizul has 8 years of research experience and 5 years of teaching experience. He is a certified Graduate Technologist by MBOT, IEEE Member, and serves as a reviewer for leading academic journals in the field of computer science and information technology.
 

@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Dr. Mohd Hafizul Afifi bin Abdullah",
-    "role": "Lecturer",
+    "role": "Assistant Professor",
     "image": "me.png",
     "email": "hafizulafifi@utar.edu.my",
     "phone": "",
@@ -25,10 +25,19 @@
   "work": [
     {
       "name": "Universiti Tunku Abdul Rahman, Perak, Malaysia",
+      "position": "Assistant Professor",
+      "url": "https://www2.utar.edu.my/staffListDetailV2.jsp?searchId=25008",
+      "startDate": "2026-01-02",
+      "endDate": "",
+      "summary": "Teaching UG courses such as Cloud Computing and Services. Supervise postgraduate, FYP, and academic advisory students.",
+      "highlights": ["Teaching & learning, Research"]
+    },
+    {
+      "name": "Universiti Tunku Abdul Rahman, Perak, Malaysia",
       "position": "Lecturer",
       "url": "https://www2.utar.edu.my/staffListDetailV2.jsp?searchId=25008",
       "startDate": "2025-02-03",
-      "endDate": "",
+      "endDate": "2026-01-01",
       "summary": "Teaching UG courses such as Mobile Application Development (Android-Java) and Data Structures. Supervise FYP and academic advisory students.",
       "highlights": ["Teaching & learning, Research"]
     },
