@@ -99,7 +99,7 @@ subtitle: false
     <body>
       <div class="card">
         <div class="name">Dr. Hafizul Abdullah</div>
-        <div class="title">Lecturer / Researcher</div>
+        <div class="title">Assistant Professor / Researcher</div>
         <div class="speciality">
           Specialising in Information Extraction, AI, Machine Learning, and Big Data Analytics.
         </div>
@@ -111,7 +111,7 @@ subtitle: false
         </div>
 
         <div class="qr-container">
-          <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=BEGIN%3AVCARD%0AVERSION%3A3.0%0AN%3AAbdullah%3BHafizul%3B%3BDr.%3B%0AFN%3ADr.%20Hafizul%20Abdullah%0ATITLE%3ALecturer%2FResearcher%0AORG%3AUniversiti%20Tunku%20Abdul%20Rahman%20(UTAR)%0AEMAIL%3BTYPE%3Dwork%3Ahafizulafifi%40utar.edu.my%0AURL%3BTYPE%3Dwork%3Ahttps%3A%2F%2Fhafizulabdullah.com%2F%0ANOTE%3ASpecialising%20in%20Information%20Extraction%2C%20AI%2C%20Machine%20Learning%2C%20and%20Big%20Data%20Analytics.%0AEND%3AVCARD" alt="vCard QR Code">
+          <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=BEGIN%3AVCARD%0AVERSION%3A3.0%0AN%3AAbdullah%3BHafizul%3B%3BDr.%3B%0AFN%3ADr.%20Hafizul%20Abdullah%0ATITLE%3AAssistant%20Professor%0AORG%3AUniversiti%20Tunku%20Abdul%20Rahman%20(UTAR)%0AEMAIL%3BTYPE%3Dwork%3Ahafizulafifi%40utar.edu.my%0AURL%3BTYPE%3Dwork%3Ahttps%3A%2F%2Fhafizulabdullah.com%2F%0ANOTE%3ASpecialising%20in%20Information%20Extraction%2C%20AI%2C%20Machine%20Learning%2C%20and%20Big%20Data%20Analytics.%0AEND%3AVCARD" alt="vCard QR Code">
         </div>
 
         <div class="note">Scan the QR to save contact.</div>
