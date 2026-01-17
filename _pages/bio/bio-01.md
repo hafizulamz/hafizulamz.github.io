@@ -1,6 +1,6 @@
 <h3>Academic and Professional Background</h3>
 
-Dr. Mohd Hafizul Afifi bin Abdullah is a lecturer at Universiti Tunku Abdul Rahman (UTAR). He holds a Ph.D in Information Technology from Universiti Teknologi PETRONAS, a B.Sc. in Computer Science and an M.Sc. in Information Technology from Universiti Tun Hussein Onn Malaysia.
+Dr. Mohd Hafizul Afifi bin Abdullah is an Assistant Professor at Universiti Tunku Abdul Rahman (UTAR). He holds a Ph.D in Information Technology from Universiti Teknologi PETRONAS, a B.Sc. in Computer Science and an M.Sc. in Information Technology from Universiti Tun Hussein Onn Malaysia.
 
 His research journey first began during his undergraduate studies, under the guidance of his supervisor, [Assoc. Prof. Dr. Shahreen Kasim](https://scholar.google.com/citations?user=csGxD68AAAAJ){:target="\_blank"}. He published his first research paper during undergraduate study in 2016.
 
