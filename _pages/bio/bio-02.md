@@ -1,4 +1,4 @@
-Currently, he is serving as an Assistant Professor at `Universiti Tunku Abdul Rahman`. His research interests include Information Extraction, Predictive Analytics, Big Data Analytics, Artificial Intelligence, Machine Learning. As a MBOT-certified graduate technologist and IEEE Member, he regularly enrolls in certified courses and memberships to stay current with global standards:
+Currently, he serves as an Assistant Professor at `Universiti Tunku Abdul Rahman`. His research interests are Artificial Intelligence, Generative AI, Big Data Analytics, Information Extraction, and Deep Learning. As a MBOT graduate technologist and IEEE Member, he regularly enrolls in professional short courses and memberships to stay current with global standards:
 
 <ul>
 	<li>Hyperledger Fabric Blockchain</li>
