@@ -91,6 +91,35 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                 </picture>
               </figure>
               <div class="card-body">
+                <h2 class="card-title">Distributed Computer Systems</h2>
+                <div class="col-sm-2 text-left text-sm-right">
+                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Lecture & Tutorial</span>
+                </div>
+                <p class="card-text">
+                  <h6 class="font-italic mt-2 mt-sm-0">Jun 26</h6>
+                  <ul>
+                    <li>Topic 1: Introduction to Distributed Systems</li>
+                    <li>Topic 2: Communication in Distributed Systems</li>
+                    <li>Topic 3: Name Services</li>
+                    <li>Topic 4: Distributed Algorithm</li>
+                    <li>Topic 5: Distributed Architecture and Concerns</li>
+                    <li>Topic 6: Grid and Cloud Computing</li>
+                  </ul>
+                </p>
+                <div class="row ml-1 mr-1 p-0"> </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col">
+          <a href="#">
+            <div class="card h-100 hoverable">
+              <figure>
+                <picture>
+                  <img src="/assets/img/teaching/cloudcomp.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());" />
+                </picture>
+              </figure>
+              <div class="card-body">
                 <h2 class="card-title">Cloud Computing and Services</h2>
                 <div class="col-sm-2 text-left text-sm-right">
                   <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Lecture & Tutorial</span>
