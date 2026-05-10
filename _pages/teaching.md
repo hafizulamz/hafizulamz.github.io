@@ -98,13 +98,11 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Feb 25, Feb 26</h6>
                   <ul>
-                    <li>Fundamental: Datacenter trends, components, and security</li>
-                    <li>IT infrastructure for an enterprise: Platform as a Service (PaaS)</li>
-                    <li>Microsoft Azure and microservices</li>
-                    <li>Relational and NoSQL databases</li>
-                    <li>Data and computer networks</li>
-                    <li>IP classes, network address, and host address</li>
-                    <li>Security aspect of IT infrastructure</li>
+                    <li>Topic 1: Cloud Concepts Overview</li>
+                    <li>Topic 2: Cloud Global Infrastructure</li>
+                    <li>Topic 3: Cloud Foundation Services</li>
+                    <li>Topic 4: Cloud Security and Architecting</li>
+                    <li>Topic 5: Cloud Economics and Support</li>
                   </ul>
                 </p>
                 <div class="row ml-1 mr-1 p-0"> </div>
