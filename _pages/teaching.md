@@ -457,6 +457,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
       <div class="row mt-3">
         <div class="col-sm mt-3 mt-md-0">
           <ul>
+            <li>An Exploratory Business Intelligence Course using PowerBI for Non-Technical Personnel, UTAR (May 2026).</li>
             <li>Business Analytics using Power BI for Management and Humanities Department, UTP (July 2022).</li>
             <li>KPT-PENJANA 3.0: Master the Basics of Big Data, AI, and ML for Tomorrow's Workforce (May 2022).</li>
             <li>KPT-PENJANA 1.0: Digital Transformation for the Future of Works: Big Data, AI and ML (Jan-Feb 2022).</li>
