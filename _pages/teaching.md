@@ -87,7 +87,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
             <div class="card h-100 hoverable">
               <figure>
                 <picture>
-                  <img src="/assets/img/teaching/cloudcomp.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());" />
+                  <img src="/assets/img/teaching/distcomp.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());" />
                 </picture>
               </figure>
               <div class="card-body">
