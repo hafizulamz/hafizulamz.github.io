@@ -4,6 +4,7 @@ permalink: /repositories/
 title: repos
 description: my GitHub repositories
 nav: false
+sitemap: false # not linked from the site; hidden from search engines
 ---
 
 {% if site.data.repositories.github_users %}

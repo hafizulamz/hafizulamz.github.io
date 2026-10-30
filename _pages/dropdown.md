@@ -16,4 +16,5 @@ children:
   #    permalink: /projects/
   #- title: repositories
   #  permalink: /repositories/
+sitemap: false # not linked from the site; hidden from search engines
 ---

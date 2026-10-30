@@ -6,6 +6,7 @@ description: A growing collection of my cool projects.
 nav: false
 display_categories: [work, fun]
 horizontal: false
+sitemap: false # not linked from the site; hidden from search engines
 ---
 
 <!-- pages/projects.md -->

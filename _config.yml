@@ -279,6 +279,10 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      type: projects # placeholder project pages, kept for later but hidden from search engines
+    values:
+      sitemap: false
 
 sass:
   style: compressed
