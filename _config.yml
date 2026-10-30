@@ -10,7 +10,7 @@ email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Dr. Mohd Hafizul Afifi Abdullah is an Assistant Professor at Universiti Tunku Abdul Rahman (UTAR), Malaysia, working on deep learning for biomedical imaging and natural language processing.
 footer_text: >
-  Open to postgraduate students and research collaborations.
+  Open to postgraduate students and research collaborations. <a href="/contact/">Get in touch</a>.
 keywords: hafizul, hafizul-abdullah, hafizul-afifi, utar, universiti-tunku-abdul-rahman, deep-learning, biomedical-nlp, medical-image-analysis, researcher, utp, uthm # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
