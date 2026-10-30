@@ -227,6 +227,18 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// keep the profile photo from filling the whole screen on phones
+@media (max-width: 575.98px) {
+  .profile figure {
+    max-width: 200px;
+    margin: 0 auto 0.5rem;
+  }
+
+  .profile .more-info {
+    text-align: center;
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
