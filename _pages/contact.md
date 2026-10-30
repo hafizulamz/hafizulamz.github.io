@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: contact
 permalink: /contact/
 description: virtual business card. scan the QR code to save my contact.
