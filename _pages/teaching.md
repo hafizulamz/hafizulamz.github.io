@@ -85,11 +85,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         <div class="col">
           <a href="#">
             <div class="card h-100 hoverable">
-              <figure>
-                <picture>
-                  <img src="/assets/img/teaching/distcomp.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());" />
-                </picture>
-              </figure>
+              {% include figure.liquid path="assets/img/teaching/distcomp.jpg" class="card-img-top" alt="Distributed Computer Systems" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
                 <h2 class="card-title">Distributed Computer Systems</h2>
                 <div class="col-sm-2 text-left text-sm-right">
@@ -113,11 +109,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         <div class="col">
           <a href="#">
             <div class="card h-100 hoverable">
-              <figure>
-                <picture>
-                  <img src="/assets/img/teaching/cloudcomp.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());" />
-                </picture>
-              </figure>
+              {% include figure.liquid path="assets/img/teaching/cloudcomp.jpg" class="card-img-top" alt="Cloud Computing and Services" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
                 <h2 class="card-title">Cloud Computing and Services</h2>
                 <div class="col-sm-2 text-left text-sm-right">
@@ -140,11 +132,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         <div class="col">
           <a href="#">
             <div class="card h-100 hoverable">
-              <figure>
-                <picture>
-                  <img src="/assets/img/teaching/appsdev.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());" />
-                </picture>
-              </figure>
+              {% include figure.liquid path="assets/img/teaching/appsdev.jpg" class="card-img-top" alt="Mobile Applications Development" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
                 <h2 class="card-title">Mobile Applications Development</h2>
                 <div class="col-sm-2 text-left text-sm-right">
@@ -169,11 +157,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         <div class="col">
           <a href="#">
             <div class="card h-100 hoverable">
-              <figure>
-                <picture>
-                  <img src="/assets/img/teaching/datastruct.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());" />
-                </picture>
-              </figure>
+              {% include figure.liquid path="assets/img/teaching/datastruct.jpg" class="card-img-top" alt="Data Structure and Algorithmic Problem Solving" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
                 <h2 class="card-title">Data Structure and Algorithmic Problem Solving</h2>
                 <div class="col-sm-2 text-left text-sm-right">
@@ -235,11 +219,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         <div class="col">
           <a href="#">
             <div class="card h-100 hoverable">
-              <figure>
-                <picture>
-                  <img src="/assets/img/teaching/businessintelligence.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());" />
-                </picture>
-              </figure>
+              {% include figure.liquid path="assets/img/teaching/businessintelligence.jpg" class="card-img-top" alt="Business Intelligence" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
                 <h2 class="card-title">Business Intelligence</h2>
                 <div class="col-sm-2 text-left text-sm-right">
@@ -263,11 +243,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         <div class="col">
           <a href="#">
             <div class="card h-100 hoverable">
-              <figure>
-                <picture>
-                  <img src="/assets/img/teaching/bigdataanalytics.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());" />
-                </picture>
-              </figure>
+              {% include figure.liquid path="assets/img/teaching/bigdataanalytics.jpg" class="card-img-top" alt="Big Data Analytics" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
                 <h2 class="card-title">Big Data Analytics</h2>
                 <div class="col-sm-2 text-left text-sm-right">
@@ -295,11 +271,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         <div class="col">
           <a href="#">
             <div class="card h-100 hoverable">
-              <figure>
-                <picture>
-                  <img src="/assets/img/teaching/itpmispm.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());" />
-                </picture>
-              </figure>
+              {% include figure.liquid path="assets/img/teaching/itpmispm.jpg" class="card-img-top" alt="IT/IS Project Management" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
                 <h2 class="card-title">IT/IS Project Management</h2>
                 <div class="col-sm-2 text-left text-sm-right">
@@ -322,11 +294,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         <div class="col">
           <a href="#">
             <div class="card h-100 hoverable">
-              <figure>
-                <picture>
-                  <img src="/assets/img/teaching/itinfra.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());" />
-                </picture>
-              </figure>
+              {% include figure.liquid path="assets/img/teaching/itinfra.jpg" class="card-img-top" alt="IT Infrastructure" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
                 <h2 class="card-title">IT Infrastructure</h2>
                 <div class="col-sm-2 text-left text-sm-right">
@@ -351,11 +319,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         <div class="col">
           <a href="#">
             <div class="card h-100 hoverable">
-              <figure>
-                <picture>
-                  <img src="/assets/img/teaching/erp.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());" />
-                </picture>
-              </figure>
+              {% include figure.liquid path="assets/img/teaching/erp.jpg" class="card-img-top" alt="Enterprise Resource Planning" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
                 <h2 class="card-title">Enterprise Resource Planning</h2>
                 <div class="col-sm-2 text-left text-sm-right">
@@ -381,11 +345,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         <div class="col">
           <a href="#">
             <div class="card h-100 hoverable">
-              <figure>
-                <picture>
-                  <img src="/assets/img/teaching/informationsecurity.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());" />
-                </picture>
-              </figure>
+              {% include figure.liquid path="assets/img/teaching/informationsecurity.jpg" class="card-img-top" alt="Information Security Management" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
                 <h2 class="card-title">Information Security Management</h2>
                 <div class="col-sm-2 text-left text-sm-right">
@@ -412,11 +372,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
         <div class="col">
           <a href="#">
             <div class="card h-100 hoverable">
-              <figure>
-                <picture>
-                  <img src="/assets/img/teaching/supervision.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(e => e.remove());" />
-                </picture>
-              </figure>
+              {% include figure.liquid path="assets/img/teaching/supervision.jpg" class="card-img-top" alt="Final Year Project I & II" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
                 <h2 class="card-title">Final Year Project I & II</h2>
                 <div class="col-sm-2 text-left text-sm-right">
