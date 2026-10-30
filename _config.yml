@@ -4,6 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Dr. Mohd Hafizul Afifi
+navbar_short_first_name: Dr. Hafizul # shown instead of first_name in the navbar on phones, so the menu button fits on the same line
 middle_name:
 last_name: Abdullah
 email:
