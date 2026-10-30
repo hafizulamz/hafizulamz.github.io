@@ -423,7 +423,9 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <span class="badge font-weight-bold badge-theme text-uppercase align-middle">UG Supervision</span>
                 </div>
                 <p class="card-text">
-                  Supervised UG students for FYP I and FYP II courses (2017, 2018, 2019).
+                  <ul>
+                    <li>Supervised UG students for FYP I and FYP II courses (2017, 2018, 2019)</li>
+                  </ul>
                 </p>
                 <div class="row ml-1 mr-1 p-0"> </div>
               </div>
