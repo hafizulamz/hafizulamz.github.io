@@ -93,7 +93,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               <div class="card-body">
                 <h2 class="card-title">Distributed Computer Systems</h2>
                 <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Lecture & Tutorial</span>
+                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Lecture & Tutorial</span>
                 </div>
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Jun 26</h6>
@@ -122,7 +122,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               <div class="card-body">
                 <h2 class="card-title">Cloud Computing and Services</h2>
                 <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Lecture & Tutorial</span>
+                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Lecture & Tutorial</span>
                 </div>
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Feb 25, Feb 26</h6>
@@ -150,7 +150,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               <div class="card-body">
                 <h2 class="card-title">Mobile Applications Development</h2>
                 <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Practical Lab</span>
+                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Practical Lab</span>
                 </div>
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Feb 25, Jun 25, Oct 25</h6>
@@ -180,7 +180,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               <div class="card-body">
                 <h2 class="card-title">Data Structure and Algorithmic Problem Solving</h2>
                 <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
+                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
                 </div>
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Jun 25</h6>
@@ -247,7 +247,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               <div class="card-body">
                 <h2 class="card-title">Business Intelligence</h2>
                 <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Practical Lab</span>
+                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Practical Lab</span>
                 </div>
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22, Sep 23, May 24</h6>
@@ -276,7 +276,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               <div class="card-body">
                 <h2 class="card-title">Big Data Analytics</h2>
                 <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Practical Lab</span>
+                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Practical Lab</span>
                 </div>
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22, Jan 23, Jan 24, May 24</h6>
@@ -309,7 +309,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               <div class="card-body">
                 <h2 class="card-title">IT/IS Project Management</h2>
                 <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
+                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
                 </div>
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22, Jan 23, May 23</h6>
@@ -337,7 +337,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               <div class="card-body">
                 <h2 class="card-title">IT Infrastructure</h2>
                 <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
+                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
                 </div>
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22</h6>
@@ -367,7 +367,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               <div class="card-body">
                 <h2 class="card-title">Enterprise Resource Planning</h2>
                 <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
+                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
                 </div>
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 23</h6>
@@ -398,7 +398,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               <div class="card-body">
                 <h2 class="card-title">Information Security Management</h2>
                 <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">Tutorial</span>
+                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
                 </div>
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 21</h6>
@@ -430,7 +430,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
               <div class="card-body">
                 <h2 class="card-title">Final Year Project I & II</h2>
                 <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">UG Supervision</span>
+                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">UG Supervision</span>
                 </div>
                 <p class="card-text">
                   <h6 class="font-italic mt-2 mt-sm-0">Supervise UG on 2017, 2018, 2019</h6>

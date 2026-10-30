@@ -1304,3 +1304,9 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+// theme-coloured badge (teaching page)
+.badge-theme {
+  color: var(--global-card-bg-color) !important;
+  background-color: var(--global-theme-color) !important;
+}
