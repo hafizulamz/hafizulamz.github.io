@@ -7,6 +7,7 @@ subtitle: Assistant Professor at UTAR · Deep Learning for Biomedical Imaging & 
 profile:
   align: right
   image: me.png
+  image_alt: Hafizul Abdullah
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Universiti Tunku Abdul Rahman (UTAR), Kampar, Perak, MALAYSIA</p>
@@ -16,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<b>Dr. Mohd Hafizul Afifi bin Abdullah</b> is an Assistant Professor at Universiti Tunku Abdul Rahman (UTAR), Malaysia. He holds a Ph.D. in Information Technology from Universiti Teknologi PETRONAS, and a MInfo.Tech and B.Sc. in Computer Science from Universiti Tun Hussein Onn Malaysia.
+<b>Dr. Mohd Hafizul Afifi bin Abdullah</b> is an Assistant Professor at Universiti Tunku Abdul Rahman (UTAR), Malaysia. He holds a Ph.D. in Information Technology from Universiti Teknologi PETRONAS, and an M.Sc. in Information Technology and a B.Sc. in Computer Science from Universiti Tun Hussein Onn Malaysia.
 
 Over nearly ten years in higher education, he has developed a robust pedagogical philosophy centred on hands-on, industry-aligned learning, integrating live virtual labs and continuous assessment. This bridges the gap between theoretical computer science and its practical application, and sustains high engagement among his students. His research focuses on deep learning for biomedical applications, particularly natural language processing for extracting information from biomedical text and medical image analysis.
 

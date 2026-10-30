@@ -1,125 +1,97 @@
 ---
-layout:
-title: "Contact"
+layout: page
+title: contact
 permalink: /contact/
-subtitle: false
+description: virtual business card. scan the QR code to save my contact.
+nav: false
 ---
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="/assets/img/favicon.ico"/>
-    <title>Virtual Business Card | Dr. Mohd Hafizul Afifi Abdullah</title>
-      <style>
-        body {
-          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-          background-color: #0d1117;
-          color: #e6edf3;
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          height: 100vh;
-          margin: 0;
-          padding: 20px;
-        }
-        .card {
-          background-color: #161b22;
-          border: 2px solid #2698ba;
-          border-radius: 16px;
-          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
-          padding: 24px;
-          max-width: 550px;
-          width: 100%;
-          text-align: center;
-        }
-        .name {
-          font-size: 1.8em;
-          font-weight: bold;
-          color: #2698ba;
-        }
-        .title {
-          font-size: 1.1em;
-          color: #9ca3af;
-          margin-bottom: 6px;
-        }
-        .speciality {
-          font-size: 0.95em;
-          color: #9ca3af;
-          margin-bottom: 16px;
-        }
-        .org {
-          font-size: 1em;
-          color: #e6edf3;
-          margin-bottom: 18px;
-        }
-        .contact a {
-          display: block;
-          color: #58a6ff;
-          text-decoration: none;
-          margin: 4px 0;
-          word-break: break-all;
-        }
-        .contact a:hover {
-          text-decoration: underline;
-        }
-        .qr-container {
-          margin: 20px 0 10px 0;
-        }
-        .qr-container img {
-          width: 160px;
-          height: 160px;
-          border: 2px solid #2698ba;
-          border-radius: 12px;
-          background-color: #fff;
-          padding: 8px;
-        }
-        .note {
-          font-size: 0.9em;
-          color: #9ca3af;
-          margin-bottom: 20px;
-        }
-        .btn {
-          background-color: #2698ba;
-          color: white;
-          border: none;
-          padding: 12px 24px;
-          border-radius: 8px;
-          font-size: 1em;
-          cursor: pointer;
-          transition: background-color 0.3s;
-          text-decoration: none;
-          display: inline-block;
-        }
-        .btn:hover {
-          background-color: #1f7d9d;
-        }
-      </style>
-    </head>
-    <body>
-      <div class="card">
-        <div class="name">Dr. Hafizul Abdullah</div>
-        <div class="title">Assistant Professor / Researcher</div>
-        <div class="speciality">
-          Specialising in Artificial Intelligence, Generative AI, Big Data Analytics, Information Extraction, and Deep Learning.
-        </div>
-        <div class="org">Universiti Tunku Abdul Rahman (UTAR)</div>
+<style>
+  .vcard {
+    background-color: var(--global-card-bg-color);
+    border: 2px solid var(--global-theme-color);
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    padding: 24px;
+    max-width: 550px;
+    margin: 1rem auto;
+    text-align: center;
+  }
+  .vcard .name {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: var(--global-theme-color);
+  }
+  .vcard .title,
+  .vcard .speciality,
+  .vcard .note {
+    color: var(--global-text-color-light);
+  }
+  .vcard .title {
+    font-size: 1.1em;
+    margin-bottom: 6px;
+  }
+  .vcard .speciality {
+    font-size: 0.95em;
+    margin-bottom: 16px;
+  }
+  .vcard .org {
+    margin-bottom: 18px;
+  }
+  .vcard .contact a {
+    display: block;
+    margin: 4px 0;
+    word-break: break-all;
+  }
+  .vcard .qr-container {
+    margin: 20px 0 10px 0;
+  }
+  .vcard .qr-container img {
+    width: 160px;
+    height: 160px;
+    border: 2px solid var(--global-theme-color);
+    border-radius: 12px;
+    background-color: #fff;
+    padding: 8px;
+  }
+  .vcard .note {
+    font-size: 0.9em;
+    margin-bottom: 20px;
+  }
+  .vcard .btn-appointment {
+    background-color: var(--global-theme-color);
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .vcard .btn-appointment:hover {
+    opacity: 0.85;
+    color: #fff;
+  }
+</style>
 
-        <div class="contact">
-          <a href="mailto:hafizulafifi@utar.edu.my">hafizulafifi@utar.edu.my</a>
-          <a href="https://hafizulabdullah.com/" target="_blank">https://hafizulabdullah.com</a>
-        </div>
+<div class="vcard">
+  <div class="name">Dr. Hafizul Abdullah</div>
+  <div class="title">Assistant Professor / Researcher</div>
+  <div class="speciality">
+    Specialising in deep learning for biomedical imaging and natural language processing.
+  </div>
+  <div class="org">Universiti Tunku Abdul Rahman (UTAR)</div>
 
-        <div class="qr-container">
-          <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=BEGIN%3AVCARD%0AVERSION%3A3.0%0AN%3AAbdullah%3BHafizul%3B%3BDr.%3B%0AFN%3ADr.%20Hafizul%20Abdullah%0ATITLE%3AAssistant%20Professor%0AORG%3AUniversiti%20Tunku%20Abdul%20Rahman%20(UTAR)%0AEMAIL%3BTYPE%3Dwork%3Ahafizulafifi%40utar.edu.my%0AURL%3BTYPE%3Dwork%3Ahttps%3A%2F%2Fhafizulabdullah.com%2F%0ANOTE%3ASpecialising%20in%20Artificial%20Intelligence%2C%20Generative%20AI%2C%20Big%20Data%20Analytics%2C%20Information%20Extraction%2C%20and%20Deep%20Learning.%0AEND%3AVCARD" alt="vCard QR Code">
-        </div>
+  <div class="contact">
+    <a href="mailto:hafizulafifi@utar.edu.my">hafizulafifi@utar.edu.my</a>
+    <a href="https://hafizulabdullah.com/">https://hafizulabdullah.com</a>
+  </div>
 
-        <div class="note">Scan the QR to save contact.</div>
+  <div class="qr-container">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=BEGIN%3AVCARD%0AVERSION%3A3.0%0AN%3AAbdullah%3BHafizul%3B%3BDr.%3B%0AFN%3ADr.%20Hafizul%20Abdullah%0ATITLE%3AAssistant%20Professor%0AORG%3AUniversiti%20Tunku%20Abdul%20Rahman%20(UTAR)%0AEMAIL%3BTYPE%3Dwork%3Ahafizulafifi%40utar.edu.my%0AURL%3BTYPE%3Dwork%3Ahttps%3A%2F%2Fhafizulabdullah.com%2F%0ANOTE%3ASpecialising%20in%20deep%20learning%20for%20biomedical%20imaging%20and%20natural%20language%20processing.%0AEND%3AVCARD" alt="vCard QR code for Dr. Hafizul Abdullah">
+  </div>
 
-        <a class="btn" href="https://calendar.google.com/calendar/appointments/AcZssZ0ct9pezfkSREcf1EtOf3vrDOFKKMIcQITPDpQ=" target="_blank">
-          Schedule Appointment
-        </a>
-      </div>
-    </body>
+  <div class="note">Scan the QR to save contact.</div>
 
-</html>
+  <a class="btn-appointment" href="https://calendar.google.com/calendar/appointments/AcZssZ0ct9pezfkSREcf1EtOf3vrDOFKKMIcQITPDpQ=" target="_blank" rel="noopener noreferrer">
+    Schedule Appointment
+  </a>
+</div>
