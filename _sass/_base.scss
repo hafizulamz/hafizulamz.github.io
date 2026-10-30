@@ -538,7 +538,9 @@ footer.sticky-bottom {
 
   h1 {
     color: var(--global-theme-color);
-    font-size: 5rem;
+    // shrink with the screen so long titles don't push the page sideways on phones
+    font-size: clamp(2.5rem, 11vw, 5rem);
+    overflow-wrap: break-word;
   }
 }
 
