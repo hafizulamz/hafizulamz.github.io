@@ -96,7 +96,6 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Lecture & Tutorial</span>
                 </div>
                 <p class="card-text">
-                  <h6 class="font-italic mt-2 mt-sm-0">Jun 26</h6>
                   <ul>
                     <li>Topic 1: Introduction to Distributed Systems</li>
                     <li>Topic 2: Communication in Distributed Systems</li>
@@ -125,7 +124,6 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Lecture & Tutorial</span>
                 </div>
                 <p class="card-text">
-                  <h6 class="font-italic mt-2 mt-sm-0">Feb 25, Feb 26</h6>
                   <ul>
                     <li>Topic 1: Cloud Concepts Overview</li>
                     <li>Topic 2: Cloud Global Infrastructure</li>
@@ -153,7 +151,6 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Practical Lab</span>
                 </div>
                 <p class="card-text">
-                  <h6 class="font-italic mt-2 mt-sm-0">Feb 25, Jun 25, Oct 25</h6>
                   <ul>
                     <li>Introduction to Android Studio</li>
                     <li>Handling Input Events</li>
@@ -183,7 +180,6 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
                 </div>
                 <p class="card-text">
-                  <h6 class="font-italic mt-2 mt-sm-0">Jun 25</h6>
                   <ul>
                     <li>Pointers Use with Arrays and Structure</li>
                     <li>Struct and Pointer</li>
@@ -250,7 +246,6 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Practical Lab</span>
                 </div>
                 <p class="card-text">
-                  <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22, Sep 23, May 24</h6>
                   <ul>
                     <li>Data analysis, cleansing, and preparation</li>
                     <li>Data visualization, Pivot tables and charts</li>
@@ -279,7 +274,6 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Practical Lab</span>
                 </div>
                 <p class="card-text">
-                  <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor for Jan 21, Sep 21, Jan 22, Sep 22, Jan 23, Jan 24, May 24</h6>
                   <ul>
                     <li>Environment setup</li>
                     <li>Big data systems: HDFS, Mapreduce, Hive, Spark</li>
@@ -312,7 +306,6 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
                 </div>
                 <p class="card-text">
-                  <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22, Jan 23, May 23</h6>
                   <ul>
                     <li><a href="https://youtu.be/9xwR4JCBaIU">Create Work Breakdown Structure (WBS) and Gantt chart using ProjectLibre</a></li>
                     <li>Managing resources using ProjectLibre</li>
@@ -340,7 +333,6 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
                 </div>
                 <p class="card-text">
-                  <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 22</h6>
                   <ul>
                     <li>Fundamental: Datacenter trends, components, and security</li>
                     <li>IT infra for enterprise: Platform as a Service (PaaS)</li>
@@ -370,7 +362,6 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
                 </div>
                 <p class="card-text">
-                  <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 23</h6>
                   <ul>
                     <li>Business process and business functions</li>
                     <li>ERP system development</li>
@@ -401,7 +392,6 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
                 </div>
                 <p class="card-text">
-                  <h6 class="font-italic mt-2 mt-sm-0">Tutor for May 21</h6>
                 </p>
                 <div class="row ml-1 mr-1 p-0"> </div>
               </div>
@@ -433,10 +423,7 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
                   <span class="badge font-weight-bold badge-theme text-uppercase align-middle">UG Supervision</span>
                 </div>
                 <p class="card-text">
-                  <h6 class="font-italic mt-2 mt-sm-0">Supervise UG on 2017, 2018, 2019</h6>
-                  <ul>
-                    <li>Supervise UG students for FYP I and FYP II courses</li>
-                  </ul>
+                  Supervised UG students for FYP I and FYP II courses (2017, 2018, 2019).
                 </p>
                 <div class="row ml-1 mr-1 p-0"> </div>
               </div>
