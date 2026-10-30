@@ -64,6 +64,12 @@ max_width: 930px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
+schema_person_name: Mohd Hafizul Afifi Abdullah # your name in the schema.org data, without the title
+schema_honorific_prefix: Dr.
+schema_alternate_names: # other forms of your name, so search engines link them to you
+  - Mohd Hafizul Afifi bin Abdullah
+  - Hafizul Abdullah
+  - M.H.A. Abdullah
 og_image: https://hafizulabdullah.com/assets/img/og-image.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------

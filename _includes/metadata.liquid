@@ -225,7 +225,13 @@
         "author":
         {
             "@type": "Person",
-            "name": "{{ author_name }}"
+            {% if site.schema_honorific_prefix %}
+            "honorificPrefix": {{ site.schema_honorific_prefix | jsonify }},
+            {% endif %}
+            {% if site.schema_alternate_names %}
+            "alternateName": {{ site.schema_alternate_names | jsonify }},
+            {% endif %}
+            "name": "{% if site.schema_person_name %}{{ site.schema_person_name }}{% else %}{{ author_name }}{% endif %}"
         },
         "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
         "@type": "{% if is_blog_post %}BlogPosting{% else %}WebSite{% endif %}",

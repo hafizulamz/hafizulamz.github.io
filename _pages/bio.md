@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /bio/
 title: bio
-description: Biography of Dr. Hafizul Abdullah
+description: Biography of Dr. Mohd Hafizul Afifi Abdullah
 nav: true
 nav_order: 2
 
