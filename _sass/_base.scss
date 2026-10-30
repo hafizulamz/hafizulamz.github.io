@@ -365,6 +365,15 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// inline navbar icons (sun/moon toggle, search) from Tabler Icons (MIT), sized like the old icon font
+.ti-svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.1em;
+  fill: currentColor;
+  box-sizing: content-box;
+}
+
 #light-toggle,
 #search-toggle {
   padding: 0;
