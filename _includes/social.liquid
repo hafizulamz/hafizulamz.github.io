@@ -16,9 +16,6 @@
 {% if site.inspirehep_id %}
   <a href="https://inspirehep.net/authors/{{ site.inspirehep_id }}" title="Inspire HEP"><i class="ai ai-inspire"></i></a>
 {% endif %}
-{% if site.semanticscholar_id %}
-  <a href="https://www.semanticscholar.org/author/{{ site.semanticscholar_id }}" title="Semantic Scholar"><i class="ai ai-semantic-scholar"></i></a>
-{% endif %}
 {% if site.publons_id %}
   <a href="https://publons.com/a/{{ site.publons_id }}/" title="Publons"><i class="ai ai-publons"></i></a>
 {% endif %}
@@ -30,12 +27,6 @@
 {% endif %}
 {% if site.research_gate_profile %}
   <a href="https://www.researchgate.net/profile/{{site.research_gate_profile}}/" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
-{% endif %}
-{% if site.ieee_id %}
-  <a href="https://ieeexplore.ieee.org/author/{{site.ieee_id}}/" title="IEEE Xplore"><i class="ai ai-ieee"></i></a>
-{% endif %}
-{% if site.acm_id %}
-  <a href="https://dl.acm.org/profile/{{site.acm_id}}/" title="ACM DL"><i class="ai ai-acm"></i></a>
 {% endif %}
 {% if site.scopus_id %}
   <a href="https://www.scopus.com/authid/detail.uri?authorId={{site.scopus_id}}" title="Scopus"><i class="ai ai-scopus"></i></a>
@@ -81,9 +72,6 @@
 {% endif %}
 {% if site.gitlab_username %}
   <a href="https://gitlab.com/{{ site.gitlab_username }}" title="GitLab"><i class="fa-brands fa-gitlab"></i></a>
-{% endif %}
-{% if site.dblp_url %}
-  <a href="{{ site.dblp_url }}" title="DBLP"><i class="ai ai-dblp"></i></a>
 {% endif %}
 {% if site.stackoverflow_id %}
   <a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" title="Stackoverflow"><i class="fa-brands fa-stack-overflow"></i></a>
