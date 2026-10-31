@@ -580,6 +580,11 @@ footer.sticky-bottom {
     padding-top: 2rem;
     padding-bottom: 2rem;
 
+    // smaller than the page title so the list reads as entries under it
+    h3 {
+      font-size: 1.375rem;
+    }
+
     .post-meta {
       color: var(--global-text-color-light);
       font-size: 0.875rem;
