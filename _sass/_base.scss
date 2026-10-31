@@ -691,6 +691,13 @@ footer.sticky-bottom {
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-align: right;
+
+    // divider above, like the year headings on the publications page
+    &.divider-top {
+      border-bottom: 0;
+      border-top: 1px solid var(--global-divider-color);
+      padding-top: 1rem;
+    }
   }
 }
 
@@ -1346,8 +1353,9 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 // highlight-search-term
+// a light tint of the theme colour keeps the matched text readable in both themes
 ::highlight(search) {
-  background-color: var(--global-theme-color);
+  background-color: color-mix(in srgb, var(--global-theme-color) 28%, transparent);
   color: var(--global-text-color);
 }
 
