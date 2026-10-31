@@ -262,6 +262,30 @@ ul.task-list input[type="checkbox"] {
   opacity: 0.95;
 }
 
+// home page: the bar blends into the page while the big name heading is in view,
+// then the line and the short name come back once it scrolls away (navbar-scrolled, set in common.js)
+.navbar-home {
+  border-bottom-color: transparent;
+  transition: border-color 0.2s ease;
+
+  .navbar-brand {
+    opacity: 0;
+    visibility: hidden;
+    transition:
+      opacity 0.2s ease,
+      visibility 0.2s ease;
+  }
+
+  &.navbar-scrolled {
+    border-bottom-color: var(--global-divider-color);
+
+    .navbar-brand {
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+}
+
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);

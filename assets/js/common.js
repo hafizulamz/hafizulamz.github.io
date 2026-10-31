@@ -17,6 +17,20 @@ $(document).ready(function () {
   });
   $("a").removeClass("waves-effect waves-light");
 
+  // home page navbar: show its line and the short name once the big name heading leaves the screen
+  const homeNav = document.querySelector(".navbar-home");
+  const homeTitle = document.querySelector(".post-title");
+  if (homeNav && homeTitle && "IntersectionObserver" in window) {
+    new IntersectionObserver(
+      ([entry]) => {
+        homeNav.classList.toggle("navbar-scrolled", !entry.isIntersecting);
+      },
+      { rootMargin: `-${homeNav.offsetHeight}px 0px 0px 0px` }
+    ).observe(homeTitle);
+  } else if (homeNav) {
+    homeNav.classList.add("navbar-scrolled");
+  }
+
   // bootstrap-toc
   if ($("#toc-sidebar").length) {
     // remove related publications years from the TOC
