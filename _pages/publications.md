@@ -71,14 +71,8 @@ nav_order: 4
 
 <hr>
 <h3 class="mt-4">let's connect</h3>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        01. <b>ORCID</b><br><a href="https://orcid.org/0000-0002-1427-2571">View my ORCID ></a>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        02. <b>ResearchGate</b><br><a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah">Connect on RG ></a>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        03. <b>Google Scholar</b><br><a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ">View on Scholar ></a>
-    </div>
-</div>
+<ul class="list-inline coauthors">
+  <li class="list-inline-item"><a href="https://orcid.org/0000-0002-1427-2571">ORCID</a></li>
+  <li class="list-inline-item"><a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah">ResearchGate</a></li>
+  <li class="list-inline-item"><a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ">Google Scholar</a></li>
+</ul>
