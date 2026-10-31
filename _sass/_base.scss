@@ -1469,6 +1469,7 @@ dt,
 
   strong {
     color: var(--global-text-color);
+    font-weight: 400;
   }
 }
 
@@ -1504,7 +1505,7 @@ dt,
 
 // ubuntu.com-style section heading: left-aligned, rule above
 .section-heading {
-  margin-top: 2.5rem;
+  margin-top: 3rem;
   margin-bottom: 1rem;
   padding-top: 1rem;
   border-top: 1px solid var(--global-divider-color);
@@ -1525,9 +1526,14 @@ dt,
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  margin-top: 1.5rem;
-  padding: 1rem 0;
+  padding: 1.25rem 0;
   border-top: 1px solid var(--global-divider-color);
+
+  // divided list: lines go between rows, not between the heading and the first row
+  &:first-child {
+    padding-top: 0.75rem;
+    border-top: 0;
+  }
   color: var(--global-text-color) !important;
   text-decoration: none !important;
 
@@ -1538,14 +1544,22 @@ dt,
 
 .accordion-title {
   margin: 0;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
 }
 
 .accordion-meta {
   display: block;
-  margin-top: 0.25rem;
+  margin-top: 0.125rem;
   color: var(--global-text-color-light);
-  font-size: 1rem;
+  font-size: 0.875rem;
+}
+
+// open content gets room before the next row's divider
+.accordion-toggle + .collapse,
+.accordion-toggle + .collapsing {
+  > :last-child {
+    margin-bottom: 2rem;
+  }
 }
 
 .accordion-icon {
@@ -1560,6 +1574,11 @@ dt,
 
 // ubuntu.com-style course cards: muted label, modest title, divided topic list
 .course-cards {
+  // MDB sets .card to 400; use the site's lighter body weight
+  .card {
+    font-weight: inherit;
+  }
+
   .card-title {
     margin-bottom: 0.75rem;
     font-size: 1.375rem;

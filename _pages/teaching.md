@@ -57,11 +57,13 @@ horizontal: false
   </div>
 </div>
 
+<h2 class="section-heading">teaching experience</h2>
+
 <article>
   <div class="projects">
     <!-- Collapsible Header for UTAR -->
     <a id="utar" class="accordion-toggle" data-toggle="collapse" href="#collapseUTAR" role="button" aria-expanded="true" aria-controls="collapseUTAR">
-      <h2 class="accordion-title">Universiti Tunku Abdul Rahman <span class="accordion-meta">2025–current</span></h2>
+      <h3 class="accordion-title">Universiti Tunku Abdul Rahman <span class="accordion-meta">2025–current</span></h3>
       <i class="fa-solid fa-chevron-down accordion-icon" aria-hidden="true"></i>
     </a>
 
@@ -158,10 +160,18 @@ horizontal: false
         </div>
       </div>
     </div>
+    <script>
+      // on phones the UTAR cards stack into several screens, so start collapsed and let the rows read as an overview
+      if (window.matchMedia("(max-width: 575.98px)").matches) {
+        document.getElementById("collapseUTAR").classList.remove("show");
+        document.getElementById("utar").setAttribute("aria-expanded", "false");
+        document.getElementById("utar").classList.add("collapsed");
+      }
+    </script>
 
     <!-- Collapsible Header for UTP -->
     <a id="utp" class="accordion-toggle" data-toggle="collapse" href="#collapseUTP" role="button" aria-expanded="false" aria-controls="collapseUTP">
-      <h2 class="accordion-title">Universiti Teknologi PETRONAS <span class="accordion-meta">2021–2024</span></h2>
+      <h3 class="accordion-title">Universiti Teknologi PETRONAS <span class="accordion-meta">2021–2024</span></h3>
       <i class="fa-solid fa-chevron-down accordion-icon" aria-hidden="true"></i>
     </a>
 
@@ -300,7 +310,7 @@ horizontal: false
 
     <!-- Collapsible Header for UTHM -->
     <a id="uthm" class="accordion-toggle" data-toggle="collapse" href="#collapseUTHM" role="button" aria-expanded="false" aria-controls="collapseUTHM">
-      <h2 class="accordion-title">Universiti Tun Hussein Onn Malaysia <span class="accordion-meta">2016–2020</span></h2>
+      <h3 class="accordion-title">Universiti Tun Hussein Onn Malaysia <span class="accordion-meta">2016–2020</span></h3>
       <i class="fa-solid fa-chevron-down accordion-icon" aria-hidden="true"></i>
     </a>
 
@@ -328,7 +338,7 @@ horizontal: false
 
     <!-- Collapsible Header for Courses/Workshops -->
     <a class="accordion-toggle" data-toggle="collapse" href="#collapseCourses" role="button" aria-expanded="false" aria-controls="collapseCourses">
-      <h2 class="accordion-title">courses and workshops conducted</h2>
+      <h3 class="accordion-title">courses and workshops conducted</h3>
       <i class="fa-solid fa-chevron-down accordion-icon" aria-hidden="true"></i>
     </a>
 
