@@ -1361,9 +1361,16 @@ textarea,
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     grid-auto-rows: 1fr;
+    gap: 1rem;
+    margin-left: 0;
+    margin-right: 0;
 
+    // the grid gap does the spacing, so drop Bootstrap's column padding and margins
     > [class*="col"] {
       max-width: none;
+      margin-top: 0 !important;
+      padding-left: 0;
+      padding-right: 0;
     }
   }
 }
