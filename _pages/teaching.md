@@ -20,9 +20,7 @@ horizontal: false
   <p class="lead">I am a passionate educator who fosters active student participation throughout the teaching and learning process by applying Outcome Based Education. Experienced in teaching small and large groups while cultivating Active Learning to create an engaging and supportive learning environment.</p>
 </div>
 
-<div class="projects">
-  <h2 class="category">overall teaching metrics</h2>
-</div>
+<h2 class="section-heading">overall teaching metrics</h2>
 
 <div class="row mt-3 stat-cards">
   <div class="col-6 col-sm mt-3 mt-md-0">
@@ -62,8 +60,9 @@ horizontal: false
 <article>
   <div class="projects">
     <!-- Collapsible Header for UTAR -->
-    <a id="utar" class="d-block mt-4" data-toggle="collapse" href="#collapseUTAR" role="button" aria-expanded="true" aria-controls="collapseUTAR" style="text-decoration:none; color: inherit;">
-      <h2 class="category">Universiti Tunku Abdul Rahman (2025-Current) <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
+    <a id="utar" class="accordion-toggle" data-toggle="collapse" href="#collapseUTAR" role="button" aria-expanded="true" aria-controls="collapseUTAR">
+      <h2 class="accordion-title">Universiti Tunku Abdul Rahman <span class="accordion-meta">2025–current</span></h2>
+      <i class="fa-solid fa-chevron-down accordion-icon" aria-hidden="true"></i>
     </a>
 
     <!-- Collapsible Content for UTAR -->
@@ -173,8 +172,9 @@ horizontal: false
     </div>
 
     <!-- Collapsible Header for UTP -->
-    <a id="utp" class="d-block mt-4" data-toggle="collapse" href="#collapseUTP" role="button" aria-expanded="false" aria-controls="collapseUTP" style="text-decoration:none; color: inherit;">
-      <h2 class="category">Universiti Teknologi PETRONAS (2021-2024) <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
+    <a id="utp" class="accordion-toggle" data-toggle="collapse" href="#collapseUTP" role="button" aria-expanded="false" aria-controls="collapseUTP">
+      <h2 class="accordion-title">Universiti Teknologi PETRONAS <span class="accordion-meta">2021–2024</span></h2>
+      <i class="fa-solid fa-chevron-down accordion-icon" aria-hidden="true"></i>
     </a>
 
     <!-- Collapsible Content for UTP -->
@@ -329,8 +329,9 @@ horizontal: false
     </div>
 
     <!-- Collapsible Header for UTHM -->
-    <a id="uthm" class="d-block mt-4" data-toggle="collapse" href="#collapseUTHM" role="button" aria-expanded="false" aria-controls="collapseUTHM" style="text-decoration:none; color: inherit;">
-      <h2 class="category">Universiti Tun Hussein Onn Malaysia (2016-2020) <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
+    <a id="uthm" class="accordion-toggle" data-toggle="collapse" href="#collapseUTHM" role="button" aria-expanded="false" aria-controls="collapseUTHM">
+      <h2 class="accordion-title">Universiti Tun Hussein Onn Malaysia <span class="accordion-meta">2016–2020</span></h2>
+      <i class="fa-solid fa-chevron-down accordion-icon" aria-hidden="true"></i>
     </a>
 
     <!-- Collapsible Content for UTHM -->
@@ -359,8 +360,9 @@ horizontal: false
     </div>
 
     <!-- Collapsible Header for Courses/Workshops -->
-    <a class="d-block mt-4" data-toggle="collapse" href="#collapseCourses" role="button" aria-expanded="false" aria-controls="collapseCourses" style="text-decoration:none; color: inherit;">
-      <h2 class="category">courses and workshops conducted <span style="font-size: 0.6em; vertical-align: middle;">&gt;</span></h2>
+    <a class="accordion-toggle" data-toggle="collapse" href="#collapseCourses" role="button" aria-expanded="false" aria-controls="collapseCourses">
+      <h2 class="accordion-title">courses and workshops conducted</h2>
+      <i class="fa-solid fa-chevron-down accordion-icon" aria-hidden="true"></i>
     </a>
 
     <!-- Collapsible Content for Courses/Workshops -->

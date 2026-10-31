@@ -1468,3 +1468,52 @@ dt,
     line-height: 1.5;
   }
 }
+
+// ubuntu.com-style section heading: left-aligned, rule above
+.section-heading {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--global-divider-color);
+  color: var(--global-text-color);
+  font-size: 1.5rem;
+}
+
+// ubuntu.com-style accordion row: title left, chevron right, divider above
+.accordion-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--global-divider-color);
+  color: var(--global-text-color) !important;
+  text-decoration: none !important;
+
+  &:hover .accordion-title {
+    color: var(--global-theme-color);
+  }
+}
+
+.accordion-title {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.accordion-meta {
+  display: block;
+  margin-top: 0.25rem;
+  color: var(--global-text-color-light);
+  font-size: 1rem;
+}
+
+.accordion-icon {
+  flex-shrink: 0;
+  color: var(--global-theme-color);
+  transition: transform 0.2s ease;
+
+  .accordion-toggle[aria-expanded="true"] & {
+    transform: rotate(180deg);
+  }
+}
