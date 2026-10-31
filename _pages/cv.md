@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: false
 cv_pdf: CV_Hafizul_Abdullah.pdf
-description: Dr. Mohd Hafizul Afifi Abdullah specializes in deep learning for biomedical applications, particularly natural language processing for biomedical text and medical image analysis.
+description: A short summary of work, education and research funding. The full CV, with publications, supervision, awards and service, is in the PDF.
 toc:
   sidebar: left
 ---

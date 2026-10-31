@@ -526,8 +526,30 @@ footer.sticky-bottom {
 // CV
 
 // CV header links: download and related pages, dot-separated like the publication links
+// CV header: one filled button for the PDF, then the related pages as plain links
+.cv-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem 1.5rem;
+  margin-top: -0.75rem; // sit closer to the summary line than post-description's usual gap
+}
+
+.cv-download {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  border-radius: 4px;
+  background-color: var(--global-theme-fill-color);
+  color: #fff !important;
+  font-size: 0.95rem;
+
+  &:hover {
+    text-decoration: none;
+    opacity: 0.85;
+  }
+}
+
 .cv-links {
-  margin-top: 0.75rem;
   font-size: 0.95rem;
 
   a + a::before {
@@ -1261,8 +1283,10 @@ nav[data-toggle="toc"] {
 
 /* small screens */
 @media (max-width: 576px) {
-  /* override stickyness so that the navigation does not follow scrolling */
-  nav[data-toggle="toc"] {
+  /* override stickyness so that the navigation does not follow scrolling;
+     #toc-sidebar too, so the links don't flash over the title before the TOC script marks the nav */
+  nav[data-toggle="toc"],
+  #toc-sidebar {
     visibility: hidden;
     height: 0;
     top: 0;

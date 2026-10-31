@@ -54,13 +54,18 @@ layout: default
       {% if page.description %}
         <p class="post-description">{{ page.description }}</p>
       {% endif %}
-      <p class="cv-links">
+      {% comment %} the PDF is what most visitors came for, so it is the one button; the rest are plain links {% endcomment %}
+      <div class="cv-actions">
         {% if page.cv_pdf %}
-          <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer">Download CV (PDF)</a>
+          <a class="cv-download" href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer"
+            >Download full CV (PDF)</a
+          >
         {% endif %}
-        <a href="{{ '/publications/' | relative_url }}">Publications</a>
-        <a href="{{ '/teaching/' | relative_url }}">Teaching portfolio</a>
-      </p>
+        <span class="cv-links">
+          <a href="{{ '/publications/' | relative_url }}">Publications</a>
+          <a href="{{ '/teaching/' | relative_url }}">Teaching portfolio</a>
+        </span>
+      </div>
     </header>
 
     <article>
