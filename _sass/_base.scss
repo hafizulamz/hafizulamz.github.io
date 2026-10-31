@@ -1353,3 +1353,17 @@ textarea,
 .navbar {
   font-family: "Ubuntu", sans-serif;
 }
+
+// publication stat cards: on phones they sit 2x2, so give both rows the same height
+// (a label that wraps would otherwise make its row taller)
+@media (max-width: 575.98px) {
+  .stat-cards {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-auto-rows: 1fr;
+
+    > [class*="col"] {
+      max-width: none;
+    }
+  }
+}

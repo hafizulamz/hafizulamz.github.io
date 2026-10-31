@@ -10,34 +10,34 @@ nav_order: 4
 <div class="projects">
   <h2 class="category">metrics</h2>
 </div>
-<div class="row mt-3">
+<div class="row mt-3 stat-cards">
   <div class="col-6 col-sm mt-3 mt-md-0">
-    <a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah" style="text-decoration:none">
-      <div class="card hoverable"><div class="card-body">
+    <a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah" class="d-block h-100" style="text-decoration:none">
+      <div class="card hoverable h-100"><div class="card-body">
         <h2 class="card-title text-lowercase">16.3k+</h2>
         <p class="card-text">reads on RG</p>
       </div></div>
     </a>
   </div>
   <div class="col-6 col-sm mt-3 mt-md-0">
-    <a hrefxx="" style="text-decoration:none">
-      <div class="card hoverable"><div class="card-body">
+    <a hrefxx="" class="d-block h-100" style="text-decoration:none">
+      <div class="card hoverable h-100"><div class="card-body">
         <h2 class="card-title text-lowercase">199</h2>
         <p class="card-text">Scopus citations</p>
       </div></div>
     </a>
   </div>
   <div class="col-6 col-sm mt-3 mt-md-0">
-    <a hrefxx="" style="text-decoration:none">
-      <div class="card hoverable"><div class="card-body">
+    <a hrefxx="" class="d-block h-100" style="text-decoration:none">
+      <div class="card hoverable h-100"><div class="card-body">
         <h2 class="card-title text-lowercase">7</h2>
         <p class="card-text">Scopus h-index</p>
       </div></div>
     </a>
   </div>
   <div class="col-6 col-sm mt-3 mt-md-0">
-    <a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en" style="text-decoration:none">
-      <div class="card hoverable"><div class="card-body">
+    <a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en" class="d-block h-100" style="text-decoration:none">
+      <div class="card hoverable h-100"><div class="card-body">
         <h2 class="card-title text-lowercase">5</h2>
         <p class="card-text">Q1/Q2 publications</p>
       </div></div>
