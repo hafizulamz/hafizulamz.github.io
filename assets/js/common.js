@@ -31,6 +31,19 @@ $(document).ready(function () {
     homeNav.classList.add("navbar-scrolled");
   }
 
+  // phone menu: close it once the page scrolls a little or a tap lands outside the navbar
+  const $menu = $("#navbarNav");
+  let menuOpenedAt = 0;
+  $menu.on("shown.bs.collapse", () => {
+    menuOpenedAt = window.scrollY;
+  });
+  $(window).on("scroll", () => {
+    if ($menu.hasClass("show") && Math.abs(window.scrollY - menuOpenedAt) > 10) $menu.collapse("hide");
+  });
+  $(document).on("click touchstart", (e) => {
+    if ($menu.hasClass("show") && !$(e.target).closest("#navbar").length) $menu.collapse("hide");
+  });
+
   // bootstrap-toc
   if ($("#toc-sidebar").length) {
     // remove related publications years from the TOC
