@@ -33,6 +33,8 @@
           progressBar.attr({ value: getCurrentScrollPosition() });
         });
         $(window).on('resize', initializeProgressElement);
+        // measure again once the phone menu closes, since the open menu makes the navbar taller
+        $('#navbarNav').on('hidden.bs.collapse', initializeProgressElement);
       } else {
         resizeProgressBar();
         $(document).on('scroll', resizeProgressBar);
@@ -49,10 +51,14 @@
     }
 
     function initializeProgressElement() {
-      let navbarHeight = $('#navbar').outerHeight(true);
-      $('body').css({ 'padding-top': navbarHeight });
-      $('progress-container').css({ 'padding-top': navbarHeight });
-      progressBar.css({ top: navbarHeight });
+      // phones fire resize while scrolling (the address bar hides and shows), so skip the
+      // navbar height while the menu is open or animating, or the bar sticks below the menu
+      if (!$('#navbarNav').is('.show, .collapsing')) {
+        let navbarHeight = $('#navbar').outerHeight(true);
+        $('body').css({ 'padding-top': navbarHeight });
+        $('progress-container').css({ 'padding-top': navbarHeight });
+        progressBar.css({ top: navbarHeight });
+      }
       progressBar.attr({
         max: getDistanceToScroll(),
         value: getCurrentScrollPosition(),
