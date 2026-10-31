@@ -776,8 +776,10 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-size: 1.1rem;
+        margin-bottom: 0.25rem;
+        font-size: 1.2rem;
         font-weight: 400;
+        line-height: 1.4;
 
         a {
           color: var(--global-text-color);
@@ -788,33 +790,37 @@ footer.sticky-bottom {
         }
       }
 
+      // details sit a step below the title: smaller, muted, no citation italics
+      .author,
       .periodical {
         color: var(--global-text-color-light);
+        font-size: 0.95rem;
       }
 
-      .author {
-        a {
-          border-bottom: 1px dashed var(--global-theme-color);
+      .periodical em {
+        color: inherit;
+        font-style: normal;
+      }
 
-          &:hover {
-            border-bottom-style: solid;
-            text-decoration: none;
-          }
+      // no underlines, and own name styled like every other author so the list
+      // does not draw attention to author position
+      .author {
+        a:hover {
+          text-decoration: underline;
         }
 
         > em {
-          border-bottom: 1px solid;
+          color: inherit;
           font-style: normal;
         }
 
         > span.more-authors {
           color: var(--global-text-color-light);
-          border-bottom: 1px dashed var(--global-text-color-light);
           cursor: pointer;
 
           &:hover {
             color: var(--global-text-color);
-            border-bottom: 1px dashed var(--global-text-color);
+            text-decoration: underline;
           }
         }
       }
