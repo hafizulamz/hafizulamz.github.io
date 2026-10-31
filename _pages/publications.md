@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: my research focuses on deep learning for biomedical applications, particularly natural language processing for biomedical text and medical image analysis. publications are by categories in reversed chronological order.
+description: my research focuses on deep learning for biomedical applications, particularly natural language processing for biomedical text and medical image analysis.
 nav: true
 nav_order: 4
 ---
