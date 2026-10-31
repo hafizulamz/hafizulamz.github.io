@@ -3,7 +3,8 @@ layout: page
 title: contact
 permalink: /contact/
 description: book an appointment or save my contact details.
-nav: false
+nav: true
+nav_order: 6
 ---
 
 <style>

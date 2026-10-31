@@ -22,3 +22,5 @@ Over nearly ten years in higher education, he has developed a robust pedagogical
 His track record includes publications in reputable Q1/Q2 journals, a keynote on generative AI (IICT’26), and a UTAR Research Fund grant on which he serves as Principal Investigator. He also reviews for international conferences and for journals such as Neural Networks and Knowledge-Based Systems.
 
 Check out and follow his publications on [ResearchGate](https://www.researchgate.net/profile/Mohd_Hafizul_Afifi_Abdullah), [Google Scholar](https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en), and <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0000-0002-1427-2571" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/> ORCID</a>.
+
+Read his [full bio](/bio/).

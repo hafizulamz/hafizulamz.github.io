@@ -364,4 +364,7 @@ horizontal: false
     </div>
 
   </div>
+
+  <h2 class="section-heading">for students</h2>
+  <p><a href="{{ '/utilities/utar-cgpa-calculator/' | relative_url }}">UTAR CGPA calculator</a>: estimate your trimester GPA and cumulative CGPA using the UTAR grading scale.</p>
 </article>
