@@ -1342,3 +1342,14 @@ ninja-keys::part(ninja-input-wrapper) {
   color: var(--global-card-bg-color) !important;
   background-color: var(--global-theme-color) !important;
 }
+
+// sitewide font (loaded from Google Fonts via third_party_libraries.google_fonts)
+body,
+button,
+input,
+select,
+textarea,
+.btn,
+.navbar {
+  font-family: "Ubuntu", sans-serif;
+}
