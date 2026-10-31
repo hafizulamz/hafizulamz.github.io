@@ -21,28 +21,38 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
   <h2 class="category">overall teaching metrics</h2>
 </div>
 
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="#" style="text-decoration:none">
-      <div class="card hoverable">
-        <div class="card-body">
-          <p class="card-text">Teaching Performance Rating</p>
-          <h2 class="card-title text-lowercase">4.79 / 5.0</h2>
-          <p class="card-text">based on 178 total responses</p>
-        </div>
+<div class="row mt-3 stat-cards">
+  <div class="col-6 col-sm mt-3 mt-md-0">
+    <div class="card h-100">
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">4.79 / 5</h2>
+        <p class="card-text">teaching rating</p>
       </div>
-    </a>
+    </div>
   </div>
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="#" style="text-decoration:none">
-      <div class="card hoverable">
-        <div class="card-body">
-          <p class="card-text">Student Support Rating</p>
-          <h2 class="card-title text-lowercase">NA / 5.0</h2>
-          <p class="card-text">based on 0 responses</p>
-        </div>
+  <div class="col-6 col-sm mt-3 mt-md-0">
+    <div class="card h-100">
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">178</h2>
+        <p class="card-text">student responses</p>
       </div>
-    </a>
+    </div>
+  </div>
+  <div class="col-6 col-sm mt-3 mt-md-0">
+    <div class="card h-100">
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">11</h2>
+        <p class="card-text">courses taught</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-6 col-sm mt-3 mt-md-0">
+    <div class="card h-100">
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">10 yrs</h2>
+        <p class="card-text">teaching since 2016</p>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -55,31 +65,8 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
 
     <!-- Collapsible Content for UTAR -->
     <div class="collapse show" id="collapseUTAR">
-      <!-- Metrics for UTAR -->
-      <div class="row mt-3 mb-3">
-        <div class="col-sm mt-3 mt-md-0">
-          <a href="#" style="text-decoration:none">
-            <div class="card hoverable">
-              <div class="card-body">
-                <p class="card-text">Teaching Performance Rating</p>
-                <h2 class="card-title text-lowercase">4.62 / 5.0</h2>
-                <p class="card-text">based on 81 responses</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-sm mt-3 mt-md-0">
-          <a href="#" style="text-decoration:none">
-            <div class="card hoverable">
-              <div class="card-body">
-                <p class="card-text">Student Support Rating</p>
-                <h2 class="card-title text-lowercase">NA / 5.0</h2>
-                <p class="card-text">based on 0 responses</p>
-              </div>
-            </div>
-          </a>
-        </div>
-      </div>
+      <!-- Ratings for UTAR -->
+      <p class="uni-rating">teaching performance rating <strong>4.62 / 5</strong> from 81 responses</p>
 
       <div class="row mt-3 row-cols-1 row-cols-md-3">
         <div class="col">
@@ -189,31 +176,8 @@ _**My Teaching philosophy:**_ I am a passionate educator who fosters active stud
 
     <!-- Collapsible Content for UTP -->
     <div class="collapse" id="collapseUTP">
-      <!-- Metrics for UTP -->
-      <div class="row mt-3 mb-3">
-        <div class="col-sm mt-3 mt-md-0">
-          <a href="#" style="text-decoration:none">
-            <div class="card hoverable">
-              <div class="card-body">
-                <p class="card-text">Teaching Performance Rating</p>
-                <h2 class="card-title text-lowercase">4.94 / 5.0</h2>
-                <p class="card-text">based on 97 responses</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-sm mt-3 mt-md-0">
-          <a href="#" style="text-decoration:none">
-            <div class="card hoverable">
-              <div class="card-body">
-                <p class="card-text">Student Support Rating</p>
-                <h2 class="card-title text-lowercase">4.95 / 5.0</h2>
-                <p class="card-text">based on 97 responses</p>
-              </div>
-            </div>
-          </a>
-        </div>
-      </div>
+      <!-- Ratings for UTP -->
+      <p class="uni-rating">teaching performance rating <strong>4.94 / 5</strong> from 97 responses &middot; student support rating <strong>4.95 / 5</strong> from 97 responses</p>
 
       <div class="row row-cols-1 row-cols-md-3">
         <div class="col">

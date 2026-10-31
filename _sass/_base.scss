@@ -1403,3 +1403,14 @@ dt,
   background-color: transparent;
   padding: 0;
 }
+
+// one-line rating summary under each university heading (teaching page)
+.uni-rating {
+  color: var(--global-text-color-light);
+  font-size: 0.95rem;
+  margin: 0.25rem 0 1.25rem;
+
+  strong {
+    color: var(--global-text-color);
+  }
+}
