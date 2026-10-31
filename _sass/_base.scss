@@ -709,6 +709,11 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
 
+  // under a section heading (home page), the heading already sets the gap
+  .section-heading + & {
+    margin-top: 0;
+  }
+
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;

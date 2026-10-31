@@ -60,8 +60,8 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <!-- hidden on phones to keep the home page short -->
-      <div class="d-none d-sm-block mt-5">
-        <h2>
+      <div class="d-none d-sm-block">
+        <h2 class="section-heading">
           <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
         </h2>
         {% include selected_papers.liquid %}
