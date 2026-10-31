@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 <div class="projects">
-  <h2 class="category divider-top">metrics</h2>
+  <h2 class="category no-divider">metrics</h2>
 </div>
 <div class="row mt-3 stat-cards">
   <div class="col-6 col-sm mt-3 mt-md-0">

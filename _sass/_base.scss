@@ -589,8 +589,18 @@ footer.sticky-bottom {
   li {
     border-bottom: 1px solid var(--global-divider-color);
     list-style: none;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+
+    // no divider above the first post, so no extra gap under the page title
+    &:first-child {
+      padding-top: 0;
+    }
+
+    // keep the gap below the divider equal to the gap above it
+    > :last-child {
+      margin-bottom: 0;
+    }
 
     // smaller than the page title so the list reads as entries under it
     h3 {
@@ -692,11 +702,9 @@ footer.sticky-bottom {
     margin-bottom: 1rem;
     text-align: right;
 
-    // divider above, like the year headings on the publications page
-    &.divider-top {
+    // first section right under the page title: no divider line
+    &.no-divider {
       border-bottom: 0;
-      border-top: 1px solid var(--global-divider-color);
-      padding-top: 1rem;
     }
   }
 }
