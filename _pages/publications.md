@@ -50,7 +50,6 @@ nav_order: 4
 <br><br>
 
 <!-- Bibsearch Feature -->
-<h2 class="card-title text-lowercase">Search publications:</h2>
 {% include bib_search.liquid %}
 
 <div class="publications">

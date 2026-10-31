@@ -1207,6 +1207,12 @@ ninja-keys::part(ninja-input-wrapper) {
   padding: 8px 12px;
 }
 
+// publication search spans the full content width
+.bibsearch-form-input {
+  max-width: none;
+  margin-right: 0;
+}
+
 .newsletter-form-input:focus {
   border-color: var(--global-theme-color) !important;
 }
