@@ -7,9 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-<div class="projects">
-  <h2 class="category no-divider">metrics</h2>
-</div>
+<h2 class="section-heading first">metrics</h2>
 <div class="row mt-3 stat-cards">
   <div class="col-6 col-sm mt-3 mt-md-0">
     <a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah" class="d-block h-100" style="text-decoration:none">
@@ -58,8 +56,7 @@ nav_order: 4
 {% bibliography %}
 </div>
 
-<hr>
-<h3 class="mt-4">notable co-authors</h3>
+<h2 class="section-heading">notable co-authors</h2>
 <ul class="list-inline coauthors">
   <li class="list-inline-item"><a href="https://shakirahabaziz.wixsite.com/dr-shakirahaziz/home">Norshakirah Aziz</a></li>
   <li class="list-inline-item"><a href="https://scholar.google.com/citations?user=voBMIPEAAAAJ">Noureen Talpur</a></li>
@@ -69,8 +66,7 @@ nav_order: 4
   <li class="list-inline-item"><a href="https://scholar.google.com/citations?user=aO2pjKQAAAAJ">Azizul Azhar Ramli</a></li>
 </ul>
 
-<hr>
-<h3 class="mt-4">let's connect</h3>
+<h2 class="section-heading">let's connect</h2>
 <ul class="list-inline coauthors">
   <li class="list-inline-item"><a href="https://orcid.org/0000-0002-1427-2571">ORCID</a></li>
   <li class="list-inline-item"><a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah">ResearchGate</a></li>

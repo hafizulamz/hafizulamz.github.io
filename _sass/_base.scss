@@ -701,11 +701,6 @@ footer.sticky-bottom {
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-align: right;
-
-    // first section right under the page title: no divider line
-    &.no-divider {
-      border-bottom: 0;
-    }
   }
 }
 
@@ -730,12 +725,13 @@ footer.sticky-bottom {
     }
   }
 
+  // year headings follow .section-heading: left-aligned, normal colour, rule above
   h2.bibliography {
-    color: var(--global-text-color-light);
+    color: var(--global-text-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
-    margin-top: 2rem;
-    text-align: right;
+    margin-top: 2.5rem;
+    font-size: 1.5rem;
   }
 
   ol.bibliography {
@@ -1477,6 +1473,13 @@ dt,
   border-top: 1px solid var(--global-divider-color);
   color: var(--global-text-color);
   font-size: 1.5rem;
+}
+
+// first section right under the page title: no rule
+.section-heading.first {
+  margin-top: 2rem;
+  padding-top: 0;
+  border-top: 0;
 }
 
 // ubuntu.com-style accordion row: title left, chevron right, divider above
