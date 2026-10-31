@@ -1,62 +1,51 @@
 ---
-layout: default
+layout: page
 title: contact
 permalink: /contact/
-description: virtual business card. scan the QR code to save my contact.
+description: book an appointment or save my contact details.
 nav: false
 ---
 
 <style>
   .vcard {
-    background-color: var(--global-card-bg-color);
-    border: 2px solid var(--global-theme-color);
-    border-radius: 16px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-    padding: 24px;
-    max-width: 550px;
-    margin: 1rem auto;
+    margin-top: 1rem;
     text-align: center;
   }
-  .vcard .name {
-    font-size: 1.8em;
-    font-weight: bold;
-    color: var(--global-theme-color);
-  }
-  .vcard .title,
-  .vcard .speciality,
-  .vcard .note {
-    color: var(--global-text-color-light);
-  }
-  .vcard .title {
-    font-size: 1.1em;
-    margin-bottom: 6px;
-  }
-  .vcard .speciality {
-    font-size: 0.95em;
-    margin-bottom: 16px;
-  }
-  .vcard .org {
-    margin-bottom: 18px;
-  }
-  .vcard .contact a {
+  /* framed QR card: theme-colour border, white panel, caption band */
+  .vcard .qr-card {
     display: block;
-    margin: 4px 0;
-    word-break: break-all;
+    width: min(320px, 100%);
+    margin: 0 auto 28px auto;
+    padding: 14px 14px 0 14px;
+    background-color: var(--global-theme-color);
+    border-radius: 6px;
   }
-  .vcard .qr-container {
-    margin: 20px 0 10px 0;
-  }
-  .vcard .qr-container img {
-    width: 160px;
-    height: 160px;
-    border: 2px solid var(--global-theme-color);
-    border-radius: 12px;
+  .vcard .qr-panel {
+    padding: 22px 22px 16px 22px;
     background-color: #fff;
-    padding: 8px;
+    border-radius: 14px;
   }
-  .vcard .note {
-    font-size: 0.9em;
-    margin-bottom: 20px;
+  .vcard .qr-panel img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+  }
+  .vcard .qr-name {
+    margin-top: 14px;
+    color: #000;
+    font-size: 1.05rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+  .vcard .qr-caption {
+    padding: 12px 0 14px 0;
+    color: #fff;
+    font-size: 1.1rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
   }
   .vcard .btn-appointment {
     background-color: var(--global-theme-color);
@@ -73,25 +62,15 @@ nav: false
 </style>
 
 <div class="vcard">
-  <div class="name">Dr. Hafizul Abdullah</div>
-  <div class="title">Assistant Professor / Researcher</div>
-  <div class="speciality">
-    Specialising in deep learning for biomedical imaging and natural language processing.
+  <div class="qr-card">
+    <div class="qr-panel">
+      <img src="{{ '/assets/img/contact-qr.svg' | relative_url }}" alt="vCard QR code for Dr. Hafizul Abdullah">
+      <div class="qr-name">Dr. Hafizul Abdullah</div>
+    </div>
+    <div class="qr-caption">Scan to save my contact</div>
   </div>
-  <div class="org">Universiti Tunku Abdul Rahman (UTAR)</div>
-
-  <div class="contact">
-    <a href="mailto:hafizulafifi@utar.edu.my">hafizulafifi@utar.edu.my</a>
-    <a href="https://hafizulabdullah.com/">https://hafizulabdullah.com</a>
-  </div>
-
-  <div class="qr-container">
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=BEGIN%3AVCARD%0AVERSION%3A3.0%0AN%3AAbdullah%3BHafizul%3B%3BDr.%3B%0AFN%3ADr.%20Hafizul%20Abdullah%0ATITLE%3AAssistant%20Professor%0AORG%3AUniversiti%20Tunku%20Abdul%20Rahman%20(UTAR)%0AEMAIL%3BTYPE%3Dwork%3Ahafizulafifi%40utar.edu.my%0AURL%3BTYPE%3Dwork%3Ahttps%3A%2F%2Fhafizulabdullah.com%2F%0ANOTE%3ASpecialising%20in%20deep%20learning%20for%20biomedical%20imaging%20and%20natural%20language%20processing.%0AEND%3AVCARD" alt="vCard QR code for Dr. Hafizul Abdullah">
-  </div>
-
-  <div class="note">Scan the QR to save contact.</div>
 
   <a class="btn-appointment" href="https://calendar.google.com/calendar/appointments/AcZssZ0ct9pezfkSREcf1EtOf3vrDOFKKMIcQITPDpQ=" target="_blank" rel="noopener noreferrer">
-    Schedule Appointment
+    Book Appointment
   </a>
 </div>
