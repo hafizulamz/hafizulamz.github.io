@@ -1,48 +1,20 @@
 ---
-layout: default
-title: UTAR CGPA Calculator
+layout: page
+title: UTAR CGPA calculator
 permalink: /utilities/utar-cgpa-calculator/
-description: Estimate your trimester GPA and cumulative CGPA using the UTAR grading scale.
+description: estimate your trimester GPA and cumulative CGPA using the UTAR grading scale.
 nav: false
 ---
 
 <style>
   .cgpa-card {
-    background-color: var(--global-card-bg-color);
-    border: 2px solid var(--global-theme-color);
-    border-radius: 16px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-    padding: 25px 25px 30px;
-    max-width: 460px;
-    margin: 1rem auto;
-    text-align: center;
-    position: relative;
-  }
-  .cgpa-card h2 {
-    font-size: 1.6em;
-    font-weight: bold;
-    color: var(--global-theme-color);
-    margin-bottom: 20px;
-    padding: 0 26px;
-  }
-  .cgpa-card #info-icon {
-    cursor: pointer;
-    position: absolute;
-    top: 22px;
-    right: 22px;
-    font-size: 20px;
-    color: var(--global-theme-color);
-    user-select: none;
-  }
-  .cgpa-card #info-icon:hover {
-    opacity: 0.75;
+    max-width: 560px;
+    margin-top: 1rem;
   }
   .cgpa-card label {
     display: block;
     margin-bottom: 6px;
-    text-align: left;
-    color: var(--global-text-color-light);
-    font-weight: bold;
+    color: var(--global-text-color);
   }
   .cgpa-card select,
   .cgpa-card input[type="number"] {
@@ -59,20 +31,16 @@ nav: false
     border: 2px solid #e03131 !important;
   }
   .cgpa-card .radio-group {
-    text-align: left;
     margin-bottom: 15px;
   }
   .cgpa-card .radio-group label {
     display: inline-block;
     margin-right: 15px;
-    font-weight: normal;
     color: var(--global-text-color);
     cursor: pointer;
   }
   .cgpa-card .radio-group label:first-child {
     display: block;
-    font-weight: bold;
-    color: var(--global-text-color-light);
   }
   .cgpa-card .prev-row {
     display: flex;
@@ -83,23 +51,25 @@ nav: false
     flex: 1;
   }
   .cgpa-card .instruction {
-    border-left: 4px solid var(--global-theme-color);
-    color: var(--global-text-color-light);
-    padding: 8px 12px;
-    border-radius: 6px;
-    font-size: 14px;
-    font-style: italic;
-    margin-bottom: 15px;
-    text-align: left;
+    margin-bottom: 0;
+  }
+  .cgpa-card .link-btn {
+    padding: 0;
+    border: 0;
+    background: none;
+    font: inherit;
+    color: var(--global-theme-color);
+    cursor: pointer;
+  }
+  .cgpa-card .link-btn:hover {
+    text-decoration: underline;
   }
   .cgpa-card .course-row {
     margin-top: 15px;
     border-top: 1px solid var(--global-divider-color);
     padding-top: 15px;
-    text-align: left;
   }
   .cgpa-card .subject-label {
-    font-weight: bold;
     margin-bottom: 6px;
   }
   .cgpa-card .course-inputs {
@@ -113,40 +83,38 @@ nav: false
   .cgpa-card .button-row {
     display: flex;
     gap: 10px;
-    margin-top: 15px;
+    margin-top: 20px;
     flex-wrap: wrap;
-    justify-content: center;
   }
   .cgpa-btn {
     cursor: pointer;
-    border: 0;
+    border: 1px solid var(--global-theme-color);
     border-radius: 6px;
-    font-size: 14px;
-    font-weight: bold;
-    padding: 10px 15px;
-    color: #fff;
+    font-size: 1rem;
+    padding: 10px 16px;
+    background-color: transparent;
+    color: var(--global-theme-color);
   }
   .cgpa-btn:hover {
     opacity: 0.85;
   }
   .cgpa-btn.add {
-    background-color: var(--global-theme-color);
-    flex: 1 1 140px;
+    flex: 1 1 160px;
   }
   .cgpa-btn.reset {
-    background-color: #6c757d;
-    flex: 1 1 100px;
+    flex: 0 1 auto;
+    border-color: var(--global-divider-color);
+    color: var(--global-text-color-light);
   }
   .cgpa-btn.calculate {
+    flex: 1 1 100%;
     background-color: var(--global-theme-color);
-    flex: 2 1 160px;
-    filter: brightness(0.8);
+    color: #fff;
   }
   .cgpa-card .result {
-    margin-top: 22px;
-    font-size: 18px;
-    font-weight: bold;
-    padding: 10px;
+    margin-top: 20px;
+    font-size: 1.1rem;
+    padding: 12px 16px;
     border-radius: 6px;
     min-height: 28px;
   }
@@ -160,7 +128,7 @@ nav: false
   }
   .cgpa-card .result.success {
     color: var(--global-text-color);
-    border: 1px solid var(--global-theme-color);
+    background-color: color-mix(in srgb, var(--global-theme-color) 12%, transparent);
   }
   .cgpa-card .result.success strong {
     color: var(--global-theme-color);
@@ -173,10 +141,12 @@ nav: false
     color: #fff;
     font-size: 14px;
   }
-  .cgpa-card .report-issues {
-    display: inline-block;
+  .cgpa-card .footer-links {
     margin-top: 18px;
-    font-size: 14px;
+  }
+  .cgpa-card .footer-links .sep {
+    color: var(--global-text-color-light);
+    margin: 0 0.5rem;
   }
   #modal-bg {
     position: fixed;
@@ -228,8 +198,6 @@ nav: false
 </style>
 
 <div class="cgpa-card">
-  <h2>UTAR CGPA Calculator</h2>
-  <span id="info-icon" title="Grade conversion table" role="button" aria-label="Show grade conversion table">&#9432;</span>
   <div class="radio-group">
     <label>Is this your first trimester?</label>
     <label><input type="radio" name="firstSem" value="yes" checked /> Yes</label>
@@ -248,7 +216,7 @@ nav: false
     </div>
   </div>
   <div id="course-container">
-    <p class="instruction">Enter your target grade for each course this trimester:</p>
+    <p class="instruction">Enter your target grade for each course this trimester.</p>
     <div class="course-row">
       <div class="subject-label">Course 1</div>
       <div class="course-inputs">
@@ -280,7 +248,11 @@ nav: false
     <button class="cgpa-btn calculate" onclick="calculateCGPA()">Calculate CGPA</button>
   </div>
   <div id="result" class="result" aria-live="polite"></div>
-  <a href="#" id="report-issues" class="report-issues">Report an issue</a>
+  <div class="footer-links">
+    <button type="button" id="info-icon" class="link-btn">See the UTAR grade table</button>
+    <span class="sep" aria-hidden="true">&middot;</span>
+    <a href="#" id="report-issues">Report an issue</a>
+  </div>
 </div>
 
 <!-- Modal for grade conversion -->
@@ -306,7 +278,7 @@ nav: false
       </tbody>
     </table>
     <p>This CGPA calculator is for guidance only. For assistance, book an appointment:</p>
-    <a class="cgpa-btn add" href="/contact/" style="display:inline-block; text-decoration:none;">Schedule Appointment</a>
+    <a class="cgpa-btn add" href="/contact/" style="display:inline-block; text-decoration:none;">Book Appointment</a>
   </div>
 </div>
 
