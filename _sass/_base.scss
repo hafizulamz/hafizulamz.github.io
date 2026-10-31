@@ -1451,3 +1451,20 @@ dt,
     margin: 0 0.5rem;
   }
 }
+
+// small uppercase label above an intro paragraph, like ubuntu.com's muted heading
+.muted-heading {
+  margin-bottom: 0.5rem;
+  color: var(--global-text-color-light);
+  font-size: 0.875rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.philosophy {
+  margin-top: 2rem;
+
+  .lead {
+    line-height: 1.5;
+  }
+}

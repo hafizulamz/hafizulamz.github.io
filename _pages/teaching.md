@@ -15,7 +15,10 @@ horizontal: false
   </div>
 </div>
 
-_**My Teaching philosophy:**_ I am a passionate educator who fosters active student participation throughout the teaching and learning process by applying `Outcome Based Education`. Experienced in teaching small and large groups while cultivating `Active Learning` to create an engaging and supportive learning environment.
+<div class="philosophy">
+  <p class="muted-heading">Teaching philosophy</p>
+  <p class="lead">I am a passionate educator who fosters active student participation throughout the teaching and learning process by applying Outcome Based Education. Experienced in teaching small and large groups while cultivating Active Learning to create an engaging and supportive learning environment.</p>
+</div>
 
 <div class="projects">
   <h2 class="category">overall teaching metrics</h2>
