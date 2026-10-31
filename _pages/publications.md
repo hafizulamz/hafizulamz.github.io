@@ -60,16 +60,14 @@ nav_order: 4
 
 <hr>
 <h3 class="mt-4">notable co-authors</h3>
-<div class="col">
-    <ul>
-      <li><a href="https://shakirahabaziz.wixsite.com/dr-shakirahaziz/home">Norshakirah Aziz</a></li>
-      <li><a href="https://scholar.google.com/citations?user=voBMIPEAAAAJ">Noureen Talpur</a></li>
-      <li><a href="https://scholar.google.com/citations?user=gbaRYo8AAAAJ">Muhaini Othman</a></li>
-      <li><a href="https://scholar.google.com/citations?user=csGxD68AAAAJ">Shahreen Kasim</a></li>
-      <li><a href="https://scholar.google.com/citations?user=BZLvvRoAAAAJ">Hairulnizam Mahdin</a></li>
-      <li><a href="https://scholar.google.com/citations?user=aO2pjKQAAAAJ">Azizul Azhar Ramli</a></li>
-    </ul>
-</div>
+<ul class="list-inline coauthors">
+  <li class="list-inline-item"><a href="https://shakirahabaziz.wixsite.com/dr-shakirahaziz/home">Norshakirah Aziz</a></li>
+  <li class="list-inline-item"><a href="https://scholar.google.com/citations?user=voBMIPEAAAAJ">Noureen Talpur</a></li>
+  <li class="list-inline-item"><a href="https://scholar.google.com/citations?user=gbaRYo8AAAAJ">Muhaini Othman</a></li>
+  <li class="list-inline-item"><a href="https://scholar.google.com/citations?user=csGxD68AAAAJ">Shahreen Kasim</a></li>
+  <li class="list-inline-item"><a href="https://scholar.google.com/citations?user=BZLvvRoAAAAJ">Hairulnizam Mahdin</a></li>
+  <li class="list-inline-item"><a href="https://scholar.google.com/citations?user=aO2pjKQAAAAJ">Azizul Azhar Ramli</a></li>
+</ul>
 
 <hr>
 <h3 class="mt-4">let's connect</h3>

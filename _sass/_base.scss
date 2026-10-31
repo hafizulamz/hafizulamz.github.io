@@ -1414,3 +1414,16 @@ dt,
     color: var(--global-text-color);
   }
 }
+
+// notable co-authors on the publications page: names flow on one line, separated by dots
+.coauthors {
+  .list-inline-item {
+    margin-right: 0;
+  }
+
+  .list-inline-item:not(:last-child)::after {
+    content: "\00B7";
+    color: var(--global-text-color-light);
+    margin: 0 0.5rem;
+  }
+}
