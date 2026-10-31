@@ -8,7 +8,7 @@
   --global-theme-fill-color: #{darken($cyan-color, 10%)};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
-  --global-text-color-light: #{$grey-color};
+  --global-text-color-light: #6f6f6f; // #828282 was 3.8:1 on white; this passes AA at small sizes
   --global-theme-color: #{darken($cyan-color, 10%)};
   --global-hover-color: #{darken($cyan-color, 10%)};
   --global-hover-text-color: #{$white-color};
