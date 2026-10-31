@@ -39,6 +39,12 @@ nav: false
     color: var(--global-text-color);
     cursor: pointer;
   }
+  .cgpa-card .radio-group label:first-child,
+  .cgpa-card .instruction,
+  .cgpa-card .subject-label {
+    font-size: 1.125rem;
+    font-weight: 400;
+  }
   .cgpa-card .radio-group label:first-child {
     display: block;
   }
