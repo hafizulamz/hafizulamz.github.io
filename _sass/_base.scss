@@ -1658,6 +1658,18 @@ dt,
   }
 }
 
+// last row: the footer sets the gap below, open or closed
+.accordion-toggle:nth-last-child(2)[aria-expanded="false"] {
+  padding-bottom: 0;
+}
+
+.accordion-toggle + .collapse:last-child,
+.accordion-toggle + .collapsing:last-child {
+  :last-child {
+    margin-bottom: 0;
+  }
+}
+
 .accordion-icon {
   flex-shrink: 0;
   color: var(--global-theme-color);
