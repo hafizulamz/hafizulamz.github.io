@@ -70,63 +70,55 @@ horizontal: false
       <!-- Ratings for UTAR -->
       <p class="uni-rating">teaching performance rating <strong>4.62 / 5</strong> from 81 responses</p>
 
-      <div class="row mt-3 row-cols-1 row-cols-md-3">
+      <div class="row mt-3 row-cols-1 row-cols-md-3 course-cards">
         <div class="col">
-          <a href="#">
-            <div class="card h-100 hoverable">
+          <div class="h-100">
+            <div class="card h-100">
               {% include figure.liquid path="assets/img/teaching/distcomp.jpg" class="card-img-top" alt="Distributed Computer Systems" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
+                <p class="muted-heading">Lecture & Tutorial</p>
                 <h2 class="card-title">Distributed Computer Systems</h2>
-                <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Lecture & Tutorial</span>
-                </div>
                 <p class="card-text">
                   <ul>
-                    <li>Topic 1: Introduction to Distributed Systems</li>
-                    <li>Topic 2: Communication in Distributed Systems</li>
-                    <li>Topic 3: Name Services</li>
-                    <li>Topic 4: Distributed Algorithm</li>
-                    <li>Topic 5: Distributed Architecture and Concerns</li>
-                    <li>Topic 6: Grid and Cloud Computing</li>
+                    <li>Introduction to Distributed Systems</li>
+                    <li>Communication in Distributed Systems</li>
+                    <li>Name Services</li>
+                    <li>Distributed Algorithm</li>
+                    <li>Distributed Architecture and Concerns</li>
+                    <li>Grid and Cloud Computing</li>
                   </ul>
                 </p>
-                <div class="row ml-1 mr-1 p-0"> </div>
               </div>
             </div>
-          </a>
+          </div>
         </div>
         <div class="col">
-          <a href="#">
-            <div class="card h-100 hoverable">
+          <div class="h-100">
+            <div class="card h-100">
               {% include figure.liquid path="assets/img/teaching/cloudcomp.jpg" class="card-img-top" alt="Cloud Computing and Services" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
+                <p class="muted-heading">Lecture & Tutorial</p>
                 <h2 class="card-title">Cloud Computing and Services</h2>
-                <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Lecture & Tutorial</span>
-                </div>
                 <p class="card-text">
                   <ul>
-                    <li>Topic 1: Cloud Concepts Overview</li>
-                    <li>Topic 2: Cloud Global Infrastructure</li>
-                    <li>Topic 3: Cloud Foundation Services</li>
-                    <li>Topic 4: Cloud Security and Architecting</li>
-                    <li>Topic 5: Cloud Economics and Support</li>
+                    <li>Cloud Concepts Overview</li>
+                    <li>Cloud Global Infrastructure</li>
+                    <li>Cloud Foundation Services</li>
+                    <li>Cloud Security and Architecting</li>
+                    <li>Cloud Economics and Support</li>
                   </ul>
                 </p>
-                <div class="row ml-1 mr-1 p-0"> </div>
               </div>
             </div>
-          </a>
+          </div>
         </div>
         <div class="col">
-          <a href="#">
-            <div class="card h-100 hoverable">
+          <div class="h-100">
+            <div class="card h-100">
               {% include figure.liquid path="assets/img/teaching/appsdev.jpg" class="card-img-top" alt="Mobile Applications Development" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
+                <p class="muted-heading">Practical Lab</p>
                 <h2 class="card-title">Mobile Applications Development</h2>
-                <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Practical Lab</span>
-                </div>
                 <p class="card-text">
                   <ul>
                     <li>Introduction to Android Studio</li>
@@ -138,20 +130,17 @@ horizontal: false
                     <li>Publishing Android Application</li>
                   </ul>
                 </p>
-                <div class="row ml-1 mr-1 p-0"> </div>
               </div>
             </div>
-          </a>
+          </div>
         </div>
         <div class="col">
-          <a href="#">
-            <div class="card h-100 hoverable">
+          <div class="h-100">
+            <div class="card h-100">
               {% include figure.liquid path="assets/img/teaching/datastruct.jpg" class="card-img-top" alt="Data Structure and Algorithmic Problem Solving" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
+                <p class="muted-heading">Tutorial</p>
                 <h2 class="card-title">Data Structure and Algorithmic Problem Solving</h2>
-                <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
-                </div>
                 <p class="card-text">
                   <ul>
                     <li>Pointers Use with Arrays and Structure</li>
@@ -163,10 +152,9 @@ horizontal: false
                     <li>Sorting and Searching</li>
                   </ul>
                 </p>
-                <div class="row ml-1 mr-1 p-0"> </div>
               </div>
             </div>
-          </a>
+          </div>
         </div>
       </div>
     </div>
@@ -182,16 +170,14 @@ horizontal: false
       <!-- Ratings for UTP -->
       <p class="uni-rating">teaching performance rating <strong>4.94 / 5</strong> from 97 responses &middot; student support rating <strong>4.95 / 5</strong> from 97 responses</p>
 
-      <div class="row row-cols-1 row-cols-md-3">
+      <div class="row row-cols-1 row-cols-md-3 course-cards">
         <div class="col">
-          <a href="#">
-            <div class="card h-100 hoverable">
+          <div class="h-100">
+            <div class="card h-100">
               {% include figure.liquid path="assets/img/teaching/businessintelligence.jpg" class="card-img-top" alt="Business Intelligence" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
+                <p class="muted-heading">Practical Lab</p>
                 <h2 class="card-title">Business Intelligence</h2>
-                <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Practical Lab</span>
-                </div>
                 <p class="card-text">
                   <ul>
                     <li>Data analysis, cleansing, and preparation</li>
@@ -202,20 +188,17 @@ horizontal: false
                     <li>Datasets: <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_8bf7af4f1f784dc586b7fbeebfd30012.xlsx?dn=2015%20Sales.xlsx">Sales</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_287d6522d075446e8f75b9513da30440.xlsx?dn=HR%20Data-26112019-Cleansed.xlsx">HR Data</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_399460a4bb4d4faa840ab8ae7ab1e175.xlsx?dn=Superstore%20(Raw%20data).xlsx">Superstore</a>, <a href="https://2a10589f-c553-479d-8abf-7980cc48fb12.filesusr.com/ugd/e8f2f2_3d66dba3f35f445887873d3e4ac9c169.xlsx?dn=Voting%20figures.xlsx">Votes</a></li>
                   </ul>
                 </p>
-                <div class="row ml-1 mr-1 p-0"> </div>
               </div>
             </div>
-          </a>
+          </div>
         </div>
         <div class="col">
-          <a href="#">
-            <div class="card h-100 hoverable">
+          <div class="h-100">
+            <div class="card h-100">
               {% include figure.liquid path="assets/img/teaching/bigdataanalytics.jpg" class="card-img-top" alt="Big Data Analytics" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
+                <p class="muted-heading">Practical Lab</p>
                 <h2 class="card-title">Big Data Analytics</h2>
-                <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Practical Lab</span>
-                </div>
                 <p class="card-text">
                   <ul>
                     <li>Environment setup</li>
@@ -230,20 +213,17 @@ horizontal: false
                     <li><a href="https://www.pythoncheatsheet.org/">Python cheat sheet</a></li>
                   </ul>
                 </p>
-                <div class="row ml-1 mr-1 p-0"> </div>
               </div>
             </div>
-          </a>
+          </div>
         </div>
         <div class="col">
-          <a href="#">
-            <div class="card h-100 hoverable">
+          <div class="h-100">
+            <div class="card h-100">
               {% include figure.liquid path="assets/img/teaching/itpmispm.jpg" class="card-img-top" alt="IT/IS Project Management" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
+                <p class="muted-heading">Tutorial</p>
                 <h2 class="card-title">IT/IS Project Management</h2>
-                <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
-                </div>
                 <p class="card-text">
                   <ul>
                     <li><a href="https://youtu.be/9xwR4JCBaIU">Create Work Breakdown Structure (WBS) and Gantt chart using ProjectLibre</a></li>
@@ -253,20 +233,17 @@ horizontal: false
                     <li>Project management tool: SWOT analysis</li>
                   </ul>
                 </p>
-                <div class="row ml-1 mr-1 p-0"> </div>
               </div>
             </div>
-          </a>
+          </div>
         </div>
         <div class="col">
-          <a href="#">
-            <div class="card h-100 hoverable">
+          <div class="h-100">
+            <div class="card h-100">
               {% include figure.liquid path="assets/img/teaching/itinfra.jpg" class="card-img-top" alt="IT Infrastructure" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
+                <p class="muted-heading">Tutorial</p>
                 <h2 class="card-title">IT Infrastructure</h2>
-                <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
-                </div>
                 <p class="card-text">
                   <ul>
                     <li>Fundamental: Datacenter trends, components, and security</li>
@@ -278,20 +255,17 @@ horizontal: false
                     <li>IT infra security</li>
                   </ul>
                 </p>
-                <div class="row ml-1 mr-1 p-0"> </div>
               </div>
             </div>
-          </a>
+          </div>
         </div>
         <div class="col">
-          <a href="#">
-            <div class="card h-100 hoverable">
+          <div class="h-100">
+            <div class="card h-100">
               {% include figure.liquid path="assets/img/teaching/erp.jpg" class="card-img-top" alt="Enterprise Resource Planning" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
+                <p class="muted-heading">Tutorial</p>
                 <h2 class="card-title">Enterprise Resource Planning</h2>
-                <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
-                </div>
                 <p class="card-text">
                   <ul>
                     <li>Business process and business functions</li>
@@ -304,26 +278,22 @@ horizontal: false
                     <li>Human Resource (HR) and Process Modeling </li>
                   </ul>
                 </p>
-                <div class="row ml-1 mr-1 p-0"> </div>
               </div>
             </div>
-          </a>
+          </div>
         </div>
         <div class="col">
-          <a href="#">
-            <div class="card h-100 hoverable">
+          <div class="h-100">
+            <div class="card h-100">
               {% include figure.liquid path="assets/img/teaching/informationsecurity.jpg" class="card-img-top" alt="Information Security Management" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
+                <p class="muted-heading">Tutorial</p>
                 <h2 class="card-title">Information Security Management</h2>
-                <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">Tutorial</span>
-                </div>
                 <p class="card-text">
                 </p>
-                <div class="row ml-1 mr-1 p-0"> </div>
               </div>
             </div>
-          </a>
+          </div>
         </div>
       </div>
     </div>
@@ -336,25 +306,22 @@ horizontal: false
 
     <!-- Collapsible Content for UTHM -->
     <div class="collapse" id="collapseUTHM">
-      <div class="row row-cols-1 row-cols-md-3">
+      <div class="row row-cols-1 row-cols-md-3 course-cards">
         <div class="col">
-          <a href="#">
-            <div class="card h-100 hoverable">
+          <div class="h-100">
+            <div class="card h-100">
               {% include figure.liquid path="assets/img/teaching/supervision.jpg" class="card-img-top" alt="Final Year Project I & II" loading="lazy" sizes="(min-width: 930px) 290px, (min-width: 768px) 30vw, 95vw" %}
               <div class="card-body">
+                <p class="muted-heading">UG Supervision</p>
                 <h2 class="card-title">Final Year Project I & II</h2>
-                <div class="col-sm-2 text-left text-sm-right">
-                  <span class="badge font-weight-bold badge-theme text-uppercase align-middle">UG Supervision</span>
-                </div>
                 <p class="card-text">
                   <ul>
                     <li>Supervised UG students for FYP I and FYP II courses (2017, 2018, 2019)</li>
                   </ul>
                 </p>
-                <div class="row ml-1 mr-1 p-0"> </div>
               </div>
             </div>
-          </a>
+          </div>
         </div>
       </div>
     </div>
