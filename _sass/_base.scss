@@ -501,10 +501,6 @@ footer.sticky-bottom {
 
 // CV
 
-.cv {
-  margin-bottom: 40px;
-}
-
 // CV header links: download and related pages, dot-separated like the publication links
 .cv-links {
   margin-top: 0.75rem;
@@ -537,6 +533,11 @@ footer.sticky-bottom {
 
   &:first-child {
     padding-top: 0.25rem;
+  }
+
+  // the section heading or footer below sets the gap
+  &:last-child {
+    padding-bottom: 0;
   }
 
   @media (max-width: 575.98px) {
