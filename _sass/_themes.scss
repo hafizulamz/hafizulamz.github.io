@@ -37,14 +37,11 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-  #light-toggle-system {
+  // theme switch shows where a click takes you: a moon on light pages
+  #light-toggle-dark {
     padding-left: 10px;
     padding-top: 12px;
     display: block;
-  }
-
-  #light-toggle-dark {
-    display: none;
   }
 
   #light-toggle-light {
@@ -111,39 +108,20 @@ html[data-theme="dark"] {
   }
 }
 
-html[data-theme-setting="dark"] {
-  #light-toggle-system {
-    display: none;
-  }
-
+html[data-theme="dark"] {
+  // and a sun on dark pages
   #light-toggle-dark {
-    padding-left: 10px;
-    padding-top: 12px;
-    display: block;
+    display: none;
   }
 
   #light-toggle-light {
-    display: none;
+    padding-left: 10px;
+    padding-top: 12px;
+    display: block;
   }
 
   #back-to-top {
     color: var(--global-back-to-top-text-color);
     background: var(--global-back-to-top-bg-color);
-  }
-}
-
-html[data-theme-setting="light"] {
-  #light-toggle-system {
-    display: none;
-  }
-
-  #light-toggle-dark {
-    display: none;
-  }
-
-  #light-toggle-light {
-    padding-left: 10px;
-    padding-top: 12px;
-    display: block;
   }
 }

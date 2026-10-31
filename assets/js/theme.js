@@ -1,15 +1,11 @@
 // Has to be in the head tag, otherwise a flicker effect will occur.
 
-// Toggle through light, dark, and system theme settings.
+// Flip between light and dark. A choice that matches the system preference is stored as
+// "system", so the site keeps following the device until the visitor picks the other theme.
 let toggleThemeSetting = () => {
-  let themeSetting = determineThemeSetting();
-  if (themeSetting == "system") {
-    setThemeSetting("light");
-  } else if (themeSetting == "light") {
-    setThemeSetting("dark");
-  } else {
-    setThemeSetting("system");
-  }
+  let next = determineComputedTheme() == "dark" ? "light" : "dark";
+  let systemTheme = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  setThemeSetting(next == systemTheme ? "system" : next);
 };
 
 // Change the theme setting and apply the theme.
