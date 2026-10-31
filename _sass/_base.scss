@@ -739,10 +739,17 @@ footer.sticky-bottom {
     padding: 0;
     margin-top: 0;
 
+    // ubuntu.com-style divided list: thin rule between entries
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 0;
+      padding: 1rem 0;
 
-      .preview {
+      & + li {
+        border-top: 1px solid var(--global-divider-color);
+      }
+
+      .pub-type {
+        margin-bottom: 0.25rem;
       }
 
       .abbr {
@@ -769,7 +776,20 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        font-size: 1.1rem;
+        font-weight: 400;
+
+        a {
+          color: var(--global-text-color);
+
+          &:hover {
+            color: var(--global-theme-color);
+          }
+        }
+      }
+
+      .periodical {
+        color: var(--global-text-color-light);
       }
 
       .author {
@@ -799,19 +819,30 @@ footer.sticky-bottom {
         }
       }
 
+      // small text links separated by dots instead of boxed buttons
       .links {
+        margin-top: 0.25rem;
+
         a.btn {
-          color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
-          margin-left: 0;
+          margin: 0;
+          padding: 0;
+          border: 0;
+          box-shadow: none;
+          color: var(--global-theme-color);
+          font-size: 0.875rem;
+          letter-spacing: normal;
+          text-transform: none;
 
           &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
+            text-decoration: underline;
+          }
+
+          & + a.btn::before {
+            content: "\00B7";
+            display: inline-block;
+            // the space between the links already adds a gap on the left
+            margin: 0 0.5rem 0 0.25rem;
+            color: var(--global-text-color-light);
           }
         }
         a.award.btn {
