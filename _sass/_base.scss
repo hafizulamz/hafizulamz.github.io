@@ -1374,3 +1374,26 @@ textarea,
     }
   }
 }
+
+// Ubuntu.com-style emphasis: medium (500) instead of heavy bold, so text stays calm and professional.
+// Bootstrap's .font-weight-bold uses !important, so this has to as well.
+b,
+strong,
+th,
+dt,
+.badge,
+.font-weight-bold,
+.font-weight-bolder {
+  font-weight: 500 !important;
+}
+
+// inline highlights (`like this` in markdown) read as emphasised words, not code chips;
+// real code blocks (inside <pre>) keep the monospace style
+:not(pre) > code {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 500;
+  color: inherit;
+  background-color: transparent;
+  padding: 0;
+}

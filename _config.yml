@@ -495,7 +495,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap"
+      fonts: "https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap"
   highlightjs:
     integrity:
       css:
