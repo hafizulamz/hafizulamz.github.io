@@ -1,0 +1,38 @@
+{% comment %}
+  One CV row: dates and place on the left, what and where on the right.
+  Takes start/end (YYYY-MM-DD) or a plain date, plus title, url, org, summary, items and location.
+{% endcomment %}
+{% assign when = include.date %}
+{% if include.start and include.start != '' %}
+  {% assign until = 'present' %}
+  {% if include.end and include.end != '' %}
+    {% assign until = include.end | date: '%b %Y' %}
+  {% endif %}
+  {% assign when = include.start | date: '%b %Y' | append: ' – ' | append: until %}
+{% endif %}
+<li class="cv-entry">
+  <div class="cv-when">
+    {{ when }}
+    {% if include.location and include.location != '' %}
+      <span class="cv-where">{{ include.location }}</span>
+    {% endif %}
+  </div>
+  <div class="cv-what">
+    <h3 class="cv-title" data-toc-skip>
+      {% if include.url and include.url != '' %}
+        <a href="{{ include.url }}">{{ include.title }}</a>
+      {% else %}
+        {{ include.title }}
+      {% endif %}
+    </h3>
+    {% if include.org and include.org != '' %}
+      <p class="cv-org">{{ include.org }}</p>
+    {% endif %}
+    {% if include.summary and include.summary != '' %}
+      <p class="cv-summary">{{ include.summary }}</p>
+    {% endif %}
+    {% if include.items and include.items.size > 0 %}
+      <p class="cv-items">{{ include.items | join: ' · ' }}</p>
+    {% endif %}
+  </div>
+</li>
