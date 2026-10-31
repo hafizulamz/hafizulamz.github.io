@@ -50,7 +50,9 @@ nav_order: 4
 <br><br>
 
 <!-- Bibsearch Feature -->
+<div class="bibsearch-form">
 {% include bib_search.liquid %}
+</div>
 
 <div class="publications">
 {% bibliography %}
