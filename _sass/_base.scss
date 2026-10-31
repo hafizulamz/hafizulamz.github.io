@@ -736,10 +736,10 @@ footer.sticky-bottom {
 
     &.active .page-link {
       color: $white-color;
-      background-color: var(--global-theme-color);
+      background-color: var(--global-theme-fill-color);
 
       &:hover {
-        background-color: var(--global-theme-color);
+        background-color: var(--global-theme-fill-color);
       }
     }
   }
@@ -1363,6 +1363,7 @@ ninja-keys::part(ninja-input-wrapper) {
 .bibsearch-form-input {
   max-width: none;
   margin-right: 0;
+  border-color: var(--global-text-color-light);
 }
 
 .newsletter-form-input:focus {

@@ -114,7 +114,7 @@ nav: false
   }
   .cgpa-btn.calculate {
     flex: 1 1 100%;
-    background-color: var(--global-theme-color);
+    background-color: var(--global-theme-fill-color);
     color: #fff;
   }
   .cgpa-card .result {

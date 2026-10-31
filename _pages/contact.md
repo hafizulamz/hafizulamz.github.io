@@ -17,7 +17,7 @@ nav: false
     width: min(320px, 100%);
     margin: 0 auto 28px auto;
     padding: 14px 14px 0 14px;
-    background-color: var(--global-theme-color);
+    background-color: var(--global-theme-fill-color);
     border-radius: 6px;
   }
   .vcard .qr-panel {
@@ -48,7 +48,7 @@ nav: false
     text-transform: uppercase;
   }
   .vcard .btn-appointment {
-    background-color: var(--global-theme-color);
+    background-color: var(--global-theme-fill-color);
     color: #fff;
     padding: 12px 24px;
     border-radius: 8px;
