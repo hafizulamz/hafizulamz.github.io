@@ -11,7 +11,7 @@ nav_order: 4
   <h2 class="category">metrics</h2>
 </div>
 <div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-6 col-sm mt-3 mt-md-0">
     <a href="https://www.researchgate.net/profile/Mohd-Hafizul-Afifi-Abdullah" style="text-decoration:none">
       <div class="card hoverable"><div class="card-body">
         <h2 class="card-title text-lowercase">16,300+</h2>
@@ -19,7 +19,7 @@ nav_order: 4
       </div></div>
     </a>
   </div>
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-6 col-sm mt-3 mt-md-0">
     <a hrefxx="" style="text-decoration:none">
       <div class="card hoverable"><div class="card-body">
         <h2 class="card-title text-lowercase">199</h2>
@@ -27,7 +27,7 @@ nav_order: 4
       </div></div>
     </a>
   </div>
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-6 col-sm mt-3 mt-md-0">
     <a hrefxx="" style="text-decoration:none">
       <div class="card hoverable"><div class="card-body">
         <h2 class="card-title text-lowercase">7</h2>
@@ -35,7 +35,7 @@ nav_order: 4
       </div></div>
     </a>
   </div>
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-6 col-sm mt-3 mt-md-0">
     <a href="https://scholar.google.com/citations?user=mWsihrgAAAAJ&hl=en" style="text-decoration:none">
       <div class="card hoverable"><div class="card-body">
         <h2 class="card-title text-lowercase">5</h2>
