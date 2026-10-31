@@ -25,8 +25,8 @@
   "work": [
     {
       "position": "Assistant Professor",
-      "name": "Universiti Tunku Abdul Rahman (UTAR), Department of Computer Science, Faculty of Information and Communication Technology",
-      "location": "Kampar, Perak, Malaysia",
+      "name": "Universiti Tunku Abdul Rahman (UTAR)",
+      "location": "Perak, Malaysia",
       "url": "https://www2.utar.edu.my/staffListDetailV2.jsp?searchId=25008",
       "startDate": "2025-02-03",
       "endDate": "",
@@ -34,7 +34,7 @@
     },
     {
       "position": "Research Assistant / Teaching Assistant",
-      "name": "Universiti Teknologi PETRONAS (UTP), Computer and Information Sciences Department",
+      "name": "Universiti Teknologi PETRONAS (UTP)",
       "location": "Perak, Malaysia",
       "url": "https://www.utp.edu.my/",
       "startDate": "2021-01-01",
@@ -51,7 +51,7 @@
     },
     {
       "position": "Research Officer / Special Services",
-      "name": "Universiti Teknologi PETRONAS (UTP), Centre for Research in Data Science (CeRDaS)",
+      "name": "CeRDaS, Universiti Teknologi PETRONAS (UTP)",
       "location": "Perak, Malaysia",
       "startDate": "2020-03-01",
       "endDate": "2021-01-15",
@@ -59,7 +59,7 @@
     },
     {
       "position": "Graduate Research Assistant",
-      "name": "Universiti Tun Hussein Onn Malaysia (UTHM), Faculty of Computer Science and Information Technology",
+      "name": "Universiti Tun Hussein Onn Malaysia (UTHM)",
       "location": "Johor, Malaysia",
       "startDate": "2017-03-01",
       "endDate": "2019-01-31",
@@ -68,7 +68,7 @@
     {
       "position": "Founder and Freelance Developer",
       "name": "Hafizhaffaz Technology",
-      "location": "Batu Pahat, Johor, Malaysia",
+      "location": "Johor, Malaysia",
       "startDate": "2017-02-01",
       "endDate": "2022-01-31",
       "summary": "Ran a small team building websites and web applications for clients, including the award-winning Performa.my."
@@ -76,7 +76,7 @@
     {
       "position": "System Analyst Programmer",
       "name": "Gates IT Solution Sdn Bhd",
-      "location": "Serdang, Selangor, Malaysia",
+      "location": "Selangor, Malaysia",
       "startDate": "2016-08-01",
       "endDate": "2017-02-28",
       "summary": "Revamped and upgraded client systems, including the KUIPSAS e-Campus and the SSM EzBiz system."
@@ -91,7 +91,7 @@
       "url": "https://www.utp.edu.my/",
       "startDate": "2021",
       "endDate": "2025",
-      "courses": ["Thesis: An Enhanced Embedding Strategy for Biomedical Event Extraction Using Deep Learning and Pretrained Language Model"]
+      "courses": []
     },
     {
       "studyType": "Master of Information Technology (by Research)",
@@ -101,9 +101,7 @@
       "url": "https://www.uthm.edu.my/",
       "startDate": "2017",
       "endDate": "2021",
-      "courses": [
-        "Thesis: Improved Personalised Data Modelling using Parameter Independent Fuzzy Weighted k-Nearest Neighbour for Spatio/Spectro-Temporal Data"
-      ]
+      "courses": []
     },
     {
       "studyType": "Bachelor of Computer Science (Web Technology) with Honours",
@@ -113,8 +111,7 @@
       "url": "https://www.uthm.edu.my/",
       "startDate": "2013",
       "endDate": "2017",
-      "courses": ["Thesis: Research on Improving Dominant Yeast Genes for Gene Function Prediction"],
-      "score": "First Class Honours (CGPA 3.74)"
+      "courses": []
     }
   ],
   "research_funding": [
@@ -135,26 +132,6 @@
       "org": "Member · Fundamental Research Grant Scheme (FRGS 1612)",
       "startDate": "2016-08-01",
       "endDate": "2019-01-31"
-    }
-  ],
-  "publications": [
-    {
-      "note": "metrics"
-    }
-  ],
-  "teaching": [
-    {
-      "note": "link"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Research",
-      "keywords": [
-        "Deep learning and machine learning for biomedical applications",
-        "Natural language processing and information extraction",
-        "Applied machine learning"
-      ]
     }
   ]
 }

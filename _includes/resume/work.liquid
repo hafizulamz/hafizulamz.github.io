@@ -1,4 +1,4 @@
-<ul class="cv-list">
+<ul class="cv-list cv-work">
   {% assign work = section | sort: 'startDate' | reverse %}
   {% for e in work %}
     {% include resume/entry.liquid start=e.startDate end=e.endDate location=e.location title=e.position url=e.url org=e.name summary=e.summary items=e.highlights %}

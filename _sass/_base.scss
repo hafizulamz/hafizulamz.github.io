@@ -505,6 +505,19 @@ footer.sticky-bottom {
   margin-bottom: 40px;
 }
 
+// CV header links: download and related pages, dot-separated like the publication links
+.cv-links {
+  margin-top: 0.75rem;
+  font-size: 0.95rem;
+
+  a + a::before {
+    content: "\00B7";
+    display: inline-block;
+    margin: 0 0.5rem 0 0.25rem;
+    color: var(--global-text-color-light);
+  }
+}
+
 // ubuntu.com-style CV rows: grey dates on the left, plain text on the right, lines between rows
 .cv-list {
   margin: 0;
@@ -541,6 +554,22 @@ footer.sticky-bottom {
 .cv-where {
   display: block;
   color: var(--global-text-color-light);
+}
+
+// phones: keep the CV scannable; date and place share a line, job summaries stay on desktop
+@media (max-width: 575.98px) {
+  .cv-where {
+    display: inline;
+
+    &::before {
+      content: "\00B7";
+      margin: 0 0.375rem 0 0.125rem; // plus the space already in the markup
+    }
+  }
+
+  .cv-work .cv-summary {
+    display: none;
+  }
 }
 
 .cv-what {

@@ -5,11 +5,6 @@
     {% if e.area and e.area != '' %}
       {% assign degree = degree | append: ' in ' | append: e.area %}
     {% endif %}
-    {% assign school = e.institution %}
-    {% if e.score and e.score != '' %}
-      {% assign school = school | append: ' · ' | append: e.score %}
-    {% endif %}
-    {% assign thesis = e.courses | join: ' ' %}
-    {% include resume/entry.liquid start=e.startDate end=e.endDate location=e.location title=degree url=e.url org=school summary=thesis %}
+    {% include resume/entry.liquid start=e.startDate end=e.endDate location=e.location title=degree url=e.url org=e.institution %}
   {% endfor %}
 </ul>
