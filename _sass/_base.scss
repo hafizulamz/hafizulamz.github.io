@@ -404,7 +404,11 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2.5rem;
+
+    @media (max-width: 575.98px) {
+      font-size: 2rem;
+    }
 
     a {
       i::before {
