@@ -74,8 +74,7 @@ layout: default
         {% for key in site.jsonresume %}
           {% assign section = site.data.resume[key] %}
           {% if key == 'basics' or section == null or section.size == 0 %} {% continue %} {% endif %}
-          <a class="anchor" id="{{ key }}"></a>
-          <h2 class="section-heading{% if first_section %} first{% endif %}">{{ key }}</h2>
+          <h2 class="section-heading{% if first_section %} first{% endif %}">{{ key | replace: '_', ' ' }}</h2>
           {% assign first_section = false %}
           {% case key %}
             {% when 'education' %}
@@ -100,6 +99,10 @@ layout: default
               {% include resume/certificates.liquid %}
             {% when 'references' %}
               {% include resume/references.liquid %}
+            {% when 'teaching' %}
+              {% include resume/teaching.liquid %}
+            {% else %}
+              {% include resume/entries.liquid %}
           {% endcase %}
         {% endfor %}
       </div>

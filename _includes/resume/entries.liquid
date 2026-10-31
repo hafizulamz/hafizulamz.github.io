@@ -1,0 +1,7 @@
+{% comment %} sections beyond the JSON Resume schema (funding, talks, service…), kept in file order {% endcomment %}
+<ul class="cv-list">
+  {% for e in section %}
+    {% assign left = e.date | default: e.label %}
+    {% include resume/entry.liquid start=e.startDate end=e.endDate date=left location=e.location title=e.title url=e.url org=e.org summary=e.summary items=e.highlights %}
+  {% endfor %}
+</ul>

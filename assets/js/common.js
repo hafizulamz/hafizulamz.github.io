@@ -26,8 +26,10 @@ $(document).ready(function () {
     var navSelector = "#toc-sidebar";
     var $myNav = $(navSelector);
     Toc.init($myNav);
+    // headings stop 66px down (scroll-margin-top, clear of the fixed navbar), so switch a little below that
     $("body").scrollspy({
       target: navSelector,
+      offset: 80,
     });
   }
 
