@@ -1,13 +1,44 @@
 {% if site.enable_google_analytics %}
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      window.dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', '{{ site.google_analytics }}');
+    // visit any page with ?notrack once to keep this browser out of the stats (the owner's own visits); ?track undoes it
+    (function () {
+      const params = new URLSearchParams(location.search);
+      let skip = params.has('notrack');
+      const toggled = skip || params.has('track');
+      try {
+        if (params.has('notrack')) {
+          localStorage.setItem('notrack', '1');
+          alert('Analytics off: visits from this browser will not be counted.');
+        } else if (params.has('track')) {
+          localStorage.removeItem('notrack');
+          alert('Analytics on: visits from this browser will be counted again.');
+        }
+      } catch (e) {}
+      if (toggled) {
+        // drop the switch from the address bar so it isn't copied into shared links
+        params.delete('notrack');
+        params.delete('track');
+        const query = params.toString();
+        history.replaceState(null, '', location.pathname + (query ? '?' + query : '') + location.hash);
+      }
+
+      try {
+        skip = skip || localStorage.getItem('notrack') === '1';
+      } catch (e) {}
+      if (skip) return;
+
+      const script = document.createElement('script');
+      script.async = true;
+      script.src = 'https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}';
+      document.head.appendChild(script);
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function () {
+        window.dataLayer.push(arguments);
+      };
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}');
+    })();
   </script>
 {% endif %}
 {% if site.enable_cronitor_analytics %}
