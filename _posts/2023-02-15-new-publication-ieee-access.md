@@ -3,7 +3,7 @@ layout: post
 title: New publication in IEEE Access
 date: 2023-02-15 09:30:15
 description:
-tags: publication, information extraction, slr
+tags: publication information-extraction slr
 categories:
 ---
 

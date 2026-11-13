@@ -3,7 +3,7 @@ layout: post
 title: Invitation to the 22nd International STEM & Innovation Virtual Colloquium Series (ISICS)
 date: 2025-04-16 20:46:35
 description: STEM Virtual Colloquium
-tags: stem, knowledge sharing, colloquium
+tags: stem knowledge-sharing colloquium
 categories:
 ---
 

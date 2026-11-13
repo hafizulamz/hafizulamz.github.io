@@ -2,7 +2,7 @@
 layout: post
 title: How the brain works? (Layman’s term)
 date: 2017-11-17 06:19:16
-tags: researcher, brain
+tags: researcher brain
 ---
 
 Currently, I am working in spiking neural networks — the third generation of neural networks — which are designed to behave and process information the way a human brain does.

@@ -3,7 +3,7 @@ layout: post
 title: bebai sungguh hang ni!
 date: 2022-06-01 06:19:16
 description: menerangkan siapa itu 'researcher' dalam Bahasa Melayu yang mudah
-tags: researcher, definition
+tags: researcher definition
 categories:
 ---
 
