@@ -526,6 +526,14 @@ footer.sticky-bottom {
 // CV
 
 // CV header links: download and related pages, dot-separated like the publication links
+// event posters in blog posts: tall images, so keep them to a modest centred column instead of the full text width
+img.poster {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  margin: 1.5rem auto 2rem;
+}
+
 // CV header: one filled button for the PDF, then the related pages as plain links
 .cv-actions {
   display: flex;
