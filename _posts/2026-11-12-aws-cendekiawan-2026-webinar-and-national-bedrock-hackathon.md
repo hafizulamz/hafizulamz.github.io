@@ -3,7 +3,7 @@ layout: post
 title: "AWS CendekiAwan 2026: free webinar and National Bedrock Hackathon for UTAR students"
 date: 2026-11-12 17:00:00 +0800
 description: learn generative AI with PartyRock, form a team of five and compete for an RM10,000 prize pool for UTAR teams
-tags: aws, generative ai, hackathon, partyrock, bedrock
+tags: aws generative-ai hackathon partyrock bedrock
 categories:
 ---
 
