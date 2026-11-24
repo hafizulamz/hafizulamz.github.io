@@ -337,17 +337,18 @@ horizontal: false
     </div>
 
     <!-- Collapsible Header for Courses/Workshops -->
-    <a class="accordion-toggle" data-toggle="collapse" href="#collapseCourses" role="button" aria-expanded="false" aria-controls="collapseCourses">
+    <a class="accordion-toggle" data-toggle="collapse" href="#collapseCourses" role="button" aria-expanded="true" aria-controls="collapseCourses">
       <h3 class="accordion-title">courses and workshops conducted</h3>
       <i class="fa-solid fa-chevron-down accordion-icon" aria-hidden="true"></i>
     </a>
 
     <!-- Collapsible Content for Courses/Workshops -->
-    <div class="collapse" id="collapseCourses">
+    <div class="collapse show" id="collapseCourses">
       <!-- Content for UTAR Courses/Workshops to be added here. -->
       <div class="row mt-3">
         <div class="col-sm mt-3 mt-md-0">
           <ul>
+            <li>“Power BI Essentials: Driving Decisions with Data” for the Short-term Mobility Study Programme – Artificial Intelligence, Information Technology & Malaysian Cultural Immersion Training for Nanning Normal University, China (Nov 2026).</li>
             <li>An Exploratory Business Intelligence Course using PowerBI for Non-Technical Personnel, UTAR (May 2026).</li>
             <li>Business Analytics using Power BI for Management and Humanities Department, UTP (July 2022).</li>
             <li>KPT-PENJANA 3.0: Master the Basics of Big Data, AI, and ML for Tomorrow's Workforce (May 2022).</li>
